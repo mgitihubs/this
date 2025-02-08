@@ -1,0 +1,1363 @@
+Type,Comment,Value
+domain,Vidar botnet C2 domain (confidence level: 100%),updatetroubleunloaded.shop
+url,ClearFake botnet C2 (confidence level: 100%),http://80.64.30.238/trip.psd
+url,ClearFake botnet C2 (confidence level: 50%),http://83.217.208.130/xfiles/trip.mp4
+url,ClearFake botnet C2 (confidence level: 100%),https://updatetroubleunloaded.shop/b313d4a4588bd2e7bc9ece877caba58a.xll
+domain,SpyNote botnet C2 domain (confidence level: 100%),statistics-gates.gl.at.ply.gg
+domain,SpyNote botnet C2 domain (confidence level: 100%),espada1233123-54643.portmap.host
+domain,SpyNote botnet C2 domain (confidence level: 100%),gii-55854.portmap.host
+ip-dst|port,SpyNote botnet C2 server (confidence level: 100%),193.161.193.99|52354
+url,SpyNote botnet C2 (confidence level: 100%),https://2040-176-98-70-125.ngrok-free.app
+url,Coper botnet C2 (confidence level: 100%),https://whisperingvale.xyz/yte5mzq1zwrkzjy1/
+url,Coper botnet C2 (confidence level: 100%),https://firestormsite.xyz/mzzkntlintu4ndhl/
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),103.186.117.39|9373
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),37.120.151.102|2404
+ip-dst|port,Sliver botnet C2 server (confidence level: 100%),94.237.94.250|4443
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),186.169.52.131|8092
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),62.182.85.200|7707
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),78.179.128.55|1000
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),78.179.128.55|2003
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),38.85.247.159|8808
+domain,Havoc botnet C2 domain (confidence level: 100%),accounts3.app-cloud.link
+ip-dst|port,Venom RAT botnet C2 server (confidence level: 100%),195.177.94.54|80
+ip-dst|port,DCRat botnet C2 server (confidence level: 100%),46.246.80.6|8000
+ip-dst|port,DCRat botnet C2 server (confidence level: 100%),46.246.82.6|9000
+ip-dst|port,DCRat botnet C2 server (confidence level: 100%),201.220.174.16|99
+ip-dst|port,NetSupportManager RAT botnet C2 server (confidence level: 100%),54.167.31.58|5060
+ip-dst|port,NetSupportManager RAT botnet C2 server (confidence level: 100%),54.167.31.58|13210
+ip-dst|port,MimiKatz botnet C2 server (confidence level: 100%),168.63.17.64|8000
+domain,Unknown malware botnet C2 domain (confidence level: 100%),ip115.ip-51-81-104.us
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),20.74.209.192|8444
+ip-dst|port,Bashlite botnet C2 server (confidence level: 75%),5.34.214.137|4258
+domain,NjRAT botnet C2 domain (confidence level: 75%),hextoriq99.ddns.net
+url,DCRat botnet C2 (confidence level: 100%),http://cg79561.tw1.ru/l1nc0in.php
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),193.150.70.7|80
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),112.125.88.176|443
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),66.248.206.163|2404
+ip-dst|port,Sliver botnet C2 server (confidence level: 100%),23.227.199.110|31337
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),64.185.233.166|8688
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),207.244.238.106|6606
+ip-dst|port,Hook botnet C2 server (confidence level: 100%),176.65.134.52|80
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),139.180.146.92|443
+domain,Havoc botnet C2 domain (confidence level: 100%),bfa.ae
+ip-dst|port,DCRat botnet C2 server (confidence level: 100%),94.156.167.86|2000
+ip-dst|port,NetSupportManager RAT botnet C2 server (confidence level: 100%),95.111.205.82|19569
+ip-dst|port,ERMAC botnet C2 server (confidence level: 100%),176.65.144.131|80
+domain,Cobalt Strike botnet C2 domain (confidence level: 100%),sophoscore.com
+ip-dst|port,Sliver botnet C2 server (confidence level: 90%),23.227.199.110|443
+domain,Unknown malware botnet C2 domain (confidence level: 100%),www.quadriosoulfood.shop
+domain,Unknown malware botnet C2 domain (confidence level: 100%),www.universalfeelz.shop
+domain,Unknown malware botnet C2 domain (confidence level: 100%),195-230-22-20.cprapid.com
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),47.108.227.114|8081
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),110.40.51.52|60000
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),119.3.235.195|60000
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),176.28.89.39|3333
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),51.75.20.62|3333
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),109.248.160.66|3333
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),34.57.177.32|443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),52.51.18.211|443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),142.93.201.209|443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),89.116.191.215|8080
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),198.211.114.222|3333
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),57.129.70.62|443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),104.248.37.23|3333
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),35.222.69.159|443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),16.171.178.228|8080
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),43.216.107.102|4444
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),3.129.99.58|8443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),174.136.229.54|8080
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),172.200.213.225|8443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),74.249.56.170|4444
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),103.169.3.162|443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),100.20.31.172|80
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),65.108.214.198|3333
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),185.82.218.150|8443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),167.71.91.74|3333
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),18.197.6.34|80
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),18.197.6.34|443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),3.79.233.6|3333
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),159.223.158.119|3333
+ip-dst|port,Bashlite botnet C2 server (confidence level: 75%),45.90.12.129|31130
+domain,SmokeLoader botnet C2 domain (confidence level: 100%),prolinice.ga
+domain,SmokeLoader botnet C2 domain (confidence level: 100%),vilendar.ga
+ip-dst|port,SmokeLoader botnet C2 server (confidence level: 75%),46.173.214.14|80
+url,Vidar botnet C2 (confidence level: 100%),https://updatetroubleunloaded.shop/b313d4a4588bd2e7bc9ece877caba58a.png
+ip-dst|port,NetSupportManager RAT botnet C2 server (confidence level: 50%),142.161.78.123|2379
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 50%),115.231.13.225|8989
+domain,Remcos botnet C2 domain (confidence level: 100%),sweetnessofbestthingsgivenbest.duckdns.org
+url,Hook botnet C2 (confidence level: 50%),http://176.65.134.52/
+url,Vidar botnet C2 (confidence level: 100%),http://83.217.208.130/xfiles/vida.mp3
+domain,AsyncRAT botnet C2 domain (confidence level: 50%),ftp.qurvegraphics.com
+url,Phorpiex botnet C2 (confidence level: 50%),http://eiisisiysjsifefi.net/
+url,Phorpiex botnet C2 (confidence level: 50%),http://eiisisiysjsifei.ru/
+url,Phorpiex botnet C2 (confidence level: 50%),http://eiisisiysjsifeiei.su/
+url,Phorpiex botnet C2 (confidence level: 50%),http://eiisisiysjsifihef.com/
+url,Phorpiex botnet C2 (confidence level: 50%),http://eiisisiysjsifsihg.in/
+url,Phorpiex botnet C2 (confidence level: 50%),http://eiisisiysjsifsihgau.info/
+url,Phorpiex botnet C2 (confidence level: 50%),http://eiisisiysjsifsrigh.biz/
+url,Phorpiex botnet C2 (confidence level: 50%),http://iefigjgdidisiefi.net/
+url,Phorpiex botnet C2 (confidence level: 50%),http://iefigjgdidisiei.ru/
+url,Phorpiex botnet C2 (confidence level: 50%),http://iefigjgdidisieiei.su/
+url,Phorpiex botnet C2 (confidence level: 50%),http://iefigjgdidisiihef.com/
+url,Phorpiex botnet C2 (confidence level: 50%),http://iefigjgdidisisihg.in/
+url,Phorpiex botnet C2 (confidence level: 50%),http://iefigjgdidisisihgau.info/
+url,Phorpiex botnet C2 (confidence level: 50%),http://iefigjgdidisisrigh.biz/
+url,Phorpiex botnet C2 (confidence level: 50%),http://inigbiseijfjiefi.net/
+url,Phorpiex botnet C2 (confidence level: 50%),http://inigbiseijfjiei.ru/
+url,Phorpiex botnet C2 (confidence level: 50%),http://inigbiseijfjieiei.su/
+url,Phorpiex botnet C2 (confidence level: 50%),http://inigbiseijfjiihef.com/
+url,Phorpiex botnet C2 (confidence level: 50%),http://inigbiseijfjisihg.in/
+url,Phorpiex botnet C2 (confidence level: 50%),http://inigbiseijfjisihgau.info/
+url,Phorpiex botnet C2 (confidence level: 50%),http://inigbiseijfjisrigh.biz/
+url,Phorpiex botnet C2 (confidence level: 50%),http://iriototooeuwoefi.net/
+url,Phorpiex botnet C2 (confidence level: 50%),http://iriototooeuwoei.ru/
+url,Phorpiex botnet C2 (confidence level: 50%),http://iriototooeuwoeiei.su/
+url,Phorpiex botnet C2 (confidence level: 50%),http://iriototooeuwoihef.com/
+url,Phorpiex botnet C2 (confidence level: 50%),http://iriototooeuwosihg.in/
+url,Phorpiex botnet C2 (confidence level: 50%),http://iriototooeuwosihgau.info/
+url,Phorpiex botnet C2 (confidence level: 50%),http://iriototooeuwosrigh.biz/
+url,Phorpiex botnet C2 (confidence level: 50%),http://iugouehoeohfhefi.net/
+url,Phorpiex botnet C2 (confidence level: 50%),http://iugouehoeohfhei.ru/
+url,Phorpiex botnet C2 (confidence level: 50%),http://iugouehoeohfheiei.su/
+url,Phorpiex botnet C2 (confidence level: 50%),http://iugouehoeohfhihef.com/
+url,Phorpiex botnet C2 (confidence level: 50%),http://iugouehoeohfhsihg.in/
+url,Phorpiex botnet C2 (confidence level: 50%),http://iugouehoeohfhsihgau.info/
+url,Phorpiex botnet C2 (confidence level: 50%),http://iugouehoeohfhsrigh.biz/
+url,Phorpiex botnet C2 (confidence level: 50%),http://nkihigheogojgefi.net/
+url,Phorpiex botnet C2 (confidence level: 50%),http://nkihigheogojgei.ru/
+url,Phorpiex botnet C2 (confidence level: 50%),http://nkihigheogojgeiei.su/
+url,Phorpiex botnet C2 (confidence level: 50%),http://nkihigheogojgihef.com/
+url,Phorpiex botnet C2 (confidence level: 50%),http://nkihigheogojgsihg.in/
+url,Phorpiex botnet C2 (confidence level: 50%),http://nkihigheogojgsihgau.info/
+url,Phorpiex botnet C2 (confidence level: 50%),http://nkihigheogojgsrigh.biz/
+url,Phorpiex botnet C2 (confidence level: 50%),http://ouegouehousehefi.net/
+url,Phorpiex botnet C2 (confidence level: 50%),http://ouegouehousehei.ru/
+url,Phorpiex botnet C2 (confidence level: 50%),http://ouegouehouseheiei.su/
+url,Phorpiex botnet C2 (confidence level: 50%),http://ouegouehousehihef.com/
+url,Phorpiex botnet C2 (confidence level: 50%),http://ouegouehousehsihg.in/
+url,Phorpiex botnet C2 (confidence level: 50%),http://ouegouehousehsihgau.info/
+url,Phorpiex botnet C2 (confidence level: 50%),http://ouegouehousehsrigh.biz/
+url,Phorpiex botnet C2 (confidence level: 50%),http://riifndisojdojefi.net/
+url,Phorpiex botnet C2 (confidence level: 50%),http://riifndisojdojei.ru/
+url,Phorpiex botnet C2 (confidence level: 50%),http://riifndisojdojeiei.su/
+url,Phorpiex botnet C2 (confidence level: 50%),http://riifndisojdojihef.com/
+url,Phorpiex botnet C2 (confidence level: 50%),http://riifndisojdojsihg.in/
+url,Phorpiex botnet C2 (confidence level: 50%),http://riifndisojdojsihgau.info/
+url,Phorpiex botnet C2 (confidence level: 50%),http://riifndisojdojsrigh.biz/
+url,Phorpiex botnet C2 (confidence level: 50%),http://udunfjgussiidefi.net/
+url,Phorpiex botnet C2 (confidence level: 50%),http://udunfjgussiidei.ru/
+url,Phorpiex botnet C2 (confidence level: 50%),http://udunfjgussiideiei.su/
+url,Phorpiex botnet C2 (confidence level: 50%),http://udunfjgussiidihef.com/
+url,Phorpiex botnet C2 (confidence level: 50%),http://udunfjgussiidsihg.in/
+url,Phorpiex botnet C2 (confidence level: 50%),http://udunfjgussiidsihgau.info/
+url,Phorpiex botnet C2 (confidence level: 50%),http://udunfjgussiidsrigh.biz/
+url,Phorpiex botnet C2 (confidence level: 50%),http://ugoheoheufefuefi.net/
+url,Phorpiex botnet C2 (confidence level: 50%),http://ugoheoheufefuei.ru/
+url,Phorpiex botnet C2 (confidence level: 50%),http://ugoheoheufefueiei.su/
+url,Phorpiex botnet C2 (confidence level: 50%),http://ugoheoheufefuihef.com/
+url,Phorpiex botnet C2 (confidence level: 50%),http://ugoheoheufefusihg.in/
+url,Phorpiex botnet C2 (confidence level: 50%),http://ugoheoheufefusihgau.info/
+url,Phorpiex botnet C2 (confidence level: 50%),http://ugoheoheufefusrigh.biz/
+domain,Phorpiex botnet C2 domain (confidence level: 50%),eiisisiysjsifefi.net
+domain,Phorpiex botnet C2 domain (confidence level: 50%),eiisisiysjsifei.ru
+domain,Phorpiex botnet C2 domain (confidence level: 50%),eiisisiysjsifeiei.su
+domain,Phorpiex botnet C2 domain (confidence level: 50%),eiisisiysjsifsihg.in
+domain,Phorpiex botnet C2 domain (confidence level: 50%),eiisisiysjsifsihgau.info
+domain,Phorpiex botnet C2 domain (confidence level: 50%),eiisisiysjsifsrigh.biz
+domain,Phorpiex botnet C2 domain (confidence level: 50%),iefigjgdidisiefi.net
+domain,Phorpiex botnet C2 domain (confidence level: 50%),iefigjgdidisiei.ru
+domain,Phorpiex botnet C2 domain (confidence level: 50%),iefigjgdidisieiei.su
+domain,Phorpiex botnet C2 domain (confidence level: 50%),iefigjgdidisiihef.com
+domain,Phorpiex botnet C2 domain (confidence level: 50%),iefigjgdidisisihg.in
+domain,Phorpiex botnet C2 domain (confidence level: 50%),iefigjgdidisisihgau.info
+domain,Phorpiex botnet C2 domain (confidence level: 50%),iefigjgdidisisrigh.biz
+domain,Phorpiex botnet C2 domain (confidence level: 50%),inigbiseijfjiefi.net
+domain,Phorpiex botnet C2 domain (confidence level: 50%),inigbiseijfjiei.ru
+domain,Phorpiex botnet C2 domain (confidence level: 50%),inigbiseijfjieiei.su
+domain,Phorpiex botnet C2 domain (confidence level: 50%),inigbiseijfjiihef.com
+domain,Phorpiex botnet C2 domain (confidence level: 50%),inigbiseijfjisihg.in
+domain,Phorpiex botnet C2 domain (confidence level: 50%),inigbiseijfjisihgau.info
+domain,Phorpiex botnet C2 domain (confidence level: 50%),inigbiseijfjisrigh.biz
+domain,Phorpiex botnet C2 domain (confidence level: 50%),iriototooeuwoefi.net
+domain,Phorpiex botnet C2 domain (confidence level: 50%),iriototooeuwoei.ru
+domain,Phorpiex botnet C2 domain (confidence level: 50%),iriototooeuwoeiei.su
+domain,Phorpiex botnet C2 domain (confidence level: 50%),iriototooeuwoihef.com
+domain,Phorpiex botnet C2 domain (confidence level: 50%),iriototooeuwosihg.in
+domain,Phorpiex botnet C2 domain (confidence level: 50%),iriototooeuwosihgau.info
+domain,Phorpiex botnet C2 domain (confidence level: 50%),iriototooeuwosrigh.biz
+domain,Phorpiex botnet C2 domain (confidence level: 50%),iugouehoeohfhefi.net
+domain,Phorpiex botnet C2 domain (confidence level: 50%),iugouehoeohfhei.ru
+domain,Phorpiex botnet C2 domain (confidence level: 50%),iugouehoeohfheiei.su
+domain,Phorpiex botnet C2 domain (confidence level: 50%),iugouehoeohfhihef.com
+domain,Phorpiex botnet C2 domain (confidence level: 50%),iugouehoeohfhsihg.in
+domain,Phorpiex botnet C2 domain (confidence level: 50%),iugouehoeohfhsihgau.info
+domain,Phorpiex botnet C2 domain (confidence level: 50%),iugouehoeohfhsrigh.biz
+domain,Phorpiex botnet C2 domain (confidence level: 50%),nkihigheogojgefi.net
+domain,Phorpiex botnet C2 domain (confidence level: 50%),nkihigheogojgei.ru
+domain,Phorpiex botnet C2 domain (confidence level: 50%),nkihigheogojgeiei.su
+domain,Phorpiex botnet C2 domain (confidence level: 50%),nkihigheogojgihef.com
+domain,Phorpiex botnet C2 domain (confidence level: 50%),nkihigheogojgsihg.in
+domain,Phorpiex botnet C2 domain (confidence level: 50%),nkihigheogojgsihgau.info
+domain,Phorpiex botnet C2 domain (confidence level: 50%),ouegouehousehefi.net
+domain,Phorpiex botnet C2 domain (confidence level: 50%),ouegouehousehei.ru
+domain,Phorpiex botnet C2 domain (confidence level: 50%),ouegouehouseheiei.su
+domain,Phorpiex botnet C2 domain (confidence level: 50%),ouegouehousehihef.com
+domain,Phorpiex botnet C2 domain (confidence level: 50%),ouegouehousehsihg.in
+domain,Phorpiex botnet C2 domain (confidence level: 50%),ouegouehousehsihgau.info
+domain,Phorpiex botnet C2 domain (confidence level: 50%),ouegouehousehsrigh.biz
+domain,Phorpiex botnet C2 domain (confidence level: 50%),riifndisojdojefi.net
+domain,Phorpiex botnet C2 domain (confidence level: 50%),riifndisojdojei.ru
+domain,Phorpiex botnet C2 domain (confidence level: 50%),riifndisojdojeiei.su
+domain,Phorpiex botnet C2 domain (confidence level: 50%),riifndisojdojihef.com
+domain,Phorpiex botnet C2 domain (confidence level: 50%),riifndisojdojsihg.in
+domain,Phorpiex botnet C2 domain (confidence level: 50%),riifndisojdojsihgau.info
+domain,Phorpiex botnet C2 domain (confidence level: 50%),udunfjgussiidefi.net
+domain,Phorpiex botnet C2 domain (confidence level: 50%),udunfjgussiidei.ru
+domain,Phorpiex botnet C2 domain (confidence level: 50%),udunfjgussiideiei.su
+domain,Phorpiex botnet C2 domain (confidence level: 50%),udunfjgussiidihef.com
+domain,Phorpiex botnet C2 domain (confidence level: 50%),udunfjgussiidsihg.in
+domain,Phorpiex botnet C2 domain (confidence level: 50%),udunfjgussiidsihgau.info
+domain,Phorpiex botnet C2 domain (confidence level: 50%),udunfjgussiidsrigh.biz
+domain,Phorpiex botnet C2 domain (confidence level: 50%),ugoheoheufefuefi.net
+domain,Phorpiex botnet C2 domain (confidence level: 50%),ugoheoheufefuei.ru
+domain,Phorpiex botnet C2 domain (confidence level: 50%),ugoheoheufefueiei.su
+domain,Phorpiex botnet C2 domain (confidence level: 50%),ugoheoheufefuihef.com
+domain,Phorpiex botnet C2 domain (confidence level: 50%),ugoheoheufefusihg.in
+domain,Phorpiex botnet C2 domain (confidence level: 50%),ugoheoheufefusihgau.info
+domain,Phorpiex botnet C2 domain (confidence level: 50%),ugoheoheufefusrigh.biz
+domain,Remcos botnet C2 domain (confidence level: 50%),abokirem.duckdns.org
+domain,Remcos botnet C2 domain (confidence level: 50%),boot1.zapto.org
+ip-dst|port,Tofsee botnet C2 server (confidence level: 50%),103.248.137.133|465
+ip-dst|port,Tofsee botnet C2 server (confidence level: 50%),111.121.193.242|465
+ip-dst|port,Tofsee botnet C2 server (confidence level: 50%),123.249.0.22|465
+domain,Formbook botnet C2 domain (confidence level: 50%),0532sme.com
+domain,Formbook botnet C2 domain (confidence level: 50%),360-nft.com
+domain,Formbook botnet C2 domain (confidence level: 50%),areowed.site
+domain,Formbook botnet C2 domain (confidence level: 50%),battene.com
+domain,Formbook botnet C2 domain (confidence level: 50%),bienvenidomiami.com
+domain,Formbook botnet C2 domain (confidence level: 50%),coloradopadelclub.com
+domain,Formbook botnet C2 domain (confidence level: 50%),corefina.com
+domain,Formbook botnet C2 domain (confidence level: 50%),crossfitlaquila.com
+domain,Formbook botnet C2 domain (confidence level: 50%),cybitt.com
+domain,Formbook botnet C2 domain (confidence level: 50%),de7secondenglimlach.com
+domain,Formbook botnet C2 domain (confidence level: 50%),directbizlending.xyz
+domain,Formbook botnet C2 domain (confidence level: 50%),directoriobid.com
+domain,Formbook botnet C2 domain (confidence level: 50%),doubledotts.com
+domain,Formbook botnet C2 domain (confidence level: 50%),dynamicmetalbuildings.com
+domain,Formbook botnet C2 domain (confidence level: 50%),e-volutionsf.com
+domain,Formbook botnet C2 domain (confidence level: 50%),edmontonfoundationrepair.net
+domain,Formbook botnet C2 domain (confidence level: 50%),fimacusa.net
+domain,Formbook botnet C2 domain (confidence level: 50%),findkode.com
+domain,Formbook botnet C2 domain (confidence level: 50%),foodieonline.club
+domain,Formbook botnet C2 domain (confidence level: 50%),gdpyy.com
+domain,Formbook botnet C2 domain (confidence level: 50%),gfgoldgroup.com
+domain,Formbook botnet C2 domain (confidence level: 50%),goldendtatedermatology.com
+domain,Formbook botnet C2 domain (confidence level: 50%),ike-design.com
+domain,Formbook botnet C2 domain (confidence level: 50%),impossiblemachinelearning.com
+domain,Formbook botnet C2 domain (confidence level: 50%),informasivalid.com
+domain,Formbook botnet C2 domain (confidence level: 50%),khaijd.com
+domain,Formbook botnet C2 domain (confidence level: 50%),learniebee.com
+domain,Formbook botnet C2 domain (confidence level: 50%),leogaeofkingdoms.com
+domain,Formbook botnet C2 domain (confidence level: 50%),lookloc.xyz
+domain,Formbook botnet C2 domain (confidence level: 50%),mevst.com
+domain,Formbook botnet C2 domain (confidence level: 50%),modellinghacks.com
+domain,Formbook botnet C2 domain (confidence level: 50%),onlinecoursesin.com
+domain,Formbook botnet C2 domain (confidence level: 50%),onlinecryptoarbitrage.com
+domain,Formbook botnet C2 domain (confidence level: 50%),overworld.site
+domain,Formbook botnet C2 domain (confidence level: 50%),pettigestudio.com
+domain,Formbook botnet C2 domain (confidence level: 50%),pickleballgiant.info
+domain,Formbook botnet C2 domain (confidence level: 50%),plaquepsoriasismedcareus.com
+domain,Formbook botnet C2 domain (confidence level: 50%),presumablye.com
+domain,Formbook botnet C2 domain (confidence level: 50%),reversedwarbler.com
+domain,Formbook botnet C2 domain (confidence level: 50%),riosenpodo.quest
+domain,Formbook botnet C2 domain (confidence level: 50%),sculpturen.xyz
+domain,Formbook botnet C2 domain (confidence level: 50%),shamesupportclock.life
+domain,Formbook botnet C2 domain (confidence level: 50%),shopcycles3.com
+domain,Formbook botnet C2 domain (confidence level: 50%),signalcharlie.store
+domain,Formbook botnet C2 domain (confidence level: 50%),sporerindividual.com
+domain,Formbook botnet C2 domain (confidence level: 50%),strongdigits.com
+domain,Formbook botnet C2 domain (confidence level: 50%),syzbf15.xyz
+domain,Formbook botnet C2 domain (confidence level: 50%),taketherubbishout00001136.xyz
+domain,Formbook botnet C2 domain (confidence level: 50%),tfnor.com
+domain,Formbook botnet C2 domain (confidence level: 50%),thesleepercar.com
+domain,Formbook botnet C2 domain (confidence level: 50%),trickwaves.com
+domain,Formbook botnet C2 domain (confidence level: 50%),triplatin.com
+domain,Formbook botnet C2 domain (confidence level: 50%),untilfun.com
+domain,Formbook botnet C2 domain (confidence level: 50%),vandorainvestmentpartners.com
+domain,Formbook botnet C2 domain (confidence level: 50%),vertex-modal.com
+domain,Formbook botnet C2 domain (confidence level: 50%),weddingseopro.com
+domain,Formbook botnet C2 domain (confidence level: 50%),weytek.com
+domain,Formbook botnet C2 domain (confidence level: 50%),winnerjourney.com
+domain,Formbook botnet C2 domain (confidence level: 50%),xe9b5mzzqzez5t.life
+domain,Formbook botnet C2 domain (confidence level: 50%),xuemengyc.com
+domain,Formbook botnet C2 domain (confidence level: 50%),xyypjq.xyz
+domain,Formbook botnet C2 domain (confidence level: 50%),ydshine.com
+domain,Formbook botnet C2 domain (confidence level: 50%),ziyuechloezhang.com
+url,Formbook botnet C2 (confidence level: 50%),http://www.0532sme.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.360-nft.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.areowed.site/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.battene.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.bienvenidomiami.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.coloradopadelclub.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.corefina.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.crossfitlaquila.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.cybitt.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.de7secondenglimlach.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.directbizlending.xyz/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.directoriobid.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.doubledotts.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.driveubertexas.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.dynamicmetalbuildings.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.e-volutionsf.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.edmontonfoundationrepair.net/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.electrosle.xyz/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.fimacusa.net/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.findkode.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.foodieonline.club/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.gdpyy.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.gfgoldgroup.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.goldendtatedermatology.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.ike-design.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.impossiblemachinelearning.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.informasivalid.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.khaijd.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.learniebee.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.leogaeofkingdoms.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.lookloc.xyz/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.mevst.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.modellinghacks.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.onlinecoursesin.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.onlinecryptoarbitrage.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.overworld.site/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.pettigestudio.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.pickleballgiant.info/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.plaquepsoriasismedcareus.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.presumablye.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.reversedwarbler.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.riosenpodo.quest/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.sculpturen.xyz/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.shamesupportclock.life/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.shopcycles3.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.signalcharlie.store/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.sporerindividual.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.strongdigits.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.syzbf15.xyz/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.taketherubbishout00001136.xyz/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.tfnor.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.thesleepercar.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.trickwaves.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.triplatin.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.untilfun.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.vandorainvestmentpartners.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.vertex-modal.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.weddingseopro.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.weytek.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.winnerjourney.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.xe9b5mzzqzez5t.life/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.xuemengyc.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.xyypjq.xyz/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.ydshine.com/n8it/
+url,Formbook botnet C2 (confidence level: 50%),http://www.ziyuechloezhang.com/n8it/
+domain,Lumma Stealer botnet C2 domain (confidence level: 50%),dwriftycloud.pics
+domain,FAKEUPDATES botnet C2 domain (confidence level: 50%),support.myfirstdealplaybook.com
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),114.55.144.191|80
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),117.78.2.10|80
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),192.3.146.173|443
+ip-dst|port,pupy botnet C2 server (confidence level: 100%),67.217.228.234|443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),64.185.233.164|8688
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),2.58.56.94|111
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),62.182.85.200|6606
+ip-dst|port,Venom RAT botnet C2 server (confidence level: 100%),38.180.146.4|4449
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),195.230.22.20|80
+ip-dst|port,ERMAC botnet C2 server (confidence level: 100%),94.103.125.184|8080
+ip-dst|port,MimiKatz botnet C2 server (confidence level: 100%),42.200.212.151|8080
+ip-dst|port,BianLian botnet C2 server (confidence level: 100%),88.212.241.105|993
+domain,Vidar botnet C2 domain (confidence level: 100%),vikine.rest
+url,Vidar botnet C2 (confidence level: 100%),https://vikine.rest/
+domain,NetSupportManager RAT botnet C2 domain (confidence level: 100%),apouttv28.com
+domain,NetSupportManager RAT botnet C2 domain (confidence level: 100%),amnahuseta19.com
+domain,NetSupportManager RAT botnet C2 domain (confidence level: 100%),amnahuseta20.com
+url,XWorm payload delivery URL (confidence level: 100%),http://caymanluxurycars.com/81v2
+url,XWorm payload delivery URL (confidence level: 100%),http://barleyjack.com/rvb2
+url,XWorm payload delivery URL (confidence level: 100%),https://secureverifys.com/
+url,XWorm payload delivery URL (confidence level: 100%),https://antiquebotv3.com/
+domain,XWorm payload delivery domain (confidence level: 100%),secureverifys.com
+domain,XWorm payload delivery domain (confidence level: 100%),antiquebotv3.com
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),119.91.203.199|88
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),198.23.136.133|8888
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),8.134.254.129|81
+ip-dst|port,Sliver botnet C2 server (confidence level: 75%),87.120.115.229|8888
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://eteherealpath.top/api
+md5,BianLian payload (confidence level: 50%),36171704cde087f839b10c2465d864e1
+md5,BianLian payload (confidence level: 50%),d10e0387e3d55dc1f82c23719e2b168b
+md5,BianLian payload (confidence level: 50%),0c756fc8f34e409650cd910b5e2a3f00
+md5,BianLian payload (confidence level: 50%),b3cdf0489ff37fe65141be9363b9489c
+md5,BianLian payload (confidence level: 50%),08e76dd242e64bb31aec09db8464b28f
+md5,BianLian payload (confidence level: 50%),14da9c0c4e3ac3b9abb2c48b37bece19
+md5,BianLian payload (confidence level: 50%),15cdfa777aa2db35229410d2fa9fb92e
+md5,BianLian payload (confidence level: 50%),7be61ea851f894d26bf57cf0f1f55ed6
+md5,BianLian payload (confidence level: 50%),e625ef18487a37a71b489d39c65a343a
+md5,BianLian payload (confidence level: 50%),de1c126af5134155646367feae0bc84a
+url,Unknown malware botnet C2 (confidence level: 100%),https://bottlebite.icu/art.php
+domain,Unknown malware botnet C2 domain (confidence level: 100%),bottlebite.icu
+url,Unknown malware botnet C2 (confidence level: 100%),https://pricetrain.icu/art.php
+domain,Unknown malware botnet C2 domain (confidence level: 100%),pricetrain.icu
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://freshideastop.top/api
+domain,Unknown RAT botnet C2 domain (confidence level: 100%),especially-religions.gl.at.ply.gg
+url,Unknown malware botnet C2 (confidence level: 100%),https://birthdayalarm.icu/art.php
+url,Unknown malware botnet C2 (confidence level: 100%),https://instrumentreason.icu/art.php
+url,Unknown malware botnet C2 (confidence level: 100%),https://educationhill.xyz/art.php
+url,Unknown malware botnet C2 (confidence level: 100%),https://collartin.icu/art.php
+domain,ClearFake payload delivery domain (confidence level: 100%),check.esscv.tech
+url,ClearFake payload delivery URL (confidence level: 100%),https://check.esscv.tech/gkcxv.google
+url,ClearFake payload delivery URL (confidence level: 100%),https://check.uhxkj.space/gkcxv.google
+domain,ClearFake payload delivery domain (confidence level: 100%),check.uhxkj.space
+url,Cobalt Strike botnet C2 (confidence level: 75%),http://192.168.195.128:443/yakx
+url,DCRat botnet C2 (confidence level: 100%),http://454431cm.n9sh.top/vmhttpcpuapiprotectdefaulttestwordpressuploads.php
+domain,CryptBot botnet C2 domain (confidence level: 100%),fivehh5pn.top
+domain,CryptBot botnet C2 domain (confidence level: 100%),elvngg11sb.top
+domain,DCRat botnet C2 domain (confidence level: 100%),cg79561.tw1.ru
+domain,DCRat botnet C2 domain (confidence level: 100%),qwerty3032.temp.swtest.ru
+domain,DCRat botnet C2 domain (confidence level: 100%),cq38273.tw1.ru
+domain,DCRat botnet C2 domain (confidence level: 100%),epicgramm1.temp.swtest.ru
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),fangyevasive.shop
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),cablecrossedi.shop
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),baoilkye.click
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),avangerresi.click
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),pattyruralk.click
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),testyhurriedo.click
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),decorateballz.click
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),murmurloude.click
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),tramplyfinej.click
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),jitteryresuqi.click
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),thronethurd.click
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),hookylucnh.click
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),enlargeywuz.click
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),gleamingvisir.click
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),sockethingej.click
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),implodehosu.click
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),insultfragie.click
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),hopersmarter.click
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),hissbringer.click
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),applyeasyhz.click
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),leeryspcieu.click
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),noticesulk.click
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),ethnicchos.click
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),boredbeliev.click
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),twinnylogy.click
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),libraryuehd.click
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),scarpsniffy.click
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),candidatersz.cyou
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),dolly10dge.cyou
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),shatt3rhelpfu.cyou
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),playerjur.cyou
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),shelterryhsbj.cyou
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),canva5-belief.cyou
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),capturefann.cyou
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),applicatinyh.cyou
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),clusterbry.cyou
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),currentyelcktv.cyou
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),forcenodder.biz
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),kicky-tap.sbs
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),importenptoc.com
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),actiothreaz.com
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),voicesharped.com
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),hopeefreamed.com
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),nft.megaeth.com
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),breedertremnd.com
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),garulouscuto.com
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),da-reload.cekreport.com
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),r.bestadperf.com
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),inputrreparnt.com
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),rebeldettern.com
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),www.rockefellercenter.com
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),torpdidebar.com
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),spk-pushtanverfahren.com
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),103.56.17.135|80
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),92.38.178.197|80
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),47.119.142.202|80
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),140.143.248.199|8090
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),39.100.64.169|8081
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://kicky-tap.sbs/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://clusterbry.cyou/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://currentyelcktv.cyou/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://applicatinyh.cyou/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://capturefann.cyou/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://canva5-belief.cyou/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://shelterryhsbj.cyou/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://playerjur.cyou/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://shatt3rhelpfu.cyou/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://scarpsniffy.click/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://libraryuehd.click/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://twinnylogy.click/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://boredbeliev.click/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://ethnicchos.click/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://noticesulk.click/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://leeryspcieu.click/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://applyeasyhz.click/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://hissbringer.click/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://hopersmarter.click/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://insultfragie.click/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://implodehosu.click/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://sockethingej.click/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://gleamingvisir.click/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://enlargeywuz.click/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://hookylucnh.click/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://thronethurd.click/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://jitteryresuqi.click/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://tramplyfinej.click/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://murmurloude.click/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://decorateballz.click/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://testyhurriedo.click/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://pattyruralk.click/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://avangerresi.click/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://baoilkye.click/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://cablecrossedi.shop/api
+domain,Quasar RAT botnet C2 domain (confidence level: 100%),usa-east.raptoreum.zone
+url,FAKEUPDATES payload delivery URL (confidence level: 100%),https://divexpo.com/7y6t.js
+domain,FAKEUPDATES payload delivery domain (confidence level: 100%),divexpo.com
+url,FAKEUPDATES payload delivery URL (confidence level: 100%),https://divexpo.com/js.php
+url,FAKEUPDATES payload delivery URL (confidence level: 100%),http://banhiaanlmdhahh.top/1.php
+url,DCRat botnet C2 (confidence level: 100%),http://976794cm.shnyash.ru/processorbigloadasyncdatalifedownloads.php
+url,ClearFake payload delivery URL (confidence level: 100%),https://check.smfd.ink/gkcxv.google
+domain,ClearFake payload delivery domain (confidence level: 100%),check.smfd.ink
+url,ClearFake payload delivery URL (confidence level: 100%),https://check.popp.ink/gkcxv.google
+domain,ClearFake payload delivery domain (confidence level: 100%),check.popp.ink
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),178.73.218.4|2404
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),185.208.156.153|1856
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),51.89.158.68|6606
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),51.89.158.68|7707
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),51.89.158.68|8808
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),102.117.167.122|7443
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),181.162.141.120|8080
+ip-dst|port,Havoc botnet C2 server (confidence level: 100%),34.229.143.231|443
+ip-dst|port,Venom RAT botnet C2 server (confidence level: 100%),91.237.124.226|4444
+ip-dst|port,DCRat botnet C2 server (confidence level: 100%),179.14.11.213|4010
+ip-dst|port,NetSupportManager RAT botnet C2 server (confidence level: 100%),13.40.103.201|2456
+ip-dst|port,NetSupportManager RAT botnet C2 server (confidence level: 100%),101.108.149.199|7443
+ip-dst|port,NetSupportManager RAT botnet C2 server (confidence level: 100%),34.217.214.70|23652
+ip-dst|port,NetSupportManager RAT botnet C2 server (confidence level: 100%),34.217.214.70|46702
+ip-dst|port,NetSupportManager RAT botnet C2 server (confidence level: 100%),34.217.214.70|102
+ip-dst|port,NetSupportManager RAT botnet C2 server (confidence level: 100%),34.217.214.70|14352
+ip-dst|port,ERMAC botnet C2 server (confidence level: 100%),184.174.33.95|81
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),91.209.135.88|4000
+ip-dst|port,MimiKatz botnet C2 server (confidence level: 100%),63.33.62.114|8000
+ip-dst|port,Matanbuchus botnet C2 server (confidence level: 60%),94.159.113.222|443
+url,ClearFake payload delivery URL (confidence level: 100%),https://check.alku.ink/gkcxv.google
+domain,ClearFake payload delivery domain (confidence level: 100%),check.alku.ink
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 75%),147.93.43.226|443
+url,ClearFake payload delivery URL (confidence level: 100%),https://check.amda.ink/gkcxv.google
+domain,ClearFake payload delivery domain (confidence level: 100%),check.amda.ink
+url,ClearFake payload delivery URL (confidence level: 100%),https://check.lolp.ink/gkcxv.google
+domain,ClearFake payload delivery domain (confidence level: 100%),check.lolp.ink
+url,Latrodectus botnet C2 (confidence level: 100%),https://apworsindos.com/test/
+url,Latrodectus botnet C2 (confidence level: 100%),https://reminasolirol.com/test/
+domain,Latrodectus botnet C2 domain (confidence level: 100%),reminasolirol.com
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),27dd67e8.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),27dd67e8.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),27dd67e8.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),27dd67e8.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),27dd67e8.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),27dd67e8.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),2d89e015.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),2d89e015.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),2d89e015.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),2d89e015.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),2d89e015.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),2d89e015.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),4ad74aab.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),4ad74aab.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),4ad74aab.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),4ad74aab.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),4ad74aab.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),4ad74aab.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),4e577395.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),4e577395.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),4e577395.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),4e577395.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),4e577395.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),4e577395.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),54f484f2.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),54f484f2.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),54f484f2.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),54f484f2.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),54f484f2.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),54f484f2.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),6e93d646.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),6e93d646.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),6e93d646.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),6e93d646.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),6e93d646.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),6e93d646.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),791688a4.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),791688a4.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),791688a4.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),791688a4.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),791688a4.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),791688a4.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),80ce6519.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),80ce6519.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),80ce6519.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),80ce6519.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),80ce6519.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),80ce6519.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),9203ebc7.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),9203ebc7.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),9203ebc7.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),9203ebc7.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),9203ebc7.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),9203ebc7.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),9243e231.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),9243e231.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),9243e231.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),9243e231.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),9243e231.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),9243e231.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),942a8b18.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),942a8b18.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),942a8b18.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),942a8b18.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),942a8b18.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),942a8b18.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),9e8fae09.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),9e8fae09.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),9e8fae09.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),9e8fae09.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),9e8fae09.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),9e8fae09.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),b170e747.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),b170e747.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),b170e747.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),b170e747.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),b170e747.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),b170e747.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),bc0324ae.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),bc0324ae.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),bc0324ae.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),bc0324ae.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),bc0324ae.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),bc0324ae.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),bfd8690b.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),bfd8690b.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),bfd8690b.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),bfd8690b.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),bfd8690b.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),bfd8690b.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),d27ef8b8.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),d27ef8b8.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),d27ef8b8.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),d27ef8b8.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),d27ef8b8.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),d27ef8b8.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),d3b79f13.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),d3b79f13.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),d3b79f13.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),d3b79f13.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),d3b79f13.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),d3b79f13.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),d79046bd.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),d79046bd.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),d79046bd.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),d79046bd.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),d79046bd.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),d79046bd.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),db49f51f.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),db49f51f.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),db49f51f.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),db49f51f.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),db49f51f.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),db49f51f.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f0307cae.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f0307cae.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f0307cae.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f0307cae.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f0307cae.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f0307cae.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f044be76.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f044be76.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f044be76.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f044be76.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f044be76.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f044be76.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f0496a53.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f0496a53.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f0496a53.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f0496a53.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f0496a53.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f0496a53.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f0577926.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f0577926.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f0577926.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f0577926.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f0577926.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f0577926.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f0a0efe3.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f0a0efe3.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f0a0efe3.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f0a0efe3.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f0a0efe3.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f0a0efe3.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f0d42d3b.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f0d42d3b.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f0d42d3b.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f0d42d3b.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f0d42d3b.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f0d42d3b.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f0d9f91e.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f0d9f91e.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f0d9f91e.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f0d9f91e.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f0d9f91e.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f0d9f91e.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f119352e.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f119352e.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f119352e.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f119352e.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f119352e.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f119352e.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f152633e.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f152633e.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f152633e.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f152633e.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f152633e.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f152633e.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f16df7f6.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f16df7f6.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f16df7f6.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f16df7f6.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f16df7f6.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f16df7f6.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f173e483.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f173e483.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f173e483.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f173e483.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f173e483.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f173e483.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f1847246.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f1847246.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f1847246.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f1847246.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f1847246.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f1847246.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f1e377ce.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f1e377ce.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f1e377ce.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f1e377ce.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f1e377ce.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f1e377ce.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f1f0b09e.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f1f0b09e.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f1f0b09e.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f1f0b09e.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f1f0b09e.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f1f0b09e.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f2005119.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f2005119.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f2005119.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f2005119.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f2005119.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f2005119.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f24b0709.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f24b0709.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f24b0709.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f24b0709.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f24b0709.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f24b0709.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f26a80b4.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f26a80b4.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f26a80b4.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f26a80b4.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f26a80b4.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f26a80b4.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f27493c1.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f27493c1.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f27493c1.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f27493c1.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f27493c1.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f27493c1.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f29d1671.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f29d1671.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f29d1671.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f29d1671.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f29d1671.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f29d1671.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f2e9d4a9.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f2e9d4a9.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f2e9d4a9.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f2e9d4a9.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f2e9d4a9.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f2e9d4a9.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f34e1d11.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f34e1d11.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f34e1d11.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f34e1d11.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f34e1d11.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f34e1d11.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f3500e64.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f3500e64.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f3500e64.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f3500e64.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f3500e64.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f3500e64.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f3b98bd4.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f3b98bd4.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f3b98bd4.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f3b98bd4.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f3b98bd4.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f3b98bd4.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f3cd490c.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f3cd490c.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f3cd490c.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f3cd490c.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f3cd490c.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f3cd490c.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f43f4d52.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f43f4d52.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f43f4d52.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f43f4d52.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f43f4d52.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f43f4d52.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f44b8f8a.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f44b8f8a.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f44b8f8a.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f44b8f8a.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f44b8f8a.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f44b8f8a.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f45848da.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f45848da.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f45848da.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f45848da.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f45848da.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f45848da.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f4a20a3a.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f4a20a3a.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f4a20a3a.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f4a20a3a.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f4a20a3a.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f4a20a3a.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f4c8db97.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f4c8db97.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f4c8db97.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f4c8db97.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f4c8db97.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f4c8db97.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f4d6c8e2.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f4d6c8e2.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f4d6c8e2.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f4d6c8e2.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f4d6c8e2.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f4d6c8e2.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f4e95c2a.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f4e95c2a.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f4e95c2a.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f4e95c2a.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f4e95c2a.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f4e95c2a.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f51bd0f7.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f51bd0f7.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f51bd0f7.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f51bd0f7.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f51bd0f7.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f51bd0f7.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f562c60a.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f562c60a.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f562c60a.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f562c60a.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f562c60a.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f562c60a.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f56f122f.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f56f122f.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f56f122f.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f56f122f.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f56f122f.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f56f122f.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f58b43ba.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f58b43ba.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f58b43ba.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f58b43ba.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f58b43ba.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f58b43ba.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f5ec4632.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f5ec4632.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f5ec4632.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f5ec4632.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f5ec4632.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f5ec4632.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f5f25547.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f5f25547.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f5f25547.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f5f25547.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f5f25547.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f5f25547.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f5ff8162.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f5ff8162.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f5ff8162.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f5ff8162.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f5ff8162.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f5ff8162.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f602b4c0.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f602b4c0.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f602b4c0.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f602b4c0.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f602b4c0.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f602b4c0.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f6767618.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f6767618.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f6767618.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f6767618.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f6767618.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f6767618.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f6eb3170.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f6eb3170.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f6eb3170.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f6eb3170.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f6eb3170.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f6eb3170.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f6f52205.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f6f52205.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f6f52205.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f6f52205.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f6f52205.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f6f52205.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f7262965.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f7262965.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f7262965.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f7262965.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f7262965.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f7262965.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f752ebbd.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f752ebbd.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f752ebbd.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f752ebbd.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f752ebbd.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f752ebbd.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f7bb6e0d.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f7bb6e0d.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f7bb6e0d.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f7bb6e0d.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f7bb6e0d.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f7bb6e0d.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f7cfacd5.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f7cfacd5.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f7cfacd5.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f7cfacd5.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f7cfacd5.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f7cfacd5.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f7d1bfa0.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f7d1bfa0.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f7d1bfa0.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f7d1bfa0.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f7d1bfa0.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f7d1bfa0.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f7f0381d.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f7f0381d.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f7f0381d.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f7f0381d.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f7f0381d.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f7f0381d.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f826704c.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f826704c.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f826704c.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f826704c.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f826704c.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f826704c.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f8386339.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f8386339.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f8386339.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f8386339.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f8386339.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f8386339.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f8bb3724.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f8bb3724.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f8bb3724.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f8bb3724.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f8bb3724.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f8bb3724.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f8cff5fc.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f8cff5fc.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f8cff5fc.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f8cff5fc.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f8cff5fc.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f8cff5fc.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f902ede9.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f902ede9.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f902ede9.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f902ede9.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f902ede9.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f902ede9.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f91cfe9c.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f91cfe9c.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f91cfe9c.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f91cfe9c.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f91cfe9c.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f91cfe9c.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f93d7921.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f93d7921.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f93d7921.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f93d7921.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f93d7921.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f93d7921.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f9762f31.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f9762f31.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f9762f31.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f9762f31.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f9762f31.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f9762f31.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f99faa81.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f99faa81.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f99faa81.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f99faa81.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f99faa81.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f99faa81.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f9adea6c.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f9adea6c.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f9adea6c.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f9adea6c.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f9adea6c.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f9adea6c.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f9eb6859.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f9eb6859.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f9eb6859.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f9eb6859.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f9eb6859.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),f9eb6859.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa059aab.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa059aab.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa059aab.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa059aab.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa059aab.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa059aab.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa165dfb.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa165dfb.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa165dfb.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa165dfb.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa165dfb.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa165dfb.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa1b89de.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa1b89de.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa1b89de.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa1b89de.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa1b89de.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa1b89de.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa241d16.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa241d16.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa241d16.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa241d16.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa241d16.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa241d16.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa2b8b86.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa2b8b86.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa2b8b86.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa2b8b86.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa2b8b86.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa2b8b86.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa629f23.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa629f23.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa629f23.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa629f23.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa629f23.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa629f23.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa6f4b06.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa6f4b06.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa6f4b06.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa6f4b06.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa6f4b06.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa6f4b06.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa86ceb6.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa86ceb6.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa86ceb6.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa86ceb6.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa86ceb6.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa86ceb6.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa8b1a93.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa8b1a93.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa8b1a93.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa8b1a93.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa8b1a93.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa8b1a93.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),faf20c6e.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),faf20c6e.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),faf20c6e.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),faf20c6e.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),faf20c6e.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),faf20c6e.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),faffd84b.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),faffd84b.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),faffd84b.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),faffd84b.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),faffd84b.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),faffd84b.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fb21070e.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fb21070e.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fb21070e.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fb21070e.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fb21070e.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fb21070e.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fb3f147b.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fb3f147b.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fb3f147b.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fb3f147b.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fb3f147b.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fb3f147b.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fba25313.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fba25313.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fba25313.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fba25313.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fba25313.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fba25313.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fbb19443.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fbb19443.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fbb19443.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fbb19443.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fbb19443.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fbb19443.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fbd691cb.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fbd691cb.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fbd691cb.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fbd691cb.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fbd691cb.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fbd691cb.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fc16d578.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fc16d578.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fc16d578.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fc16d578.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fc16d578.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fc16d578.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fc249595.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fc249595.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fc249595.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fc249595.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fc249595.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fc249595.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fc50574d.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fc50574d.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fc50574d.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fc50574d.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fc50574d.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fc50574d.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fc864635.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fc864635.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fc864635.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fc864635.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fc864635.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fc864635.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fca7c188.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fca7c188.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fca7c188.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fca7c188.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fca7c188.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fca7c188.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fcb9d2fd.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fcb9d2fd.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fcb9d2fd.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fcb9d2fd.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fcb9d2fd.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fcb9d2fd.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fccd1025.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fccd1025.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fccd1025.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fccd1025.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fccd1025.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fccd1025.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fd000830.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fd000830.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fd000830.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fd000830.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fd000830.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fd000830.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fd74cae8.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fd74cae8.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fd74cae8.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fd74cae8.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fd74cae8.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fd74cae8.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fd835c2d.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fd835c2d.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fd835c2d.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fd835c2d.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fd835c2d.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fd835c2d.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fd9d4f58.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fd9d4f58.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fd9d4f58.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fd9d4f58.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fd9d4f58.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fd9d4f58.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fe0aab57.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fe0aab57.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fe0aab57.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fe0aab57.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fe0aab57.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fe0aab57.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fe196c07.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fe196c07.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fe196c07.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fe196c07.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fe196c07.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fe196c07.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fe6daedf.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fe6daedf.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fe6daedf.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fe6daedf.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fe6daedf.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fe6daedf.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fe842b6f.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fe842b6f.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fe842b6f.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fe842b6f.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fe842b6f.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fe842b6f.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fe9a381a.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fe9a381a.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fe9a381a.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fe9a381a.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fe9a381a.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fe9a381a.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ff302587.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ff302587.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ff302587.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ff302587.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ff302587.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ff302587.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ff3df1a2.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ff3df1a2.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ff3df1a2.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ff3df1a2.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ff3df1a2.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ff3df1a2.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ff44e75f.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ff44e75f.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ff44e75f.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ff44e75f.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ff44e75f.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ff44e75f.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ff49337a.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ff49337a.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ff49337a.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ff49337a.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ff49337a.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ff49337a.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ff9f2202.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ff9f2202.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ff9f2202.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ff9f2202.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ff9f2202.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ff9f2202.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ffa0b6ca.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ffa0b6ca.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ffa0b6ca.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ffa0b6ca.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ffa0b6ca.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ffa0b6ca.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ffad62ef.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ffad62ef.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ffad62ef.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ffad62ef.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ffad62ef.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ffad62ef.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ffbea5bf.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ffbea5bf.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ffbea5bf.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ffbea5bf.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ffbea5bf.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ffbea5bf.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ffd47412.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ffd47412.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ffd47412.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ffd47412.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ffd47412.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ffd47412.store
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ffd9a037.fun
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ffd9a037.online
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ffd9a037.shop
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ffd9a037.site
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ffd9a037.space
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),ffd9a037.store
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),ignoredshee.com
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),185.245.43.46|443
+url,FAKEUPDATES payload delivery URL (confidence level: 100%),https://parkerlabs.top/work/original.js
+domain,FAKEUPDATES payload delivery domain (confidence level: 100%),parkerlabs.top
+url,FAKEUPDATES payload delivery URL (confidence level: 100%),https://parkerlabs.top/work/index.php
+url,FAKEUPDATES payload delivery URL (confidence level: 100%),https://parkerlabs.top/work/file.php
+url,FAKEUPDATES payload delivery URL (confidence level: 100%),https://parkerlabs.top/work/222.zip
+domain,ClearFake payload delivery domain (confidence level: 100%),check.bxayj.site
+url,ClearFake payload delivery URL (confidence level: 100%),https://check.bxayj.site/gkcxv.google
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),beautifulglandscapes.help
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),brightsmorning.help
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),clearxforms.help
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),deepzthoughts.help
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),fairyctale.help
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),findingqworld.help
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),floweringtstrip.help
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),friendseforever.help
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),greenzworld.help
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),lifehtextures.help
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),lightffntasy.help
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),lightjheaii.help
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),magicalddreams.help
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),naturewsounds.help
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),shiningrstars.help
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),smilesqplays.help
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),summerhrain.help
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),tenderyroots.help
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),vanderagmusic.help
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),warmeembrace.help
+url,ClearFake payload delivery URL (confidence level: 100%),https://check.owacq.site/gkcxv.google
+domain,ClearFake payload delivery domain (confidence level: 100%),check.owacq.site
+ip-dst|port,Tofsee botnet C2 server (confidence level: 100%),185.7.214.57|483
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://nomadsgpirit.top/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://gleefuhlcloud.top/api
+url,Satacom botnet C2 (confidence level: 100%),http://gliempleo.com/front.php
+url,DCRat botnet C2 (confidence level: 100%),http://045849cm.shnyash.ru/defaultdbtest.php
+url,ClearFake payload delivery URL (confidence level: 100%),https://check.mmjdh.site/gkcxv.google
+domain,ClearFake payload delivery domain (confidence level: 100%),check.mmjdh.site
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://pixelpottato.top/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://curiousbereeze.top/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://warmwhearts.cloud/api
+url,ClearFake payload delivery URL (confidence level: 100%),https://check.edmer.site/gkcxv.google
+domain,ClearFake payload delivery domain (confidence level: 100%),check.edmer.site
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),172.111.216.73|2404
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),198.167.216.74|8808
+ip-dst|port,Hook botnet C2 server (confidence level: 100%),156.253.228.27|80
+ip-dst|port,Havoc botnet C2 server (confidence level: 100%),45.154.98.173|443
+ip-dst|port,NetSupportManager RAT botnet C2 server (confidence level: 100%),102.100.54.130|443
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),1.94.22.130|8080
+ip-dst|port,NjRAT botnet C2 server (confidence level: 100%),185.79.132.175|8000
+url,ClearFake payload delivery URL (confidence level: 100%),https://check.cvdub.site/gkcxv.google
+domain,ClearFake payload delivery domain (confidence level: 100%),check.cvdub.site
+ip-dst|port,Sliver payload delivery server (confidence level: 100%),89.208.253.204|443
+ip-dst|port,Sliver payload delivery server (confidence level: 100%),65.20.100.150|443
+ip-dst|port,Sliver payload delivery server (confidence level: 100%),47.242.111.13|443
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 50%),106.52.37.207|2233
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 50%),192.151.243.145|8800
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 50%),121.43.227.196|50050
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 50%),46.45.130.197|3333
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 50%),139.162.172.189|3333
+ip-dst|port,Sliver botnet C2 server (confidence level: 50%),5.223.52.218|31337
+ip-dst|port,NetSupportManager RAT botnet C2 server (confidence level: 50%),37.12.58.104|6001
+url,Chaos botnet C2 (confidence level: 50%),http://104.156.255.27:8080/
+url,Unknown malware payload delivery URL (confidence level: 50%),https://santa-todd.pages.dev/
+domain,DCRat botnet C2 domain (confidence level: 100%),frozeemodtest.freewebhostmost.com
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),public-eur.mkt.dynamics.com
+ip-dst|port,DarkComet botnet C2 server (confidence level: 50%),108.231.94.28|10135
+domain,DCRat botnet C2 domain (confidence level: 50%),drgost.duckdns.org
+domain,Remcos botnet C2 domain (confidence level: 50%),jorgeperezpu145.con-ip.com
+domain,Remcos botnet C2 domain (confidence level: 50%),sungito333.ddns.net
+domain,XWorm botnet C2 domain (confidence level: 50%),gotemburgoxm.duckdns.org
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),13.72.250.0|6606
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),89.117.48.231|7443
+ip-dst|port,Hook botnet C2 server (confidence level: 100%),67.205.129.1|80
+ip-dst|port,DCRat botnet C2 server (confidence level: 100%),94.156.167.68|2000
+ip-dst|port,NetSupportManager RAT botnet C2 server (confidence level: 100%),35.183.20.90|2082
+ip-dst|port,BitRAT botnet C2 server (confidence level: 100%),83.11.226.196|8222
+ip-dst|port,NetSupportManager RAT botnet C2 server (confidence level: 75%),16.171.47.201|11103
+ip-dst|port,QakBot botnet C2 server (confidence level: 75%),188.52.177.55|995
+ip-dst|port,DanaBot botnet C2 server (confidence level: 75%),91.84.105.30|443
+ip-dst|port,Eye Pyramid botnet C2 server (confidence level: 75%),93.82.29.21|8000
+ip-dst|port,Nanocore RAT botnet C2 server (confidence level: 100%),192.169.69.25|2741
+domain,CryptBot botnet C2 domain (confidence level: 100%),elvnhh11pn.top
+domain,DCRat botnet C2 domain (confidence level: 100%),cd60197.tw1.ru
+domain,Amadey botnet C2 domain (confidence level: 100%),specificsecurity.ru
+url,DCRat botnet C2 (confidence level: 100%),http://192592cm.shnyash.ru/windowstestuploadsdownloads.php
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 75%),103.140.186.171|8080
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 75%),143.198.3.13|443
