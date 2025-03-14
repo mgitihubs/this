@@ -1,0 +1,512 @@
+Type,Comment,Value
+domain,ClearFake payload delivery domain (confidence level: 100%),check.dovoo.icu
+ip-dst|port,NjRAT botnet C2 server (confidence level: 75%),3.67.15.169|15408
+ip-dst|port,NjRAT botnet C2 server (confidence level: 75%),3.124.67.191|15408
+domain,NjRAT botnet C2 domain (confidence level: 75%),john-already.gl.at.ply.gg
+ip-dst|port,Mirai botnet C2 server (confidence level: 75%),176.65.134.62|7777
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),196.251.84.191|4444
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),121.36.61.196|80
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),179.13.1.59|2404
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),46.246.82.16|8888
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),74.120.121.26|2502
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),161.97.101.53|1000
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),20.229.219.150|443
+ip-dst|port,Hook botnet C2 server (confidence level: 100%),51.222.110.148|80
+ip-dst|port,Hook botnet C2 server (confidence level: 100%),51.222.110.148|8089
+ip-dst|port,Havoc botnet C2 server (confidence level: 100%),177.68.42.191|8081
+domain,Havoc botnet C2 domain (confidence level: 100%),cpcalendars.newdmkey.xyz
+domain,Havoc botnet C2 domain (confidence level: 100%),webmail.cgibusiness.xyz
+domain,Havoc botnet C2 domain (confidence level: 100%),webmail.apexhomeimprovement.xyz
+domain,Havoc botnet C2 domain (confidence level: 100%),cpcalendars.livebengsnnewz.xyz
+domain,Havoc botnet C2 domain (confidence level: 100%),cpanel.sportsfootball.website
+domain,Havoc botnet C2 domain (confidence level: 100%),outlook.tekbalam.com
+domain,Havoc botnet C2 domain (confidence level: 100%),cpcontacts.handufabetgames.xyz
+domain,Havoc botnet C2 domain (confidence level: 100%),cpanel.games777games.xyz
+domain,Havoc botnet C2 domain (confidence level: 100%),cpcontacts.techspilotx.website
+ip-dst|port,Venom RAT botnet C2 server (confidence level: 100%),185.93.89.137|4444
+ip-dst|port,DCRat botnet C2 server (confidence level: 100%),46.246.82.12|8000
+domain,ClearFake payload delivery domain (confidence level: 100%),check.vevou.icu
+url,ClearFake payload delivery URL (confidence level: 100%),https://check.vevou.icu/gkcxv.google
+url,Lumma Stealer botnet C2 (confidence level: 75%),https://barisechairedd.shop/api
+url,Lumma Stealer botnet C2 (confidence level: 75%),https://corangemyther.live/api
+url,Lumma Stealer botnet C2 (confidence level: 75%),https://vbegindecafer.world/api
+url,Lumma Stealer botnet C2 (confidence level: 75%),https://vfostinjec.today/api
+url,Lumma Stealer botnet C2 (confidence level: 75%),https://ymodelshiverd.icu/api
+domain,Cobalt Strike botnet C2 domain (confidence level: 75%),data.australiasoutheast.cloudapp.azure.com
+domain,Cobalt Strike botnet C2 domain (confidence level: 75%),ns01.certis-cisco.click
+domain,Cobalt Strike botnet C2 domain (confidence level: 75%),ns02.certis-cisco.click
+domain,Cobalt Strike botnet C2 domain (confidence level: 75%),ns1.svchost.ddns-ip.net
+domain,Cobalt Strike botnet C2 domain (confidence level: 75%),t1.nestquicks.com
+domain,Cobalt Strike botnet C2 domain (confidence level: 75%),www.dyshop.online
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 75%),122.248.209.34|53
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 75%),151.236.20.232|53
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 75%),20.61.175.58|53
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 75%),44.216.156.161|443
+ip-dst|port,ValleyRAT botnet C2 server (confidence level: 100%),45.192.208.132|7777
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),47.121.177.253|443
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),1.94.249.10|2000
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),139.224.128.227|8899
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),175.6.135.82|9999
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),8.155.23.88|80
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),172.94.9.227|5671
+ip-dst|port,Sliver botnet C2 server (confidence level: 100%),185.130.46.98|31337
+ip-dst|port,Sliver botnet C2 server (confidence level: 100%),89.58.33.52|47837
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),185.143.243.46|103
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),20.229.219.78|443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),213.209.143.31|7443
+ip-dst|port,Havoc botnet C2 server (confidence level: 100%),86.54.42.182|443
+ip-dst|port,Havoc botnet C2 server (confidence level: 100%),72.145.5.203|443
+domain,Havoc botnet C2 domain (confidence level: 100%),cpanel.theyestechnewsz.xyz
+domain,Havoc botnet C2 domain (confidence level: 100%),cpcalendars.dmhubnewsz.website
+ip-dst|port,Venom RAT botnet C2 server (confidence level: 100%),129.146.121.7|4449
+ip-dst|port,Venom RAT botnet C2 server (confidence level: 100%),194.87.68.172|4449
+ip-dst|port,Stealc botnet C2 server (confidence level: 100%),185.170.154.143|80
+ip-dst|port,MimiKatz botnet C2 server (confidence level: 100%),35.232.163.8|80
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),172.245.154.155|80
+domain,Cobalt Strike botnet C2 domain (confidence level: 100%),www.ybrjz.com
+domain,Unknown malware botnet C2 domain (confidence level: 100%),33.55.141.34.bc.googleusercontent.com
+ip-dst|port,Havoc botnet C2 server (confidence level: 100%),213.209.143.31|8080
+ip-dst|port,DCRat botnet C2 server (confidence level: 100%),46.246.82.16|2000
+ip-dst|port,Ares botnet C2 server (confidence level: 90%),31.220.41.207|80
+ip-dst|port,BlackNET RAT botnet C2 server (confidence level: 100%),203.115.83.231|88
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),18.162.210.208|60000
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),152.70.102.123|60000
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),23.21.223.216|443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),52.14.93.110|8082
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),13.70.174.137|3333
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),35.207.251.223|8432
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),54.191.118.2|443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),37.27.181.0|3000
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),181.32.54.107|8080
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),110.42.35.211|4443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),3.143.156.9|8443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),18.206.145.131|80
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),3.120.66.42|80
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),3.120.66.42|443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),16.171.132.192|3333
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),54.154.74.193|443
+domain,Lumma Stealer botnet C2 domain (confidence level: 75%),spacevoyag.live
+domain,Lumma Stealer botnet C2 domain (confidence level: 75%),gdpfsj.com
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 50%),64.23.128.110|443
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 50%),120.24.64.74|9443
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 50%),107.174.85.150|80
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 50%),118.25.91.151|8086
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 50%),124.71.161.5|50000
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 50%),104.42.27.32|443
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 50%),39.107.136.241|50050
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 50%),185.225.226.197|50050
+ip-dst|port,Sliver botnet C2 server (confidence level: 50%),212.56.32.90|31337
+ip-dst|port,Sliver botnet C2 server (confidence level: 50%),223.26.52.223|31337
+ip-dst|port,Sliver botnet C2 server (confidence level: 50%),109.107.175.64|31337
+ip-dst|port,Sliver botnet C2 server (confidence level: 50%),172.236.213.138|31337
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 50%),129.208.139.65|1337
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 50%),31.166.106.12|8085
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 50%),31.166.106.12|55553
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 50%),90.146.22.211|4443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 50%),159.65.4.107|4443
+ip-dst|port,NetSupportManager RAT botnet C2 server (confidence level: 50%),88.31.54.12|6001
+ip-dst|port,BlackShades botnet C2 server (confidence level: 50%),13.212.129.108|3270
+ip-dst|port,Hook botnet C2 server (confidence level: 50%),196.251.71.185|80
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 50%),121.36.85.26|51443
+url,Unknown malware payload delivery URL (confidence level: 50%),https://www.solana-trending.com/
+url,Lumma Stealer botnet C2 (confidence level: 50%),https://spacevoyag.live/api
+url,Stealc botnet C2 (confidence level: 50%),http://45.93.20.28/85a1cacf11314eb8.php
+url,Hook botnet C2 (confidence level: 50%),http://51.222.110.148/
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 50%),70.93.72.15|5631
+ip-dst|port,DarkComet botnet C2 server (confidence level: 50%),78.179.254.67|1604
+domain,Phorpiex botnet C2 domain (confidence level: 50%),aefuaeufhueuufua.ru
+domain,Phorpiex botnet C2 domain (confidence level: 50%),aefuaeufhueuufuae.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),aefuaeufhueuufue.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),aefuaeufhueuufuee.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),aefuaeufhueuufume.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),aefuaeufhueuufure.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),aefuaeufhueuufuz.su
+domain,Phorpiex botnet C2 domain (confidence level: 50%),aegieuueueuuruia.ru
+domain,Phorpiex botnet C2 domain (confidence level: 50%),aegieuueueuuruiae.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),aegieuueueuuruie.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),aegieuueueuuruiee.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),aegieuueueuuruime.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),aegieuueueuuruire.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),aegieuueueuuruiz.su
+domain,Phorpiex botnet C2 domain (confidence level: 50%),aeufoeahfouefhga.ru
+domain,Phorpiex botnet C2 domain (confidence level: 50%),aeufoeahfouefhgae.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),aeufoeahfouefhge.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),aeufoeahfouefhgee.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),aeufoeahfouefhgme.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),aeufoeahfouefhgre.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),aeufoeahfouefhgz.su
+domain,Phorpiex botnet C2 domain (confidence level: 50%),afieifaieudhhuda.ru
+domain,Phorpiex botnet C2 domain (confidence level: 50%),afieifaieudhhudae.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),afieifaieudhhude.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),afieifaieudhhudee.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),afieifaieudhhudme.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),afieifaieudhhudre.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),afieifaieudhhudz.su
+domain,Phorpiex botnet C2 domain (confidence level: 50%),awbnmnmammmamnra.ru
+domain,Phorpiex botnet C2 domain (confidence level: 50%),awbnmnmammmamnrae.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),awbnmnmammmamnree.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),awbnmnmammmamnrme.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),awbnmnmammmamnrre.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),awbnmnmammmamnrz.su
+domain,Phorpiex botnet C2 domain (confidence level: 50%),awduhawduhuhhaga.ru
+domain,Phorpiex botnet C2 domain (confidence level: 50%),awduhawduhuhhagae.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),awduhawduhuhhage.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),awduhawduhuhhagee.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),awduhawduhuhhagme.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),awduhawduhuhhagre.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),awduhawduhuhhagz.su
+domain,Phorpiex botnet C2 domain (confidence level: 50%),azezezbdndnnnsna.ru
+domain,Phorpiex botnet C2 domain (confidence level: 50%),azezezbdndnnnsnae.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),azezezbdndnnnsne.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),azezezbdndnnnsnee.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),azezezbdndnnnsnme.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),azezezbdndnnnsnre.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),azezezbdndnnnsnz.su
+domain,Phorpiex botnet C2 domain (confidence level: 50%),badaeduahedhhuaa.ru
+domain,Phorpiex botnet C2 domain (confidence level: 50%),badaeduahedhhuaae.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),badaeduahedhhuae.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),badaeduahedhhuaee.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),badaeduahedhhuame.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),badaeduahedhhuare.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),badaeduahedhhuaz.su
+domain,Phorpiex botnet C2 domain (confidence level: 50%),eooeoeoririusfra.ru
+domain,Phorpiex botnet C2 domain (confidence level: 50%),eooeoeoririusfrae.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),eooeoeoririusfre.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),eooeoeoririusfree.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),eooeoeoririusfrme.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),eooeoeoririusfrre.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),eooeoeoririusfrz.su
+domain,Phorpiex botnet C2 domain (confidence level: 50%),euauueuueuruudga.ru
+domain,Phorpiex botnet C2 domain (confidence level: 50%),euauueuueuruudgae.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),euauueuueuruudge.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),euauueuueuruudgee.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),euauueuueuruudgme.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),euauueuueuruudgre.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),euauueuueuruudgz.su
+domain,Phorpiex botnet C2 domain (confidence level: 50%),eueuqundnndnsuda.ru
+domain,Phorpiex botnet C2 domain (confidence level: 50%),eueuqundnndnsudae.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),eueuqundnndnsude.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),eueuqundnndnsudee.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),eueuqundnndnsudme.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),eueuqundnndnsudre.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),eueuqundnndnsudz.su
+domain,Phorpiex botnet C2 domain (confidence level: 50%),euuauudduufuuguae.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),euuauudduufuugue.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),euuauudduufuuguee.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),euuauudduufuugume.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),euuauudduufuugure.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),euuauudduufuuguz.su
+domain,Phorpiex botnet C2 domain (confidence level: 50%),fauibdbebdbburua.ru
+domain,Phorpiex botnet C2 domain (confidence level: 50%),fauibdbebdbburuae.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),fauibdbebdbburue.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),fauibdbebdbburuee.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),fauibdbebdbburume.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),fauibdbebdbburure.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),fauibdbebdbburuz.su
+domain,Phorpiex botnet C2 domain (confidence level: 50%),nbmbnmbembfaeura.ru
+domain,Phorpiex botnet C2 domain (confidence level: 50%),nbmbnmbembfaeurae.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),nbmbnmbembfaeure.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),nbmbnmbembfaeuree.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),nbmbnmbembfaeurme.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),nbmbnmbembfaeurre.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),nbmbnmbembfaeurz.su
+domain,Phorpiex botnet C2 domain (confidence level: 50%),ploaiedueaigzefa.ru
+domain,Phorpiex botnet C2 domain (confidence level: 50%),ploaiedueaigzefae.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),ploaiedueaigzefe.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),ploaiedueaigzefee.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),ploaiedueaigzefme.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),ploaiedueaigzefre.top
+domain,Phorpiex botnet C2 domain (confidence level: 50%),ploaiedueaigzefz.su
+url,Phorpiex botnet C2 (confidence level: 50%),http://aefuaeufhueuufua.ru/
+url,Phorpiex botnet C2 (confidence level: 50%),http://aefuaeufhueuufuae.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://aefuaeufhueuufue.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://aefuaeufhueuufuee.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://aefuaeufhueuufume.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://aefuaeufhueuufure.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://aefuaeufhueuufuz.su/
+url,Phorpiex botnet C2 (confidence level: 50%),http://aegieuueueuuruia.ru/
+url,Phorpiex botnet C2 (confidence level: 50%),http://aegieuueueuuruiae.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://aegieuueueuuruie.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://aegieuueueuuruiee.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://aegieuueueuuruime.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://aegieuueueuuruire.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://aegieuueueuuruiz.su/
+url,Phorpiex botnet C2 (confidence level: 50%),http://aeufoeahfouefhga.ru/
+url,Phorpiex botnet C2 (confidence level: 50%),http://aeufoeahfouefhgae.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://aeufoeahfouefhge.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://aeufoeahfouefhgee.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://aeufoeahfouefhgme.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://aeufoeahfouefhgre.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://aeufoeahfouefhgz.su/
+url,Phorpiex botnet C2 (confidence level: 50%),http://afieifaieudhhuda.ru/
+url,Phorpiex botnet C2 (confidence level: 50%),http://afieifaieudhhudae.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://afieifaieudhhude.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://afieifaieudhhudee.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://afieifaieudhhudme.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://afieifaieudhhudre.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://afieifaieudhhudz.su/
+url,Phorpiex botnet C2 (confidence level: 50%),http://awbnmnmammmamnra.ru/
+url,Phorpiex botnet C2 (confidence level: 50%),http://awbnmnmammmamnrae.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://awbnmnmammmamnre.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://awbnmnmammmamnree.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://awbnmnmammmamnrme.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://awbnmnmammmamnrre.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://awbnmnmammmamnrz.su/
+url,Phorpiex botnet C2 (confidence level: 50%),http://awduhawduhuhhaga.ru/
+url,Phorpiex botnet C2 (confidence level: 50%),http://awduhawduhuhhagae.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://awduhawduhuhhage.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://awduhawduhuhhagee.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://awduhawduhuhhagme.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://awduhawduhuhhagre.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://awduhawduhuhhagz.su/
+url,Phorpiex botnet C2 (confidence level: 50%),http://azezezbdndnnnsna.ru/
+url,Phorpiex botnet C2 (confidence level: 50%),http://azezezbdndnnnsnae.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://azezezbdndnnnsne.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://azezezbdndnnnsnee.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://azezezbdndnnnsnme.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://azezezbdndnnnsnre.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://azezezbdndnnnsnz.su/
+url,Phorpiex botnet C2 (confidence level: 50%),http://badaeduahedhhuaa.ru/
+url,Phorpiex botnet C2 (confidence level: 50%),http://badaeduahedhhuaae.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://badaeduahedhhuae.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://badaeduahedhhuaee.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://badaeduahedhhuame.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://badaeduahedhhuare.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://badaeduahedhhuaz.su/
+url,Phorpiex botnet C2 (confidence level: 50%),http://eooeoeoririusfra.ru/
+url,Phorpiex botnet C2 (confidence level: 50%),http://eooeoeoririusfrae.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://eooeoeoririusfre.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://eooeoeoririusfree.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://eooeoeoririusfrme.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://eooeoeoririusfrre.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://eooeoeoririusfrz.su/
+url,Phorpiex botnet C2 (confidence level: 50%),http://euauueuueuruudga.ru/
+url,Phorpiex botnet C2 (confidence level: 50%),http://euauueuueuruudgae.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://euauueuueuruudge.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://euauueuueuruudgee.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://euauueuueuruudgme.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://euauueuueuruudgre.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://euauueuueuruudgz.su/
+url,Phorpiex botnet C2 (confidence level: 50%),http://eueuqundnndnsuda.ru/
+url,Phorpiex botnet C2 (confidence level: 50%),http://eueuqundnndnsudae.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://eueuqundnndnsude.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://eueuqundnndnsudee.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://eueuqundnndnsudme.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://eueuqundnndnsudre.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://eueuqundnndnsudz.su/
+url,Phorpiex botnet C2 (confidence level: 50%),http://euuauudduufuugua.ru/
+url,Phorpiex botnet C2 (confidence level: 50%),http://euuauudduufuuguae.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://euuauudduufuugue.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://euuauudduufuuguee.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://euuauudduufuugume.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://euuauudduufuugure.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://euuauudduufuuguz.su/
+url,Phorpiex botnet C2 (confidence level: 50%),http://fauibdbebdbburua.ru/
+url,Phorpiex botnet C2 (confidence level: 50%),http://fauibdbebdbburuae.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://fauibdbebdbburue.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://fauibdbebdbburuee.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://fauibdbebdbburume.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://fauibdbebdbburure.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://fauibdbebdbburuz.su/
+url,Phorpiex botnet C2 (confidence level: 50%),http://nbmbnmbembfaeura.ru/
+url,Phorpiex botnet C2 (confidence level: 50%),http://nbmbnmbembfaeurae.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://nbmbnmbembfaeure.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://nbmbnmbembfaeuree.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://nbmbnmbembfaeurme.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://nbmbnmbembfaeurre.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://nbmbnmbembfaeurz.su/
+url,Phorpiex botnet C2 (confidence level: 50%),http://ploaiedueaigzefa.ru/
+url,Phorpiex botnet C2 (confidence level: 50%),http://ploaiedueaigzefae.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://ploaiedueaigzefe.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://ploaiedueaigzefee.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://ploaiedueaigzefme.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://ploaiedueaigzefre.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://ploaiedueaigzefz.su/
+url,Phorpiex botnet C2 (confidence level: 50%),http://tldrbox.top/
+url,Phorpiex botnet C2 (confidence level: 50%),http://tldrbox.ws/
+domain,Quasar RAT botnet C2 domain (confidence level: 50%),vonaxol8813-29999.portmap.host
+domain,Remcos botnet C2 domain (confidence level: 50%),angel182394.ru
+domain,Remcos botnet C2 domain (confidence level: 50%),angel32423.ru
+domain,XWorm botnet C2 domain (confidence level: 50%),document-wonderful.gl.at.ply.gg
+domain,XWorm botnet C2 domain (confidence level: 50%),means-meta.gl.at.ply.gg
+domain,Lumma Stealer botnet C2 domain (confidence level: 50%),gentlbecomfort.world
+domain,Unknown malware payload delivery domain (confidence level: 50%),booking-sup-lang-eng.com
+url,DCRat botnet C2 (confidence level: 100%),http://f1099947.xsph.ru/l1nc0in.php
+domain,ClearFake payload delivery domain (confidence level: 100%),check.didey.icu
+ip-dst|port,Vidar botnet C2 server (confidence level: 75%),78.47.63.132|443
+url,ClearFake payload delivery URL (confidence level: 100%),https://check.didey.icu/gkcxv.google
+domain,Vidar botnet C2 domain (confidence level: 100%),t.formaxprime.co.uk
+domain,ClearFake payload delivery domain (confidence level: 100%),check.zeboa.icu
+url,ClearFake payload delivery URL (confidence level: 100%),https://check.zeboa.icu/gkcxv.google
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),8.138.195.42|81
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),47.112.118.101|1234
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),47.100.176.218|7777
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),116.251.216.119|8080
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),124.221.41.140|5555
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),113.45.186.163|6666
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),39.105.31.188|8888
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),163.5.32.138|5050
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),163.5.32.138|7070
+ip-dst|port,Sliver botnet C2 server (confidence level: 100%),179.60.149.72|31337
+ip-dst|port,ShadowPad botnet C2 server (confidence level: 90%),64.176.50.187|8443
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),176.65.144.32|6606
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),176.65.144.32|7707
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),20.229.219.27|443
+domain,Hook botnet C2 domain (confidence level: 100%),halvanebrat.shop
+ip-dst|port,Havoc botnet C2 server (confidence level: 100%),51.21.171.165|443
+ip-dst|port,Havoc botnet C2 server (confidence level: 100%),43.128.147.70|443
+domain,Havoc botnet C2 domain (confidence level: 100%),cpcontacts.sports777games.com
+ip-dst|port,Havoc botnet C2 server (confidence level: 100%),138.199.216.110|81
+domain,Havoc botnet C2 domain (confidence level: 100%),cpcalendars.shalownewsbooks.com
+domain,Havoc botnet C2 domain (confidence level: 100%),webmail.bigmedianetwrk.com
+domain,Havoc botnet C2 domain (confidence level: 100%),cpcontacts.whartpzz.com
+domain,Havoc botnet C2 domain (confidence level: 100%),webdisk.totobestliv.com
+ip-dst|port,DCRat botnet C2 server (confidence level: 100%),196.251.71.169|2000
+ip-dst|port,Bashlite botnet C2 server (confidence level: 100%),91.184.250.143|80
+domain,ClearFake payload delivery domain (confidence level: 100%),check.hixya.icu
+url,ClearFake payload delivery URL (confidence level: 100%),https://check.hixya.icu/gkcxv.google
+ip-dst|port,Eye Pyramid botnet C2 server (confidence level: 75%),159.118.225.122|8443
+ip-dst|port,Sliver botnet C2 server (confidence level: 75%),180.76.172.12|8888
+ip-dst|port,DanaBot botnet C2 server (confidence level: 75%),62.60.148.72|443
+ip-dst|port,DeimosC2 botnet C2 server (confidence level: 75%),8.48.85.83|4506
+ip-dst|port,Eye Pyramid botnet C2 server (confidence level: 75%),81.177.215.62|8443
+domain,ClearFake payload delivery domain (confidence level: 100%),check.baruy.icu
+url,ClearFake payload delivery URL (confidence level: 100%),https://check.baruy.icu/gkcxv.google
+url,DCRat botnet C2 (confidence level: 100%),http://a1099965.xsph.ru/b9d82bda.php
+ip-dst|port,Remcos botnet C2 server (confidence level: 75%),81.19.131.86|6856
+domain,Remcos botnet C2 domain (confidence level: 100%),wormbit.ydns.eu
+ip-dst|port,Remcos botnet C2 server (confidence level: 75%),45.154.98.113|23101
+domain,Remcos botnet C2 domain (confidence level: 100%),realsw.mooo.com
+domain,Remcos botnet C2 domain (confidence level: 100%),realws.ydns.eu
+domain,Remcos botnet C2 domain (confidence level: 100%),realsw.strangled.net
+domain,Remcos botnet C2 domain (confidence level: 100%),realsw.ydns.eu
+domain,Remcos botnet C2 domain (confidence level: 100%),realsw.jumpingcrab.com
+ip-dst|port,XWorm botnet C2 server (confidence level: 75%),185.111.159.87|7000
+url,Vidar botnet C2 (confidence level: 100%),https://steamcommunity.com/profiles/76561199832267488
+url,Vidar botnet C2 (confidence level: 100%),https://t.me/g_etcontent
+url,Vidar botnet C2 (confidence level: 100%),https://p.p.formaxprime.co.uk/
+url,Vidar botnet C2 (confidence level: 100%),https://t.formaxprime.co.uk/
+url,Vidar botnet C2 (confidence level: 100%),https://159.69.103.88/
+url,Vidar botnet C2 (confidence level: 100%),https://95.217.31.199/
+domain,Vidar botnet C2 domain (confidence level: 100%),p.p.formaxprime.co.uk
+ip-dst|port,Vidar botnet C2 server (confidence level: 100%),159.69.103.88|443
+ip-dst|port,Vidar botnet C2 server (confidence level: 100%),95.217.31.199|443
+url,Lumma Stealer botnet C2 (confidence level: 75%),https://menuedgarli.shop/api
+url,Lumma Stealer botnet C2 (confidence level: 75%),https://9hfeatureccus.shop/api
+url,Lumma Stealer botnet C2 (confidence level: 75%),https://mjowinjoinery.icu/api
+url,ClearFake payload delivery URL (confidence level: 100%),https://check.pekyy.icu/gkcxv.google
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),148.66.2.198|80
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),1.94.226.40|80
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),148.66.2.194|80
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),47.94.13.75|8888
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),176.65.140.174|8090
+ip-dst|port,ShadowPad botnet C2 server (confidence level: 90%),192.121.162.90|443
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),64.52.80.165|8080
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),46.246.82.12|1000
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),176.65.144.28|7707
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),176.65.144.28|8808
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),176.65.144.28|6606
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),176.65.142.245|888
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),cityscapea.run
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),20.83.166.168|443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),20.229.219.79|443
+ip-dst|port,Hook botnet C2 server (confidence level: 100%),20.191.194.222|8089
+ip-dst|port,Hook botnet C2 server (confidence level: 100%),3.0.27.202|80
+ip-dst|port,Havoc botnet C2 server (confidence level: 100%),172.205.115.95|443
+ip-dst|port,Havoc botnet C2 server (confidence level: 100%),185.43.5.227|443
+domain,Havoc botnet C2 domain (confidence level: 100%),cpcalendars.newzofnetworksera.com
+domain,Havoc botnet C2 domain (confidence level: 100%),webmail.bestnewznetworks.com
+ip-dst|port,DCRat botnet C2 server (confidence level: 100%),195.82.146.19|8080
+ip-dst|port,Nimplant botnet C2 server (confidence level: 100%),47.243.184.85|80
+ip-dst|port,ValleyRAT botnet C2 server (confidence level: 100%),171.35.163.120|88
+domain,DCRat botnet C2 domain (confidence level: 100%),artemcd9.beget.tech
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),sweetmdreampillow.today
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),menuedgarli.shop
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),kbracketba.shop
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),148.66.2.197|80
+domain,Cobalt Strike botnet C2 domain (confidence level: 75%),backup.timebrokepush.com
+domain,Cobalt Strike botnet C2 domain (confidence level: 75%),gov.nic-in.com
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 75%),107.148.37.106|443
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://sweetmdreampillow.today/api
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 75%),196.251.84.191|80
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 75%),20.61.175.58|8443
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://kbracketba.shop/api
+url,FAKEUPDATES payload delivery URL (confidence level: 100%),https://doodstream.shop/files/original.js
+url,FAKEUPDATES payload delivery URL (confidence level: 100%),https://doodstream.shop/files/index.php
+url,FAKEUPDATES payload delivery URL (confidence level: 100%),https://doodstream.shop/files/fis.php
+url,FAKEUPDATES payload delivery URL (confidence level: 100%),https://pro.fivepathways.com/kbdtam99.zip
+url,ClearFake payload delivery URL (confidence level: 100%),https://check.tefee.icu/gkcxv.google
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),1.92.142.27|443
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),148.66.2.196|80
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),148.66.2.195|80
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),43.138.54.95|80
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),62.171.159.81|5671
+ip-dst|port,Sliver botnet C2 server (confidence level: 100%),44.222.138.160|443
+ip-dst|port,Sliver botnet C2 server (confidence level: 100%),88.175.108.174|49153
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),186.169.89.221|11103
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),161.97.101.53|2003
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),64.52.80.165|443
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),64.52.80.165|4444
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),market-lum.fun
+ip-dst|port,Hook botnet C2 server (confidence level: 100%),176.97.67.5|8089
+ip-dst|port,Hook botnet C2 server (confidence level: 100%),20.191.194.222|3000
+ip-dst|port,Havoc botnet C2 server (confidence level: 100%),159.223.73.228|80
+ip-dst|port,Venom RAT botnet C2 server (confidence level: 100%),176.65.142.71|4449
+ip-dst|port,NetSupportManager RAT botnet C2 server (confidence level: 100%),18.170.115.178|20548
+ip-dst|port,NetSupportManager RAT botnet C2 server (confidence level: 100%),15.168.15.67|35203
+ip-dst|port,NetSupportManager RAT botnet C2 server (confidence level: 100%),15.168.15.67|35753
+url,Pony botnet C2 (confidence level: 100%),http://justcreature.com/forum/viewtopic.php
+url,Pony botnet C2 (confidence level: 100%),http://justmonster.com/forum/viewtopic.php
+url,Amadey botnet C2 (confidence level: 100%),http://45.93.20.224/pndj30vs11/index.php
+url,Unknown Loader botnet C2 (confidence level: 100%),http://snailsflesh.xyz/lod.php
+url,Unknown Loader botnet C2 (confidence level: 100%),http://snailsflesh.xyz/dol.php
+url,Unknown Loader botnet C2 (confidence level: 100%),http://massminister.icu/she.php
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://webinspisrve.icu/api
+url,Pony botnet C2 (confidence level: 100%),http://109.163.229.3/rm/gate.php
+url,SmartLoader botnet C2 (confidence level: 75%),http://150.241.105.82/api/owusodesn2qsytasytmsogesogmsotusnmisodis
+url,SmartLoader botnet C2 (confidence level: 75%),http://77.105.164.40/api/owusodesn2qsytasytmsogesogmsotusnmisodis
+url,SmartLoader botnet C2 (confidence level: 75%),http://94.156.114.56/api/ytasodysodisowqsytesodgsotasotusnjusn2qs
+url,SmartLoader botnet C2 (confidence level: 75%),http://213.176.73.80/api/ytasodysodisowqsytesodgsotasotusnjusn2qs
+ip-dst|port,Amadey botnet C2 server (confidence level: 50%),45.93.20.224|80
+url,Lumma Stealer botnet C2 (confidence level: 75%),https://sjowinjoinery.icu/api
+domain,Cobalt Strike botnet C2 domain (confidence level: 75%),7paa3sg1yhyax.cfc-execute.bj.baidubce.com
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 75%),47.92.205.12|443
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 75%),47.92.205.12|80
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),crosshairc.life/danjhw
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),18.166.29.195|443
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),172.111.137.68|1962
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),176.65.140.64|8808
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),207.231.111.146|2106
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),20.229.219.84|443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),4.221.185.235|7443
+ip-dst|port,Havoc botnet C2 server (confidence level: 100%),52.169.163.36|80
+domain,Havoc botnet C2 domain (confidence level: 100%),cpcontacts.fortnewzoutlooks.xyz
+domain,Havoc botnet C2 domain (confidence level: 100%),cpcontacts.onebusinessportal.xyz
+domain,Havoc botnet C2 domain (confidence level: 100%),ip70-185-170-81.mc.at.cox.net
+domain,Havoc botnet C2 domain (confidence level: 100%),webmail.newzmediaworld.xyz
+domain,Havoc botnet C2 domain (confidence level: 100%),company.fithiphealthy.com
+domain,Havoc botnet C2 domain (confidence level: 100%),cpcalendars.wealthwrknetwork.xyz
+domain,Havoc botnet C2 domain (confidence level: 100%),cpcalendars.dmustkpoint.xyz
+domain,Havoc botnet C2 domain (confidence level: 100%),webdisk.modegenerlshub.xyz
+domain,Havoc botnet C2 domain (confidence level: 100%),webdisk.gamesandufabetpro.website
+domain,Havoc botnet C2 domain (confidence level: 100%),webdisk.bsttoolswx.xyz
+domain,Havoc botnet C2 domain (confidence level: 100%),cpcalendars.fastnewclub.xyz
+domain,Havoc botnet C2 domain (confidence level: 100%),cpcalendars.ufabets.website
+domain,Havoc botnet C2 domain (confidence level: 100%),cpanel.fivetopbusiness.xyz
+domain,Havoc botnet C2 domain (confidence level: 100%),cpcalendars.ufabetandcasinos.website
+domain,Havoc botnet C2 domain (confidence level: 100%),webdisk.domizmusk.website
+url,Pony botnet C2 (confidence level: 100%),http://aldierifs.com/woxo/panel/gate.php
+domain,ClearFake payload delivery domain (confidence level: 100%),jsfiles-bqq.pages.dev
+domain,ClearFake payload delivery domain (confidence level: 100%),bbb1-9we.pages.dev
+domain,ClearFake payload delivery domain (confidence level: 100%),items.kycc-camera.shop
+url,ClearFake payload delivery URL (confidence level: 100%),https://check.fesuy.icu/gkcxv.google
+url,Lumma Stealer botnet C2 (confidence level: 75%),https://7menuedgarli.shop/api
+ip-dst|port,Brute Ratel C4 botnet C2 server (confidence level: 75%),157.245.194.205|8443
+ip-dst|port,BianLian botnet C2 server (confidence level: 75%),195.49.25.226|443
+ip-dst|port,DanaBot botnet C2 server (confidence level: 75%),45.61.136.204|443
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 75%),207.231.111.146|1996
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 75%),207.231.111.146|6666
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 75%),207.231.111.146|7777
+url,Lumma Stealer botnet C2 (confidence level: 75%),https://citydisco.bet/api
+url,Lumma Stealer botnet C2 (confidence level: 75%),https://vrfeatureccus.shop/api
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 75%),47.83.166.243|443
