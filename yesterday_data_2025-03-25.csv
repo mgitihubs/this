@@ -1,0 +1,953 @@
+Type,Comment,Value
+domain,ClearFake payload delivery domain (confidence level: 75%),youpteck.com
+domain,Mirai botnet C2 domain (confidence level: 100%),anti.linkpc.net
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://astralforging.top/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://mweteorm.top/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://qnaturecud.top/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://elegangtedg.top/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://conqstructcor.top/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://townwand.top/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://panelplxace.top/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://usefulutivli.top/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://urbaninsi.top/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://suptplystati.shop/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://hannndlehav.shop/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://tfooltaver.shop/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://modernmhake.shop/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://guardiainpets.shop/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://protectaze.shop/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://upgradezunio.shop/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://firepowerf.shop/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://riflesandm.shop/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://guncontrold.shop/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://marksmanmy.shop/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://sniperins.shop/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://defensein.shop/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://discoverou.shop/api
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://scenarisacri.top/api
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),astralforging.top
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),mweteorm.top
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),qnaturecud.top
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),elegangtedg.top
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),conqstructcor.top
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),townwand.top
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),panelplxace.top
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),usefulutivli.top
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),urbaninsi.top
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),suptplystati.shop
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),hannndlehav.shop
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),tfooltaver.shop
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),modernmhake.shop
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),guardiainpets.shop
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),protectaze.shop
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),upgradezunio.shop
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),firepowerf.shop
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),riflesandm.shop
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),guncontrold.shop
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),marksmanmy.shop
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),sniperins.shop
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),defensein.shop
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),discoverou.shop
+ip-dst|port,Mirai botnet C2 server (confidence level: 100%),103.77.246.176|1337
+ip-dst|port,Mirai botnet C2 server (confidence level: 100%),103.77.246.176|3912
+ip-dst|port,Mirai botnet C2 server (confidence level: 100%),103.77.246.176|56412
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),172.98.23.97|12345
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),190.205.233.105|443
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),18.198.77.177|12951
+ip-dst|port,Venom RAT botnet C2 server (confidence level: 100%),154.204.45.147|8989
+ip-dst|port,NetSupportManager RAT botnet C2 server (confidence level: 100%),181.167.82.139|5603
+ip-dst|port,Nimplant botnet C2 server (confidence level: 100%),46.247.108.127|80
+url,Lumma Stealer botnet C2 (confidence level: 100%),http://gogetxto.life/posn
+url,Lumma Stealer botnet C2 (confidence level: 100%),http://pupmeholk.bet/paoska
+url,Lumma Stealer botnet C2 (confidence level: 100%),http://guntac.bet/bhwsyos
+url,Lumma Stealer botnet C2 (confidence level: 100%),http://exploreth.shop/gyzsp
+url,Lumma Stealer botnet C2 (confidence level: 100%),http://areawannte.bet/agxsjx
+url,Lumma Stealer botnet C2 (confidence level: 100%),http://farmingtzricks.top
+url,Lumma Stealer botnet C2 (confidence level: 100%),http://experimentalideas.today
+url,Lumma Stealer botnet C2 (confidence level: 100%),http://techpxioneers.run
+domain,Cobalt Strike botnet C2 domain (confidence level: 75%),c1.cannimade.xyz
+domain,Cobalt Strike botnet C2 domain (confidence level: 75%),cdn.ooponoob.xyz
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 75%),185.184.123.84|54412
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 75%),47.243.99.248|443
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 75%),8.134.163.255|2096
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),103.27.109.46|443
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),45.152.149.7|8808
+ip-dst|port,Havoc botnet C2 server (confidence level: 100%),152.42.219.50|443
+ip-dst|port,NetSupportManager RAT botnet C2 server (confidence level: 100%),3.68.102.213|1201
+ip-dst|port,NetSupportManager RAT botnet C2 server (confidence level: 100%),65.0.11.173|28015
+ip-dst|port,Brute Ratel C4 botnet C2 server (confidence level: 100%),31.31.207.21|443
+domain,Bashlite botnet C2 domain (confidence level: 100%),autodiscover.a.ora-0-web.com
+domain,Bashlite botnet C2 domain (confidence level: 100%),cpanel.e.multi-canale.com
+domain,Bashlite botnet C2 domain (confidence level: 100%),webdisk.adesso-online.com
+domain,Cobalt Strike botnet C2 domain (confidence level: 75%),dickstops.mahua.one
+domain,Cobalt Strike botnet C2 domain (confidence level: 100%),www.crimsoncovelabs.xyz
+domain,Cobalt Strike botnet C2 domain (confidence level: 100%),a-0002.a2-msedge.net
+domain,Cobalt Strike botnet C2 domain (confidence level: 100%),node-sc.owemo.com
+domain,Hook botnet C2 domain (confidence level: 100%),grswjp.com
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),51.81.46.71|4782
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),103.142.147.17|60000
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),147.182.240.74|3333
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),3.133.177.159|8443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),20.250.185.182|3333
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),13.48.143.140|3333
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),187.45.190.244|63333
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),68.219.178.230|3334
+ip-dst|port,NjRAT botnet C2 server (confidence level: 75%),18.192.93.86|12629
+ip-dst|port,NjRAT botnet C2 server (confidence level: 75%),18.156.13.209|12629
+ip-dst|port,NjRAT botnet C2 server (confidence level: 75%),18.157.68.73|12629
+ip-dst|port,Rhadamanthys botnet C2 server (confidence level: 100%),176.65.134.153|9912
+url,Rhadamanthys botnet C2 (confidence level: 100%),https://176.65.134.153:9912/20abda5e27a457d5bae88f8/smgx4whh.hodau
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),45.119.211.12|7077
+url,DCRat botnet C2 (confidence level: 100%),http://a1101496.xsph.ru/9af4cbe8.php
+ip-dst|port,RedLine Stealer botnet C2 server (confidence level: 100%),195.211.191.155|1912
+ip-dst|port,RedLine Stealer botnet C2 server (confidence level: 100%),185.153.198.36|1912
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),64.95.11.214|4782
+url,Loki Password Stealer (PWS) botnet C2 (confidence level: 100%),http://beesco.net/second/chief3/fre.php
+url,Mozi payload delivery URL (confidence level: 50%),http://182.124.18.157:33940/mozi.m
+url,Mozi payload delivery URL (confidence level: 50%),http://45.164.177.134:11762/mozi.m
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 50%),104.194.152.74|8443
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 50%),101.133.156.69|18888
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 50%),43.163.116.82|2053
+ip-dst|port,Sliver botnet C2 server (confidence level: 50%),167.71.27.117|31337
+ip-dst|port,Sliver botnet C2 server (confidence level: 50%),206.206.76.78|31337
+ip-dst|port,Sliver botnet C2 server (confidence level: 50%),62.60.226.168|31337
+ip-dst|port,Sliver botnet C2 server (confidence level: 50%),2.57.241.11|31337
+ip-dst|port,Xtreme RAT botnet C2 server (confidence level: 50%),119.167.234.93|10001
+ip-dst|port,Xtreme RAT botnet C2 server (confidence level: 50%),114.67.64.67|10001
+ip-dst|port,Ghost RAT botnet C2 server (confidence level: 50%),87.26.121.157|80
+ip-dst|port,Mozi botnet C2 server (confidence level: 50%),117.209.9.66|45668
+url,Alien botnet C2 (confidence level: 50%),http://a05qdzfe6qa1.xyz
+url,Alien botnet C2 (confidence level: 50%),http://abindizzobremin.tk
+url,Alien botnet C2 (confidence level: 50%),http://buralarneler.com
+url,Alien botnet C2 (confidence level: 50%),http://kilimcinursia3.com
+domain,Alien botnet C2 domain (confidence level: 50%),a05qdzfe6qa1.xyz
+domain,Alien botnet C2 domain (confidence level: 50%),abindizzobremin.tk
+domain,Alien botnet C2 domain (confidence level: 50%),buralarneler.com
+domain,Alien botnet C2 domain (confidence level: 50%),kilimcinursia3.com
+domain,Amadey botnet C2 domain (confidence level: 50%),procleaninger.top
+domain,AsyncRAT botnet C2 domain (confidence level: 50%),naphax.duckdns.org
+domain,AsyncRAT botnet C2 domain (confidence level: 50%),xptmue1si.localto.net
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 50%),216.170.123.10|5557
+domain,CryptBot botnet C2 domain (confidence level: 50%),mincir07.top
+domain,CryptBot botnet C2 domain (confidence level: 50%),mindoi05.top
+url,CryptBot botnet C2 (confidence level: 50%),http://befqlo52.top/index.php
+url,CryptBot botnet C2 (confidence level: 50%),http://befyum42.top/index.php
+url,CryptBot botnet C2 (confidence level: 50%),http://mincir07.top/download.php?file=lv.exe
+url,CryptBot botnet C2 (confidence level: 50%),http://mindoi05.top/download.php?file=lv.exe
+url,CryptBot botnet C2 (confidence level: 50%),http://morkoe04.top/index.php
+url,CryptBot botnet C2 (confidence level: 50%),http://mortos05.top/index.ph
+domain,DCRat botnet C2 domain (confidence level: 50%),countries-discovery.gl.at.ply.gg
+domain,DCRat botnet C2 domain (confidence level: 50%),getting-regulation.gl.at.ply.gg
+ip-dst|port,DCRat botnet C2 server (confidence level: 50%),151.236.9.205|2009
+ip-dst|port,DCRat botnet C2 server (confidence level: 50%),38.49.43.182|8848
+url,Unknown Loader payload delivery URL (confidence level: 50%),http://akaliresources.com/png_dceuuf230.bin
+url,Unknown Loader payload delivery URL (confidence level: 50%),http://akaliresources.com/test_feayb239.bin
+url,Unknown Loader payload delivery URL (confidence level: 50%),http://kiencuonghotel.vn/3month_rwhwwlga208.bin
+url,Unknown Loader payload delivery URL (confidence level: 50%),http://od.lk/s/nzhfmjexnty2nzlf/png_dceuuf230.bin
+url,Unknown Loader payload delivery URL (confidence level: 50%),https://mindforcehypnosis.com/fas/decemberomo_fkoic77.bin
+url,Unknown Loader payload delivery URL (confidence level: 50%),https://od.lk/s/nzhfmjexnty2nzzf/test_feayb239.bin
+url,Hydra botnet C2 (confidence level: 50%),https://babosiki.buzz
+url,Hydra botnet C2 (confidence level: 50%),https://trustpoopin.xyz
+url,Hydra botnet C2 (confidence level: 50%),https://trygotii.xyz
+url,Hydra botnet C2 (confidence level: 50%),https://trytogoi.xyz
+domain,NetWire RC botnet C2 domain (confidence level: 50%),deesesejh45.hopto.org
+domain,Orcus RAT botnet C2 domain (confidence level: 50%),h0metowgh0svi3ws.servequake.com
+domain,Quasar RAT botnet C2 domain (confidence level: 50%),bayotam991-51100.portmap.host
+domain,Quasar RAT botnet C2 domain (confidence level: 50%),morelogs.thruhere.net
+domain,Quasar RAT botnet C2 domain (confidence level: 50%),pepegajus-33332.portmap.host
+ip-dst|port,Remcos botnet C2 server (confidence level: 50%),192.3.64.144|1070
+ip-dst|port,Remcos botnet C2 server (confidence level: 50%),192.3.64.144|14645
+ip-dst|port,Remcos botnet C2 server (confidence level: 50%),192.3.64.144|14646
+ip-dst|port,SpyNote botnet C2 server (confidence level: 50%),78.166.251.201|3132
+domain,Vidar payload delivery domain (confidence level: 50%),hokagehuyaki.space
+domain,XenoRAT botnet C2 domain (confidence level: 50%),dwdwdad2-57443.portmap.host
+domain,Formbook botnet C2 domain (confidence level: 50%),43414newportdr.com
+domain,Formbook botnet C2 domain (confidence level: 50%),78kanshu.net
+domain,Formbook botnet C2 domain (confidence level: 50%),aloharecords.com
+domain,Formbook botnet C2 domain (confidence level: 50%),amazonprim8.art
+domain,Formbook botnet C2 domain (confidence level: 50%),amq-studio.com
+domain,Formbook botnet C2 domain (confidence level: 50%),aplustd.com
+domain,Formbook botnet C2 domain (confidence level: 50%),artofsapna.com
+domain,Formbook botnet C2 domain (confidence level: 50%),bcheaptvwd.com
+domain,Formbook botnet C2 domain (confidence level: 50%),beauskitchen.com
+domain,Formbook botnet C2 domain (confidence level: 50%),breakfastcandy.net
+domain,Formbook botnet C2 domain (confidence level: 50%),caffeinatedmamasblog.com
+domain,Formbook botnet C2 domain (confidence level: 50%),candleish.com
+domain,Formbook botnet C2 domain (confidence level: 50%),comminterbusiness.com
+domain,Formbook botnet C2 domain (confidence level: 50%),crispcleanbodyrituals.com
+domain,Formbook botnet C2 domain (confidence level: 50%),dentonparalegals.com
+domain,Formbook botnet C2 domain (confidence level: 50%),devitasaude.com
+domain,Formbook botnet C2 domain (confidence level: 50%),downlooader.com
+domain,Formbook botnet C2 domain (confidence level: 50%),dreammakeloja.com
+domain,Formbook botnet C2 domain (confidence level: 50%),erraticer.com
+domain,Formbook botnet C2 domain (confidence level: 50%),evokingcalm.com
+domain,Formbook botnet C2 domain (confidence level: 50%),fjweiwang.com
+domain,Formbook botnet C2 domain (confidence level: 50%),free-outlet.com
+domain,Formbook botnet C2 domain (confidence level: 50%),friendsofhersheypa.com
+domain,Formbook botnet C2 domain (confidence level: 50%),greaterdiabetes.info
+domain,Formbook botnet C2 domain (confidence level: 50%),helptechservices.com
+domain,Formbook botnet C2 domain (confidence level: 50%),hjscinc.com
+domain,Formbook botnet C2 domain (confidence level: 50%),idealgaysex.com
+domain,Formbook botnet C2 domain (confidence level: 50%),justincook.xyz
+domain,Formbook botnet C2 domain (confidence level: 50%),latinaexpres.com
+domain,Formbook botnet C2 domain (confidence level: 50%),mail-businessprinting.com
+domain,Formbook botnet C2 domain (confidence level: 50%),make-trends.com
+domain,Formbook botnet C2 domain (confidence level: 50%),mckarthylabscoe.com
+domain,Formbook botnet C2 domain (confidence level: 50%),mcwildwest.net
+domain,Formbook botnet C2 domain (confidence level: 50%),mercyvh.com
+domain,Formbook botnet C2 domain (confidence level: 50%),modernhomeskitchen.com
+domain,Formbook botnet C2 domain (confidence level: 50%),monnetier-mornex.com
+domain,Formbook botnet C2 domain (confidence level: 50%),mosterth.com
+domain,Formbook botnet C2 domain (confidence level: 50%),mousybusiness.com
+domain,Formbook botnet C2 domain (confidence level: 50%),nationalreturnday.com
+domain,Formbook botnet C2 domain (confidence level: 50%),neotactic.net
+domain,Formbook botnet C2 domain (confidence level: 50%),nocreditcarswestpalm.com
+domain,Formbook botnet C2 domain (confidence level: 50%),orchid-iris.com
+domain,Formbook botnet C2 domain (confidence level: 50%),owner.codes
+domain,Formbook botnet C2 domain (confidence level: 50%),packorganically.com
+domain,Formbook botnet C2 domain (confidence level: 50%),penislandbrews.com
+domain,Formbook botnet C2 domain (confidence level: 50%),prandartsagency.com
+domain,Formbook botnet C2 domain (confidence level: 50%),riquimbilis.com
+domain,Formbook botnet C2 domain (confidence level: 50%),roechling-roding.run
+domain,Formbook botnet C2 domain (confidence level: 50%),ruffstuffstore.com
+domain,Formbook botnet C2 domain (confidence level: 50%),sajjaddeveloper.com
+domain,Formbook botnet C2 domain (confidence level: 50%),sewythingy.com
+domain,Formbook botnet C2 domain (confidence level: 50%),shopjrock.com
+domain,Formbook botnet C2 domain (confidence level: 50%),stockandbarrell.com
+domain,Formbook botnet C2 domain (confidence level: 50%),sweetsasu.com
+domain,Formbook botnet C2 domain (confidence level: 50%),tatsunoichie.com
+domain,Formbook botnet C2 domain (confidence level: 50%),tdmmk.site
+domain,Formbook botnet C2 domain (confidence level: 50%),tesla-commercio.com
+domain,Formbook botnet C2 domain (confidence level: 50%),tiedcaps.rest
+domain,Formbook botnet C2 domain (confidence level: 50%),tncnn.com
+domain,Formbook botnet C2 domain (confidence level: 50%),trephone.art
+domain,Formbook botnet C2 domain (confidence level: 50%),whentime12.com
+domain,Formbook botnet C2 domain (confidence level: 50%),xn--gdask-y7a.com
+domain,Formbook botnet C2 domain (confidence level: 50%),xzaztlrl.icu
+url,Formbook botnet C2 (confidence level: 50%),http://www.43414newportdr.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.78kanshu.net/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.aloharecords.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.amazonprim8.art/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.amq-studio.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.aplustd.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.artofsapna.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.bcheaptvwd.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.beauskitchen.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.breakfastcandy.net/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.caffeinatedmamasblog.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.candleish.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.comminterbusiness.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.crispcleanbodyrituals.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.csgo-c4ses.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.dentonparalegals.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.devitasaude.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.downlooader.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.dreammakeloja.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.erraticer.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.evokingcalm.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.fjweiwang.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.free-outlet.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.friendsofhersheypa.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.greaterdiabetes.info/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.helptechservices.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.hjscinc.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.idealgaysex.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.justincook.xyz/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.latinaexpres.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.mail-businessprinting.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.make-trends.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.mckarthylabscoe.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.mcwildwest.net/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.mercyvh.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.modernhomeskitchen.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.monnetier-mornex.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.mosterth.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.mousybusiness.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.nationalreturnday.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.neotactic.net/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.nocreditcarswestpalm.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.octoberx2.online/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.orchid-iris.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.owner.codes/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.packorganically.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.penislandbrews.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.prandartsagency.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.riquimbilis.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.roechling-roding.run/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.ruffstuffstore.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.sajjaddeveloper.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.sewythingy.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.shopjrock.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.stockandbarrell.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.sweetsasu.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.tatsunoichie.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.tdmmk.site/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.tesla-commercio.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.tiedcaps.rest/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.tncnn.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.trephone.art/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.whentime12.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.xn--gdask-y7a.com/bw82/
+url,Formbook botnet C2 (confidence level: 50%),http://www.xzaztlrl.icu/bw82/
+domain,XWorm botnet C2 domain (confidence level: 50%),language-lose.gl.at.ply.gg
+domain,XWorm botnet C2 domain (confidence level: 50%),makes-tonight.gl.at.ply.gg
+domain,XWorm botnet C2 domain (confidence level: 50%),sell-doctor.gl.at.ply.gg
+domain,XWorm botnet C2 domain (confidence level: 50%),smegmamuncher.duckdns.org
+ip-dst|port,XWorm botnet C2 server (confidence level: 50%),45.88.91.108|7000
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),escapoly.shop
+ip-dst|port,Bashlite botnet C2 server (confidence level: 75%),176.65.142.252|7575
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),196.251.85.31|443
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),8.129.233.201|8888
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),103.82.53.18|61234
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),52.68.47.107|443
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),196.251.86.41|2404
+url,Lumma Stealer botnet C2 (confidence level: 100%),https://galarona.bet/gkans
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),196.251.70.240|6606
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),196.251.69.138|2222
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),64.23.207.221|443
+ip-dst|port,Hook botnet C2 server (confidence level: 100%),27.124.4.224|80
+ip-dst|port,Hook botnet C2 server (confidence level: 100%),27.124.4.223|80
+ip-dst|port,Hook botnet C2 server (confidence level: 100%),27.124.4.217|80
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),94.156.177.171|4782
+ip-dst|port,Havoc botnet C2 server (confidence level: 100%),104.194.152.74|443
+ip-dst|port,Orcus RAT botnet C2 server (confidence level: 100%),87.251.78.226|8080
+ip-dst|port,DCRat botnet C2 server (confidence level: 100%),217.18.210.142|1998
+ip-dst|port,NetSupportManager RAT botnet C2 server (confidence level: 100%),35.78.186.43|6957
+ip-dst|port,NetSupportManager RAT botnet C2 server (confidence level: 100%),93.198.178.208|82
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),travielup.top
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),77.92.145.20|9000
+domain,Bashlite botnet C2 domain (confidence level: 100%),cpcontacts.a.ora-0-web.com
+domain,Bashlite botnet C2 domain (confidence level: 100%),webmail.multi-canale.com
+url,Vidar botnet C2 (confidence level: 100%),https://x.p.formaxprime.co.uk/
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),110.40.132.172|80
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),118.31.107.122|1234
+ip-dst|port,QakBot botnet C2 server (confidence level: 75%),169.1.137.250|443
+ip-dst|port,DeimosC2 botnet C2 server (confidence level: 75%),94.130.144.246|443
+ip-dst|port,Meterpreter botnet C2 server (confidence level: 75%),65.49.235.251|443
+url,FAKEUPDATES payload delivery URL (confidence level: 100%),https://arpobe.hemispheredrown.tech/ww_ee_hh_3439649453166363dc95741517459564.js
+url,FAKEUPDATES payload delivery URL (confidence level: 100%),https://groundrats.org/thhggedyan6yguchwex98r1ylpaoq9zvv2t6wfy5sox
+url,Lumma Stealer botnet C2 (confidence level: 100%),http://217.197.107.91/login.php
+url,Unknown malware botnet C2 (confidence level: 100%),http://5.252.155.168/builds/uploads2/update.png
+url,Unknown malware botnet C2 (confidence level: 100%),http://5.252.155.168/builds/uploads2/update2.png
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),27dd67e8.biz.ua
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),27dd67e8.cfd
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),27dd67e8.sbs
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),27dd67e8.xyz
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),2d89e015.biz.ua
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),2d89e015.cfd
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),2d89e015.sbs
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),2d89e015.xyz
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),4ad74aab.biz.ua
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),4ad74aab.cfd
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),4ad74aab.sbs
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),4ad74aab.xyz
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),4e577395.biz.ua
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),4e577395.cfd
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),4e577395.sbs
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),4e577395.xyz
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),54f484f2.biz.ua
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),54f484f2.cfd
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),54f484f2.sbs
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),54f484f2.xyz
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),6e93d646.biz.ua
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),6e93d646.cfd
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),6e93d646.sbs
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),6e93d646.xyz
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),791688a4.biz.ua
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),791688a4.cfd
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),791688a4.sbs
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),791688a4.xyz
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),80ce6519.biz.ua
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),80ce6519.cfd
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),80ce6519.sbs
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),80ce6519.xyz
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),9203ebc7.biz.ua
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),9203ebc7.cfd
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),9203ebc7.sbs
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),9203ebc7.xyz
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),9243e231.biz.ua
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),9243e231.cfd
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),9243e231.sbs
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),9243e231.xyz
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),942a8b18.biz.ua
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),942a8b18.cfd
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),942a8b18.sbs
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),942a8b18.xyz
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),9e8fae09.biz.ua
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),9e8fae09.cfd
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),9e8fae09.sbs
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),9e8fae09.xyz
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),b170e747.biz.ua
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),b170e747.cfd
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),b170e747.sbs
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),b170e747.xyz
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),bc0324ae.biz.ua
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),bc0324ae.cfd
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),bc0324ae.sbs
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),bc0324ae.xyz
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),bfd8690b.biz.ua
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),bfd8690b.cfd
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),bfd8690b.sbs
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),bfd8690b.xyz
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),d27ef8b8.biz.ua
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),d27ef8b8.cfd
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),d27ef8b8.sbs
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),d27ef8b8.xyz
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),d3b79f13.biz.ua
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),d3b79f13.cfd
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),d3b79f13.sbs
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),d3b79f13.xyz
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),d79046bd.biz.ua
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),d79046bd.cfd
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),d79046bd.sbs
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),d79046bd.xyz
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),db49f51f.biz.ua
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),db49f51f.cfd
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),db49f51f.sbs
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),db49f51f.xyz
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa2b8b86.biz.ua
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa2b8b86.cfd
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa2b8b86.sbs
+domain,DarkWatchman botnet C2 domain (confidence level: 100%),fa2b8b86.xyz
+ip-dst|port,DarkWatchman botnet C2 server (confidence level: 75%),188.40.187.134|443
+domain,Remcos botnet C2 domain (confidence level: 100%),idonetire.duckdns.org
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),cometaxk.run
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),117.50.184.22|8080
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),2.58.56.217|4444
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),51.195.91.59|443
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),47.109.82.220|443
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),59.110.4.100|8081
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),204.77.9.25|8808
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),23.95.106.22|9969
+ip-dst|port,DCRat botnet C2 server (confidence level: 100%),47.115.225.92|8848
+ip-dst|port,NetSupportManager RAT botnet C2 server (confidence level: 100%),3.10.176.75|13858
+ip-dst|port,Chaos botnet C2 server (confidence level: 100%),52.221.213.139|8080
+ip-dst|port,Bashlite botnet C2 server (confidence level: 100%),94.103.188.118|23
+domain,Bashlite botnet C2 domain (confidence level: 100%),autodiscover.webprocediweb.com
+ip-dst|port,Bashlite botnet C2 server (confidence level: 100%),213.152.43.231|80
+domain,Bashlite botnet C2 domain (confidence level: 100%),cpanel.webprocediweb.com
+url,Stealc botnet C2 (confidence level: 100%),http://176.65.142.161/f698bbaeef359c28.php
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),216.250.248.203|1988
+ip-dst|port,FAKEUPDATES payload delivery server (confidence level: 100%),185.184.123.58|443
+ip-dst|port,Mirai botnet C2 server (confidence level: 100%),213.209.129.92|32891
+domain,Remcos botnet C2 domain (confidence level: 100%),dukasbecomeagreatpersonwhowantotbecomegreatnessfor.ydns.eu
+ip-dst|port,Remcos botnet C2 server (confidence level: 75%),192.227.168.165|14645
+url,Mozi payload delivery URL (confidence level: 50%),http://45.164.177.172:11759/mozi.m
+domain,Cobalt Strike botnet C2 domain (confidence level: 75%),api-pyciglnrcf.cn-beijing.fcapp.run
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 75%),14.128.50.20|8080
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 75%),14.128.50.24|8080
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 75%),43.140.215.17|443
+url,Unknown malware payload delivery URL (confidence level: 75%),http://87.121.84.145/bins/x86
+ip-dst|port,ValleyRAT botnet C2 server (confidence level: 100%),47.86.28.28|10861
+url,Mozi payload delivery URL (confidence level: 100%),http://113.121.69.251:38859/mozi.m
+ip-dst|port,Remcos botnet C2 server (confidence level: 75%),196.251.93.44|47666
+url,FAKEUPDATES payload delivery URL (confidence level: 100%),https://pdmfg.com/1q2w.js
+domain,FAKEUPDATES payload delivery domain (confidence level: 100%),pdmfg.com
+url,FAKEUPDATES payload delivery URL (confidence level: 100%),https://pdmfg.com/js.php
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 50%),101.42.18.6|9898
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 50%),123.57.146.124|12345
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 50%),185.239.209.227|443
+ip-dst|port,NetSupportManager RAT botnet C2 server (confidence level: 50%),82.68.2.174|31022
+ip-dst|port,NetSupportManager RAT botnet C2 server (confidence level: 50%),50.233.74.170|6001
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 50%),35.215.196.4|3333
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 50%),178.128.245.28|33338
+ip-dst|port,Sliver botnet C2 server (confidence level: 50%),178.128.48.87|31337
+ip-dst|port,Xtreme RAT botnet C2 server (confidence level: 50%),47.97.253.190|10001
+ip-dst|port,Ghost RAT botnet C2 server (confidence level: 50%),81.149.70.25|443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 50%),18.224.18.64|9151
+ip-dst|port,Mozi botnet C2 server (confidence level: 50%),117.204.167.168|49443
+url,Lumma Stealer botnet C2 (confidence level: 50%),https://artillerygr.shop/api
+url,Unknown malware payload delivery URL (confidence level: 50%),http://www.securedmicrosoft365.com/
+url,Unknown malware payload delivery URL (confidence level: 50%),https://bilaxy-exchange-login.com/
+url,Agent Tesla botnet C2 (confidence level: 50%),https://activeheat.co.vu/dek/inc/f08405615b33f6.php
+url,Agent Tesla botnet C2 (confidence level: 50%),https://api.telegram.org/bot5811225301:aagg071-pnhbjlr9uzsrye9tc6lrnsam1mk/
+url,CryptBot botnet C2 (confidence level: 50%),http://mortos05.top/index.php
+domain,AsyncRAT botnet C2 domain (confidence level: 100%),windows-cam.casacam.net
+domain,AsyncRAT botnet C2 domain (confidence level: 100%),familyfriend.dynu.net
+url,Formbook botnet C2 (confidence level: 50%),http://www.26166.vip/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.583846.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.affiliate-marketing-82505.bond/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.age-spot-treatment-89993.bond/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.anahita-nl2.rest/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.anchorage-diels.net/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.ansomwareagile.shop/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.ao-m-nishinomiya.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.appalachianfx.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.appalachiangunrange.club/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.appkanal-web.biz/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.aralending.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.atmo.online/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.bgocni.info/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.bigiproperty.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.brandsincart.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.brazil920.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.cas100.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.casino-x-official-of6096.shop/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.cfa-cuu.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.cleanerkitchen-shop.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.cleaning-services-99433.bond/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.cremation-services-63446.bond/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.danielortega.dev/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.danmerinc.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.deariededradekker.cloud/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.delishany.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.dibayadk.shop/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.dichvubangchuan.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.dichvuviplike.pro/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.dutchesspistolpermit.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.egplek.net/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.emerm.autos/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.eratosantorini.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.essenciamoderna.store/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.essisoasesorias.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.ethgirls.xyz/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.fitdad.fitness/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.forbrighterlife.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.furniture-76263.bond/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.gamefislot.xyz/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.gamepixel.xyz/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.gempharmatechllc.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.grooming-gigi.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.halsmart.info/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.hatiyhgsnterahs.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.hellogringa.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.helniu.top/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.hiv-treatment-21144.bond/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.home-renovation-68987.bond/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.innerworkshops.love/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.interstateimaging.net/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.invest-eight.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.iran09.shop/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.it-jobs-11489.bond/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.jedzeniomat.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.jiangbozhibo.net/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.k978-k2bsp-mr.net/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.kayabrands.net/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.kforkidz.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.kissmanga.pro/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.klub8.vip/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.lailraw.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.lakewoodcharity.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.lilyamore.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.llink.net/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.loan-stalemate.info/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.lolydelapan.xyz/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.loud-media.net/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.lowdownlocal.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.lyfgyjxt.world/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.magentos6.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.manhe3.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.mechaf.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.media-cruise.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.mommabearmoney.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.monitoring-devices-79097.bond/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.mothersofmatriarchy.club/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.moutonneuropenihal.cloud/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.mybabysisterscloset.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.mysteryblack.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.ninetofivemama.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.nissicloud.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.niulorge.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.nursing-services-sa.click/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.office-space-26524.bond/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.oggetto.xyz/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.online-advertising-64131.bond/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.online-advertising-96907.bond/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.online-dating-10276.bond/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.paradisepsychotherapy.net/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.pawchamamapet.net/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.pelikansubelesindeindirim.xyz/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.pilotsugardaddys.net/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.prestigehometransformations.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.protypepuggedpumpers.cloud/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.reapen.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.relaynext.services/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.rocket178click.click/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.rolexoff-watch.vip/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.russtybeats.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.sanctitude-cuspidated.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.securityacadamy.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.sellmyhouseolympia.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.senashop.online/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.sloppyasians.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.smartphonesusapan.today/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.smile88.pro/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.solar-generator-52678.bond/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.solar-systems-panels-44596.bond/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.stratcte.shop/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.strictlyotaku.net/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.su-seikatu.info/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.texasrefinances.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.thelittleredcraftshack.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.tiktokmart.net/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.tilania.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.tp11okebet303.xyz/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.travelbackpackss.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.unempioymentpua.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.used-cars-58225.bond/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.vdmo070.top/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.vegbydesign.net/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.vspectra.site/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.wcaconline.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.wevertexinc.com/et2d/
+url,Formbook botnet C2 (confidence level: 50%),http://www.window-replacement-60891.bond/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.work-abroad-30072.bond/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.yiugf.shop/bopi/
+url,Formbook botnet C2 (confidence level: 50%),http://www.zorahthyart.xyz/bopi/
+domain,Formbook botnet C2 domain (confidence level: 50%),www.26166.vip
+domain,Formbook botnet C2 domain (confidence level: 50%),www.583846.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.affiliate-marketing-82505.bond
+domain,Formbook botnet C2 domain (confidence level: 50%),www.age-spot-treatment-89993.bond
+domain,Formbook botnet C2 domain (confidence level: 50%),www.anahita-nl2.rest
+domain,Formbook botnet C2 domain (confidence level: 50%),www.anchorage-diels.net
+domain,Formbook botnet C2 domain (confidence level: 50%),www.ansomwareagile.shop
+domain,Formbook botnet C2 domain (confidence level: 50%),www.ao-m-nishinomiya.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.appalachianfx.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.appalachiangunrange.club
+domain,Formbook botnet C2 domain (confidence level: 50%),www.appkanal-web.biz
+domain,Formbook botnet C2 domain (confidence level: 50%),www.aralending.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.atmo.online
+domain,Formbook botnet C2 domain (confidence level: 50%),www.bgocni.info
+domain,Formbook botnet C2 domain (confidence level: 50%),www.bigiproperty.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.brandsincart.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.brazil920.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.cas100.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.casino-x-official-of6096.shop
+domain,Formbook botnet C2 domain (confidence level: 50%),www.cfa-cuu.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.cleanerkitchen-shop.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.cleaning-services-99433.bond
+domain,Formbook botnet C2 domain (confidence level: 50%),www.cremation-services-63446.bond
+domain,Formbook botnet C2 domain (confidence level: 50%),www.danielortega.dev
+domain,Formbook botnet C2 domain (confidence level: 50%),www.danmerinc.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.deariededradekker.cloud
+domain,Formbook botnet C2 domain (confidence level: 50%),www.delishany.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.dibayadk.shop
+domain,Formbook botnet C2 domain (confidence level: 50%),www.dichvubangchuan.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.dichvuviplike.pro
+domain,Formbook botnet C2 domain (confidence level: 50%),www.dutchesspistolpermit.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.egplek.net
+domain,Formbook botnet C2 domain (confidence level: 50%),www.emerm.autos
+domain,Formbook botnet C2 domain (confidence level: 50%),www.eratosantorini.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.essenciamoderna.store
+domain,Formbook botnet C2 domain (confidence level: 50%),www.essisoasesorias.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.ethgirls.xyz
+domain,Formbook botnet C2 domain (confidence level: 50%),www.fitdad.fitness
+domain,Formbook botnet C2 domain (confidence level: 50%),www.forbrighterlife.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.furniture-76263.bond
+domain,Formbook botnet C2 domain (confidence level: 50%),www.gamefislot.xyz
+domain,Formbook botnet C2 domain (confidence level: 50%),www.gamepixel.xyz
+domain,Formbook botnet C2 domain (confidence level: 50%),www.gempharmatechllc.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.grooming-gigi.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.halsmart.info
+domain,Formbook botnet C2 domain (confidence level: 50%),www.hatiyhgsnterahs.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.hellogringa.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.helniu.top
+domain,Formbook botnet C2 domain (confidence level: 50%),www.hiv-treatment-21144.bond
+domain,Formbook botnet C2 domain (confidence level: 50%),www.home-renovation-68987.bond
+domain,Formbook botnet C2 domain (confidence level: 50%),www.innerworkshops.love
+domain,Formbook botnet C2 domain (confidence level: 50%),www.interstateimaging.net
+domain,Formbook botnet C2 domain (confidence level: 50%),www.invest-eight.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.iran09.shop
+domain,Formbook botnet C2 domain (confidence level: 50%),www.it-jobs-11489.bond
+domain,Formbook botnet C2 domain (confidence level: 50%),www.jedzeniomat.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.jiangbozhibo.net
+domain,Formbook botnet C2 domain (confidence level: 50%),www.k978-k2bsp-mr.net
+domain,Formbook botnet C2 domain (confidence level: 50%),www.kayabrands.net
+domain,Formbook botnet C2 domain (confidence level: 50%),www.kforkidz.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.kissmanga.pro
+domain,Formbook botnet C2 domain (confidence level: 50%),www.klub8.vip
+domain,Formbook botnet C2 domain (confidence level: 50%),www.lailraw.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.lakewoodcharity.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.lilyamore.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.llink.net
+domain,Formbook botnet C2 domain (confidence level: 50%),www.loan-stalemate.info
+domain,Formbook botnet C2 domain (confidence level: 50%),www.lolydelapan.xyz
+domain,Formbook botnet C2 domain (confidence level: 50%),www.loud-media.net
+domain,Formbook botnet C2 domain (confidence level: 50%),www.lowdownlocal.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.lyfgyjxt.world
+domain,Formbook botnet C2 domain (confidence level: 50%),www.manhe3.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.mechaf.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.media-cruise.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.mommabearmoney.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.monitoring-devices-79097.bond
+domain,Formbook botnet C2 domain (confidence level: 50%),www.mothersofmatriarchy.club
+domain,Formbook botnet C2 domain (confidence level: 50%),www.moutonneuropenihal.cloud
+domain,Formbook botnet C2 domain (confidence level: 50%),www.mybabysisterscloset.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.mysteryblack.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.ninetofivemama.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.nissicloud.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.niulorge.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.nursing-services-sa.click
+domain,Formbook botnet C2 domain (confidence level: 50%),www.office-space-26524.bond
+domain,Formbook botnet C2 domain (confidence level: 50%),www.oggetto.xyz
+domain,Formbook botnet C2 domain (confidence level: 50%),www.online-advertising-64131.bond
+domain,Formbook botnet C2 domain (confidence level: 50%),www.online-advertising-96907.bond
+domain,Formbook botnet C2 domain (confidence level: 50%),www.online-dating-10276.bond
+domain,Formbook botnet C2 domain (confidence level: 50%),www.paradisepsychotherapy.net
+domain,Formbook botnet C2 domain (confidence level: 50%),www.pawchamamapet.net
+domain,Formbook botnet C2 domain (confidence level: 50%),www.pelikansubelesindeindirim.xyz
+domain,Formbook botnet C2 domain (confidence level: 50%),www.pilotsugardaddys.net
+domain,Formbook botnet C2 domain (confidence level: 50%),www.prestigehometransformations.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.protypepuggedpumpers.cloud
+domain,Formbook botnet C2 domain (confidence level: 50%),www.reapen.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.relaynext.services
+domain,Formbook botnet C2 domain (confidence level: 50%),www.rocket178click.click
+domain,Formbook botnet C2 domain (confidence level: 50%),www.rolexoff-watch.vip
+domain,Formbook botnet C2 domain (confidence level: 50%),www.russtybeats.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.sanctitude-cuspidated.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.securityacadamy.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.sellmyhouseolympia.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.senashop.online
+domain,Formbook botnet C2 domain (confidence level: 50%),www.sloppyasians.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.smartphonesusapan.today
+domain,Formbook botnet C2 domain (confidence level: 50%),www.smile88.pro
+domain,Formbook botnet C2 domain (confidence level: 50%),www.solar-generator-52678.bond
+domain,Formbook botnet C2 domain (confidence level: 50%),www.solar-systems-panels-44596.bond
+domain,Formbook botnet C2 domain (confidence level: 50%),www.stratcte.shop
+domain,Formbook botnet C2 domain (confidence level: 50%),www.strictlyotaku.net
+domain,Formbook botnet C2 domain (confidence level: 50%),www.su-seikatu.info
+domain,Formbook botnet C2 domain (confidence level: 50%),www.texasrefinances.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.thelittleredcraftshack.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.tiktokmart.net
+domain,Formbook botnet C2 domain (confidence level: 50%),www.tilania.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.tp11okebet303.xyz
+domain,Formbook botnet C2 domain (confidence level: 50%),www.travelbackpackss.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.unempioymentpua.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.used-cars-58225.bond
+domain,Formbook botnet C2 domain (confidence level: 50%),www.vdmo070.top
+domain,Formbook botnet C2 domain (confidence level: 50%),www.vegbydesign.net
+domain,Formbook botnet C2 domain (confidence level: 50%),www.vspectra.site
+domain,Formbook botnet C2 domain (confidence level: 50%),www.wcaconline.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.wevertexinc.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.window-replacement-60891.bond
+domain,Formbook botnet C2 domain (confidence level: 50%),www.work-abroad-30072.bond
+domain,Formbook botnet C2 domain (confidence level: 50%),www.yiugf.shop
+domain,Formbook botnet C2 domain (confidence level: 50%),www.zorahthyart.xyz
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),196.251.69.138|222
+domain,Hancitor botnet C2 domain (confidence level: 50%),bilighbohooll.ru
+domain,Hancitor botnet C2 domain (confidence level: 50%),eummentur.ru
+domain,Hancitor botnet C2 domain (confidence level: 50%),lielftworiss.com
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),172.233.136.253|7443
+url,Hancitor botnet C2 (confidence level: 50%),http://bilighbohooll.ru/8/forum.php
+url,Hancitor botnet C2 (confidence level: 50%),http://eummentur.ru/8/forum.php
+url,Hancitor botnet C2 (confidence level: 50%),http://lielftworiss.com/8/forum.php
+domain,Unknown malware botnet C2 domain (confidence level: 100%),172-105-27-15.ip.linodeusercontent.com
+domain,Mirai botnet C2 domain (confidence level: 50%),bot.dstats.org
+ip-dst|port,Hook botnet C2 server (confidence level: 100%),176.65.141.187|80
+domain,Hook botnet C2 domain (confidence level: 100%),files.cloudconnect-auth0.top
+domain,NjRAT botnet C2 domain (confidence level: 50%),approach-trembl.gl.at.ply.gg
+domain,NjRAT botnet C2 domain (confidence level: 50%),september-idol.gl.at.ply.gg
+domain,Phorpiex botnet C2 domain (confidence level: 50%),afhoahegue.ru
+domain,Phorpiex botnet C2 domain (confidence level: 50%),afhoahegue.su
+domain,Phorpiex botnet C2 domain (confidence level: 50%),efhoahegue.ru
+domain,Phorpiex botnet C2 domain (confidence level: 50%),efhoahegue.su
+domain,Phorpiex botnet C2 domain (confidence level: 50%),rfhoahegue.ru
+domain,Phorpiex botnet C2 domain (confidence level: 50%),rfhoahegue.su
+domain,Phorpiex botnet C2 domain (confidence level: 50%),tfhoahegue.ru
+domain,Phorpiex botnet C2 domain (confidence level: 50%),tfhoahegue.su
+domain,Phorpiex botnet C2 domain (confidence level: 50%),xfhoahegue.ru
+domain,Phorpiex botnet C2 domain (confidence level: 50%),xfhoahegue.su
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),47.99.65.37|80
+url,Phorpiex botnet C2 (confidence level: 50%),http://afhoahegue.ru/s/
+url,Phorpiex botnet C2 (confidence level: 50%),http://afhoahegue.su/s/
+url,Phorpiex botnet C2 (confidence level: 50%),http://efhoahegue.ru/s/
+url,Phorpiex botnet C2 (confidence level: 50%),http://efhoahegue.su/s/
+url,Phorpiex botnet C2 (confidence level: 50%),http://rfhoahegue.ru/s/
+url,Phorpiex botnet C2 (confidence level: 50%),http://rfhoahegue.su/s/
+url,Phorpiex botnet C2 (confidence level: 50%),http://tfhoahegue.ru/s/
+url,Phorpiex botnet C2 (confidence level: 50%),http://tfhoahegue.su/s/
+url,Phorpiex botnet C2 (confidence level: 50%),http://xfhoahegue.ru/s/
+url,Phorpiex botnet C2 (confidence level: 50%),http://xfhoahegue.su/s/
+domain,Quasar RAT botnet C2 domain (confidence level: 50%),bz-fnd3.ydns.eu
+domain,Havoc botnet C2 domain (confidence level: 100%),ip93.ip-178-32-113.eu
+domain,XWorm botnet C2 domain (confidence level: 50%),kinggggg123212-33699.portmap.host
+domain,XWorm botnet C2 domain (confidence level: 50%),monhostip.ddns.net
+domain,XWorm botnet C2 domain (confidence level: 50%),test131-50314.portmap.host
+domain,Havoc botnet C2 domain (confidence level: 100%),okta.microsoft-onedrive.upgrade1.zip
+domain,Havoc botnet C2 domain (confidence level: 100%),res.microsoft-onedrive.upgrade1.zip
+domain,Havoc botnet C2 domain (confidence level: 100%),ok.microsoft-onedrive.upgrade1.zip
+domain,Havoc botnet C2 domain (confidence level: 100%),gui.microsoft-onedrive.upgrade1.zip
+ip-dst|port,Orcus RAT botnet C2 server (confidence level: 100%),77.99.80.4|10135
+ip-dst|port,MooBot botnet C2 server (confidence level: 100%),159.100.14.39|80
+domain,Unknown malware botnet C2 domain (confidence level: 100%),shortzy.ink
+domain,Unknown malware botnet C2 domain (confidence level: 100%),maxnet.top
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),35.202.174.159|443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),51.20.31.88|3333
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),44.219.23.11|3333
+url,SmartLoader botnet C2 (confidence level: 75%),http://91.196.33.33/api/ytasodysodisowqsytesodgsotasotusnjusn2qs
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),185.247.224.176|3333
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),206.233.249.157|3306
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),51.38.129.35|3333
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),208.52.170.201|8080
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),172.111.244.147|46167
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),208.64.33.139|8080
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),185.236.231.168|80
+ip-dst|port,pupy botnet C2 server (confidence level: 100%),178.157.61.161|443
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),176.65.134.111|8808
+ip-dst|port,NjRAT botnet C2 server (confidence level: 75%),147.185.221.16|60127
+ip-dst|port,NjRAT botnet C2 server (confidence level: 75%),147.185.221.16|61465
+domain,NjRAT botnet C2 domain (confidence level: 75%),ma-babes.gl.at.ply.gg
+domain,Cobalt Strike botnet C2 domain (confidence level: 75%),ns01.cl0udflark.link
+domain,Cobalt Strike botnet C2 domain (confidence level: 75%),ns02.micr0hard.click
+domain,Cobalt Strike botnet C2 domain (confidence level: 75%),ns03.starhubb.link
+domain,Cobalt Strike botnet C2 domain (confidence level: 75%),ns1.chedn.shop
+domain,Cobalt Strike botnet C2 domain (confidence level: 75%),ns2.chedn.shop
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 75%),107.172.208.162|53
+ip-dst|port,XWorm botnet C2 server (confidence level: 75%),194.26.192.127|5939
+ip-dst|port,RedLine Stealer botnet C2 server (confidence level: 100%),185.222.57.71|55615
+url,FAKEUPDATES payload delivery URL (confidence level: 100%),https://wccdefense.com/3e5t.js
+domain,FAKEUPDATES payload delivery domain (confidence level: 100%),wccdefense.com
+url,FAKEUPDATES payload delivery URL (confidence level: 100%),https://wccdefense.com/js.php
+ip-dst|port,WarmCookie botnet C2 server (confidence level: 100%),62.60.238.115|443
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),84.200.154.113|443
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),167.88.186.143|80
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),196.251.86.31|35889
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),157.254.223.99|7000
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),207.154.205.158|7443
+ip-dst|port,Havoc botnet C2 server (confidence level: 100%),38.54.31.112|40056
+domain,Havoc botnet C2 domain (confidence level: 100%),login.klogixsecurity.org
+ip-dst|port,NetSupportManager RAT botnet C2 server (confidence level: 100%),15.237.149.167|21997
+ip-dst|port,PoshC2 botnet C2 server (confidence level: 100%),51.20.69.36|443
+domain,Bashlite botnet C2 domain (confidence level: 100%),sjekk-min-id.info
+ip-dst|port,MimiKatz botnet C2 server (confidence level: 100%),47.236.159.13|80
+domain,DCRat botnet C2 domain (confidence level: 100%),cr32765.tw1.ru
+domain,DCRat botnet C2 domain (confidence level: 100%),20789cm.darkproducts.ru
+domain,DCRat botnet C2 domain (confidence level: 100%),a1106670.xsph.ru
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),artillerygr.shop
+ip-dst|port,QakBot botnet C2 server (confidence level: 75%),186.106.194.221|443
+ip-dst|port,QakBot botnet C2 server (confidence level: 75%),85.101.92.137|443
+url,Formbook botnet C2 (confidence level: 50%),http://www.5sguy.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.agroproducts.online/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.ahmadhidayah.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.atomoffice.asia/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.bentrecfs.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.beyondsauerkraut.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.bolezi21.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.bosphorusorthopedics.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.bussinktransport.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.content-trip.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.coraltechnologygroup.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.designantageuk.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.emerald-creative.co.uk/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.equityinengineering.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.eurokidscreative.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.exm-dronesecurity.online/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.fiathfirst.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.finskills.net/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.firstamm.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.floridapremierestates.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.foodloversdirect.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.frenchtogether.info/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.guoyijidian.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.ilhadeitaparicatem.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.intelligentinvestingtoday.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.jjm68.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.jlxrzz.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.jutuiess.site/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.juventudvq.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.kamiapp.today/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.losangeleslandscapedesigner.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.mamentos.info/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.meditationmateau.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.meridianconversation.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.meunegocioonlineoficial.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.minnesotaunited.club/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.mojhawaii.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.monologuestudios.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.myworldtwentyfourseven.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.northacai.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.nothingbeatsagreatstory.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.pleasingpleasure.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.qianwanshang.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.querooo.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.relliant-rehab.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.shoppret.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.sitokatachinhhang.club/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.sohbetegelin.net/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.sorelshopitalia.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.stranded.xyz/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.surfboard-quarterly.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.synchroport.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.takeactionphysio.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.taradiary.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.thefriendsofmaryc.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.thereseraulin.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.thespiritualabolitionist.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.thetruediversity.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.towstate.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.usjiikay.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.wedividebyzero.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.wilmington.guide/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.wisheskennel.com/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.xdlbiyj.icu/utau/
+url,Formbook botnet C2 (confidence level: 50%),http://www.xinmotlanchet.online/utau/
+domain,Formbook botnet C2 domain (confidence level: 50%),www.5sguy.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.agroproducts.online
+domain,Formbook botnet C2 domain (confidence level: 50%),www.ahmadhidayah.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.atomoffice.asia
+domain,Formbook botnet C2 domain (confidence level: 50%),www.bentrecfs.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.beyondsauerkraut.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.bolezi21.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.bosphorusorthopedics.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.bussinktransport.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.content-trip.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.coraltechnologygroup.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.designantageuk.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.emerald-creative.co.uk
+domain,Formbook botnet C2 domain (confidence level: 50%),www.equityinengineering.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.eurokidscreative.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.exm-dronesecurity.online
+domain,Formbook botnet C2 domain (confidence level: 50%),www.fiathfirst.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.finskills.net
+domain,Formbook botnet C2 domain (confidence level: 50%),www.firstamm.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.floridapremierestates.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.foodloversdirect.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.frenchtogether.info
+domain,Formbook botnet C2 domain (confidence level: 50%),www.guoyijidian.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.ilhadeitaparicatem.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.intelligentinvestingtoday.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.jjm68.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.jlxrzz.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.jutuiess.site
+domain,Formbook botnet C2 domain (confidence level: 50%),www.juventudvq.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.kamiapp.today
+domain,Formbook botnet C2 domain (confidence level: 50%),www.losangeleslandscapedesigner.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.mamentos.info
+domain,Formbook botnet C2 domain (confidence level: 50%),www.meditationmateau.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.meridianconversation.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.meunegocioonlineoficial.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.minnesotaunited.club
+domain,Formbook botnet C2 domain (confidence level: 50%),www.mojhawaii.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.monologuestudios.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.myworldtwentyfourseven.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.northacai.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.nothingbeatsagreatstory.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.pleasingpleasure.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.qianwanshang.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.querooo.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.relliant-rehab.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.shoppret.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.sitokatachinhhang.club
+domain,Formbook botnet C2 domain (confidence level: 50%),www.sohbetegelin.net
+domain,Formbook botnet C2 domain (confidence level: 50%),www.sorelshopitalia.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.stranded.xyz
+domain,Formbook botnet C2 domain (confidence level: 50%),www.surfboard-quarterly.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.synchroport.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.takeactionphysio.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.taradiary.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.thefriendsofmaryc.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.thereseraulin.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.thespiritualabolitionist.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.thetruediversity.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.towstate.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.usjiikay.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.wedividebyzero.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.wilmington.guide
+domain,Formbook botnet C2 domain (confidence level: 50%),www.wisheskennel.com
+domain,Formbook botnet C2 domain (confidence level: 50%),www.xdlbiyj.icu
+domain,Formbook botnet C2 domain (confidence level: 50%),www.xinmotlanchet.online
+domain,Anubis botnet C2 domain (confidence level: 50%),bosstan027.beget.tech
+domain,Anubis botnet C2 domain (confidence level: 50%),hawus.net
+domain,Anubis botnet C2 domain (confidence level: 50%),tryagain.beget.tech
+ip-dst|port,ValleyRAT botnet C2 server (confidence level: 100%),38.181.22.44|9090
+ip-dst|port,ValleyRAT botnet C2 server (confidence level: 100%),45.192.168.9|7777
