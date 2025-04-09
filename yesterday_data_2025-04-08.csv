@@ -1,0 +1,251 @@
+Type,Comment,Value
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),1.94.105.46|81
+ip-dst|port,Sliver botnet C2 server (confidence level: 100%),212.47.75.55|6666
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),167.86.116.179|8808
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),196.251.84.194|8808
+domain,Hook botnet C2 domain (confidence level: 100%),ec2-18-138-195-208.ap-southeast-1.compute.amazonaws.com
+ip-dst|port,Hook botnet C2 server (confidence level: 100%),45.88.186.129|8089
+ip-dst|port,Havoc botnet C2 server (confidence level: 100%),172.105.91.248|443
+domain,Havoc botnet C2 domain (confidence level: 100%),office365.farmandconstructionequipment.com
+ip-dst|port,NetSupportManager RAT botnet C2 server (confidence level: 100%),3.79.45.173|38690
+ip-dst|port,MooBot botnet C2 server (confidence level: 100%),31.15.18.21|80
+ip-dst|port,MooBot botnet C2 server (confidence level: 100%),45.137.70.91|80
+ip-dst|port,NjRAT botnet C2 server (confidence level: 75%),147.185.221.23|31296
+domain,NjRAT botnet C2 domain (confidence level: 75%),lesbian-stereo.gl.at.ply.gg
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 75%),114.132.166.145|3389
+domain,Cobalt Strike botnet C2 domain (confidence level: 100%),cloud1.amazehome.xyz
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),156.224.29.3|443
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),47.108.39.159|4446
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),176.65.141.98|7707
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),196.251.117.108|8444
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),78.164.223.72|3000
+domain,Havoc botnet C2 domain (confidence level: 100%),ec2-54-68-184-184.us-west-2.compute.amazonaws.com
+domain,Havoc botnet C2 domain (confidence level: 100%),ec2-13-238-124-252.ap-southeast-2.compute.amazonaws.com
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),212.162.149.99|2404
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),20.84.67.23|60000
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),121.36.73.30|60000
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),43.143.94.53|60000
+ip-dst|port,Nanocore RAT botnet C2 server (confidence level: 100%),45.141.233.145|1664
+domain,Nanocore RAT botnet C2 domain (confidence level: 100%),foryoumedical.ddns.net
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),78.47.126.174|3333
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),188.165.136.58|3333
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),184.82.103.190|3333
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),34.236.182.101|443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),44.207.113.4|443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),178.128.45.61|80
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),45.77.38.170|3333
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),198.74.59.101|443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),40.113.161.166|3333
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),3.125.192.194|80
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),68.183.103.145|443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),5.2.159.157|33331
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),139.59.234.138|3333
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),117.50.188.222|523
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),157.180.72.155|3333
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),3.108.122.237|3333
+ip-dst|port,MimiKatz botnet C2 server (confidence level: 100%),85.9.192.29|8000
+ip-dst|port,TrickBot botnet C2 server (confidence level: 75%),107.175.87.142|443
+ip-dst|port,TrickBot botnet C2 server (confidence level: 75%),185.14.29.4|443
+ip-dst|port,TrickBot botnet C2 server (confidence level: 75%),185.14.31.72|443
+ip-dst|port,TrickBot botnet C2 server (confidence level: 75%),185.65.202.183|443
+ip-dst|port,TrickBot botnet C2 server (confidence level: 75%),185.99.2.202|443
+ip-dst|port,TrickBot botnet C2 server (confidence level: 75%),188.165.62.2|443
+ip-dst|port,TrickBot botnet C2 server (confidence level: 75%),192.3.193.162|443
+ip-dst|port,TrickBot botnet C2 server (confidence level: 75%),194.5.250.178|443
+ip-dst|port,TrickBot botnet C2 server (confidence level: 75%),194.5.250.179|443
+ip-dst|port,TrickBot botnet C2 server (confidence level: 75%),195.54.32.12|443
+ip-dst|port,TrickBot botnet C2 server (confidence level: 75%),198.15.119.121|443
+ip-dst|port,TrickBot botnet C2 server (confidence level: 75%),198.15.119.71|443
+ip-dst|port,TrickBot botnet C2 server (confidence level: 75%),212.80.217.243|443
+ip-dst|port,TrickBot botnet C2 server (confidence level: 75%),31.131.21.30|443
+ip-dst|port,TrickBot botnet C2 server (confidence level: 75%),5.182.210.120|443
+ip-dst|port,TrickBot botnet C2 server (confidence level: 75%),5.34.177.194|443
+ip-dst|port,TrickBot botnet C2 server (confidence level: 75%),89.191.234.89|443
+url,Mozi payload delivery URL (confidence level: 50%),http://117.217.128.103:50261/mozi.m
+url,Vidar botnet C2 (confidence level: 100%),https://steamcommunity.com/profiles/76561199843252735
+url,Vidar botnet C2 (confidence level: 100%),https://t.me/f07nd
+url,Vidar botnet C2 (confidence level: 100%),https://qe.ap.4t.com/
+url,Vidar botnet C2 (confidence level: 100%),https://5.75.215.128/
+domain,Vidar botnet C2 domain (confidence level: 100%),qe.ap.4t.com
+ip-dst|port,Vidar botnet C2 server (confidence level: 100%),5.75.215.128|443
+md5,Unknown malware payload (confidence level: 50%),c8c64113076101d13ee6dfad4ce1c934
+md5,Unknown malware payload (confidence level: 50%),84b3d2b5c6ba0d6627e74c2c89f3b9a3
+md5,Unknown malware payload (confidence level: 50%),bb62d73fcab6f29f95f9919e1dc0932c
+md5,Unknown malware payload (confidence level: 50%),0f8b20c367c6cb2c2726a3495d1d8d28
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),124.71.106.116|8080
+ip-dst|port,Sliver botnet C2 server (confidence level: 100%),120.138.19.63|443
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),144.172.92.114|8808
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),176.65.143.159|7707
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),176.65.143.159|6606
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),zestmedo.top
+ip-dst|port,Hook botnet C2 server (confidence level: 100%),181.41.201.188|2053
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),195.211.191.174|5938
+ip-dst|port,Brute Ratel C4 botnet C2 server (confidence level: 100%),54.249.53.66|80
+ip-dst|port,ERMAC botnet C2 server (confidence level: 100%),165.22.17.157|80
+domain,Unknown malware botnet C2 domain (confidence level: 100%),content.up-edu-mx.shop
+domain,Unknown malware botnet C2 domain (confidence level: 100%),ssl.up-edu-mx.shop
+domain,Bashlite botnet C2 domain (confidence level: 100%),webmail.webprocediweb.com
+domain,Bashlite botnet C2 domain (confidence level: 100%),cpanel.versioneonline.com
+domain,Bashlite botnet C2 domain (confidence level: 100%),cpcontacts.m.web-app-on.com
+ip-dst|port,GhostSocks botnet C2 server (confidence level: 75%),194.28.226.181|443
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),121.40.208.196|80
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),120.55.169.128|801
+ip-dst|port,QakBot botnet C2 server (confidence level: 75%),70.27.138.65|2078
+url,FAKEUPDATES payload delivery URL (confidence level: 100%),https://lapsack.com/3q7q.js
+domain,FAKEUPDATES payload delivery domain (confidence level: 100%),lapsack.com
+url,FAKEUPDATES payload delivery URL (confidence level: 100%),https://lapsack.com/js.php
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 75%),192.238.206.6|8847
+ip-dst|port,vo1d botnet C2 server (confidence level: 100%),3.146.93.253|55600
+domain,vo1d botnet C2 domain (confidence level: 100%),gecsge4e1e5427f8.com
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),139.196.126.161|8080
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),47.122.66.99|80
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),47.109.177.97|2222
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),111.68.1.218|80
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),46.21.153.155|8081
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),38.242.248.109|2404
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),20.89.182.93|8888
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),192.159.99.106|8808
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),31.57.166.49|8808
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),78.164.223.72|2004
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),107.172.100.174|7443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),34.219.245.253|7443
+ip-dst|port,Hook botnet C2 server (confidence level: 100%),181.41.201.188|80
+ip-dst|port,Havoc botnet C2 server (confidence level: 100%),139.162.149.223|443
+ip-dst|port,Havoc botnet C2 server (confidence level: 100%),119.3.221.6|4444
+ip-dst|port,Brute Ratel C4 botnet C2 server (confidence level: 100%),111.90.151.162|8443
+domain,Unknown malware botnet C2 domain (confidence level: 100%),accounts.up-edu-mx.shop
+domain,Unknown malware botnet C2 domain (confidence level: 100%),myaccount.up-edu-mx.shop
+domain,FAKEUPDATES botnet C2 domain (confidence level: 100%),myvrhost.viottoholdings.com
+ip-dst|port,vo1d botnet C2 server (confidence level: 100%),3.146.93.253|55501
+ip-dst|port,vo1d botnet C2 server (confidence level: 100%),3.146.93.253|55590
+ip-dst|port,vo1d botnet C2 server (confidence level: 100%),3.146.93.253|55500
+ip-dst|port,vo1d botnet C2 server (confidence level: 100%),52.15.213.182|80
+domain,ClearFake payload delivery domain (confidence level: 100%),yt3cvkj43ws.pages.dev
+domain,ClearFake payload delivery domain (confidence level: 100%),nhgfdc-ok.pages.dev
+domain,Cobalt Strike botnet C2 domain (confidence level: 75%),6rzj5pnk8zqwt.cfc-execute.bj.baidubce.com
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 75%),139.129.23.77|443
+ip-dst|port,vo1d botnet C2 server (confidence level: 100%),3.146.93.253|55502
+url,Rhadamanthys payload delivery URL (confidence level: 100%),https://cf.jolttapestry.fun/7456f63a46cc318334a70159aa3c4291
+domain,Rhadamanthys payload delivery domain (confidence level: 100%),cf.jolttapestry.fun
+ip-dst|port,Remcos botnet C2 server (confidence level: 75%),196.251.92.84|45111
+domain,Vidar botnet C2 domain (confidence level: 75%),qx.ap.4t.com
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),opimendu.digital
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),h1.catnipreggae.shop
+url,Lumma Stealer botnet C2 (confidence level: 75%),https://kjpuerrogfh.live/iqwez
+url,Lumma Stealer botnet C2 (confidence level: 75%),https://ltargett.top/dsangt
+url,Lumma Stealer botnet C2 (confidence level: 75%),https://irambutanvcx.run/adioz
+url,Lumma Stealer botnet C2 (confidence level: 75%),https://mfurthert.run/azpp
+url,Lumma Stealer botnet C2 (confidence level: 75%),https://shiftmodh.run/doxz
+ip-dst|port,FAKEUPDATES payload delivery server (confidence level: 75%),142.11.206.127|443
+ip-dst|port,ValleyRAT botnet C2 server (confidence level: 75%),38.181.35.237|443
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),easyfwdr.digital
+ip-dst|port,Lumma Stealer botnet C2 server (confidence level: 50%),185.215.113.51|80
+ip-dst|port,GCleaner botnet C2 server (confidence level: 75%),185.156.73.98|80
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),reformzv.digital
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),hopezx.run
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),reboundui.live
+url,Lumma Stealer botnet C2 (confidence level: 75%),https://modtunes.live/gooz
+url,Lumma Stealer botnet C2 (confidence level: 75%),https://opimendu.digital/poqwe
+url,Lumma Stealer botnet C2 (confidence level: 75%),https://zgplantainklj.run/opafg
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),puerrogfh.live
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),quavabvc.top
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),furthert.run
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),rambutanvcx.run
+url,Lumma Stealer botnet C2 (confidence level: 75%),https://enhancety.digital/kedi
+url,Lumma Stealer botnet C2 (confidence level: 75%),https://fresheslam.run/qywix
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 50%),45.12.91.12|8443
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 50%),77.239.101.226|443
+ip-dst|port,Sliver botnet C2 server (confidence level: 50%),195.201.27.141|31337
+ip-dst|port,Sliver botnet C2 server (confidence level: 50%),171.244.40.248|31337
+ip-dst|port,Sliver botnet C2 server (confidence level: 50%),45.79.43.128|31337
+ip-dst|port,Xtreme RAT botnet C2 server (confidence level: 50%),178.183.165.218|10080
+ip-dst|port,DCRat botnet C2 server (confidence level: 50%),45.88.186.160|1337
+ip-dst|port,Kimsuky botnet C2 server (confidence level: 50%),158.247.220.151|80
+url,Unknown Stealer botnet C2 (confidence level: 100%),https://almeida.clientepj.com/almeida/contador.php
+ip-dst|port,Remcos botnet C2 server (confidence level: 75%),196.251.86.242|2404
+url,Unknown malware botnet C2 (confidence level: 100%),http://118.178.89.212:8888/supershell/login/
+url,Unknown malware botnet C2 (confidence level: 100%),http://118.195.149.202:8888/supershell/login/
+url,Unknown malware botnet C2 (confidence level: 100%),http://123.60.23.234:8888/supershell/login/
+url,Unknown malware botnet C2 (confidence level: 100%),http://117.72.119.63:7088/supershell/login/
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),124.70.99.224|4443
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),84.196.87.46|2404
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),35.194.13.156|7443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),107.172.100.174|443
+ip-dst|port,DCRat botnet C2 server (confidence level: 100%),8.218.97.73|65503
+ip-dst|port,MooBot botnet C2 server (confidence level: 100%),160.187.246.152|80
+url,Lumma Stealer botnet C2 (confidence level: 75%),https://qtargett.top/dsangt
+ip-dst|port,GhostSocks botnet C2 server (confidence level: 100%),194.28.226.181|30001
+domain,Unknown RAT botnet C2 domain (confidence level: 50%),demo.spfspassa.xyz
+domain,Unknown RAT botnet C2 domain (confidence level: 50%),old.spfspassa.xyz
+domain,Unknown RAT botnet C2 domain (confidence level: 50%),gbtx.duckdns.org
+domain,Unknown RAT botnet C2 domain (confidence level: 50%),transxx.duckdns.org
+domain,Unknown RAT botnet C2 domain (confidence level: 50%),texz.jhpublicaffairs.ie
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),zestyasd.run
+url,Unknown Loader botnet C2 (confidence level: 100%),http://yarnwool.xyz/grun.php
+url,Unknown Loader botnet C2 (confidence level: 100%),http://requesttendency.icu/uri.php
+url,Unknown Loader botnet C2 (confidence level: 100%),http://requesttendency.icu/ury.php
+domain,Unknown Loader botnet C2 domain (confidence level: 100%),requesttendency.icu
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),cureboto.run
+url,Unknown RAT payload delivery URL (confidence level: 50%),https://ak0amca.24secur.ru/
+url,Unknown RAT payload delivery URL (confidence level: 50%),https://m2ds.securessadownloads.ru/
+url,Unknown RAT payload delivery URL (confidence level: 50%),https://m2ds.securessadownloads.ru/s
+url,Unknown RAT payload delivery URL (confidence level: 50%),https://comnfigrationclientpanel.securessafiles.ru/
+url,Unknown malware payload delivery URL (confidence level: 50%),https://zargleflump.x10.mx/
+url,Unknown malware payload delivery URL (confidence level: 50%),http://login.securedmicrosoft365.com/
+url,Unknown malware payload delivery URL (confidence level: 50%),http://api.securedmicrosoft365.com/
+url,Lumma Stealer botnet C2 (confidence level: 75%),https://palsmedq.run/agozn
+url,Unknown malware payload delivery URL (confidence level: 50%),http://cdn.securedmicrosoft365.com/
+url,Unknown malware payload delivery URL (confidence level: 50%),http://storage.securedmicrosoft365.com/
+url,Unknown malware payload delivery URL (confidence level: 50%),https://komi.cam/
+url,Unknown malware payload delivery URL (confidence level: 50%),https://claim-pamp.fun/
+url,Unknown malware payload delivery URL (confidence level: 50%),https://roomnum-998388.world/
+url,Unknown malware payload delivery URL (confidence level: 50%),https://booking.complaintguest2.com/
+url,Unknown malware payload delivery URL (confidence level: 50%),https://april-boking-recapt09993748.com/
+url,Unknown malware payload delivery URL (confidence level: 50%),https://confirmbooking7.com/
+url,Unknown malware payload delivery URL (confidence level: 50%),https://bookskkas.xyz/
+url,Unknown malware payload delivery URL (confidence level: 50%),https://talentstack.icu/
+url,Unknown malware payload delivery URL (confidence level: 50%),https://bookpartn.com/
+url,Unknown malware payload delivery URL (confidence level: 50%),https://bookisnd.it.com/
+url,Unknown malware payload delivery URL (confidence level: 50%),https://coinspaceteam.com/
+url,Unknown malware payload delivery URL (confidence level: 50%),https://soubtcevent.com/
+url,Unknown malware payload delivery URL (confidence level: 50%),https://appeal.wiki/
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 50%),166.108.204.240|7777
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 50%),18.117.46.40|7777
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 50%),217.154.22.69|3333
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 50%),54.246.30.38|3333
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 50%),102.211.120.2|3333
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 50%),113.45.201.80|9205
+ip-dst|port,NjRAT botnet C2 server (confidence level: 50%),105.197.218.132|1177
+domain,DarkComet botnet C2 domain (confidence level: 50%),heavendie.no-ip.org
+domain,Mirai botnet C2 domain (confidence level: 50%),service.neugumma.my
+domain,Quasar RAT botnet C2 domain (confidence level: 50%),officer-nec.gl.at.ply.gg
+domain,Remcos botnet C2 domain (confidence level: 50%),nzobaku.ddns.net
+domain,Remcos botnet C2 domain (confidence level: 50%),somsom22.duckdns.org
+ip-dst|port,Remcos botnet C2 server (confidence level: 50%),138.124.89.153|41555
+url,XWorm botnet C2 (confidence level: 50%),https://pastebin.com/raw/g6gmyacm
+domain,XWorm botnet C2 domain (confidence level: 50%),hosting10-38853.portmap.io
+domain,XWorm botnet C2 domain (confidence level: 50%),language-apnic.gl.at.ply.gg
+domain,XWorm botnet C2 domain (confidence level: 50%),tesifa-38287.portmap.io
+ip-dst|port,XWorm botnet C2 server (confidence level: 50%),193.161.193.99|38853
+url,Lumma Stealer botnet C2 (confidence level: 75%),https://0targett.top/dsangt
+url,Lumma Stealer botnet C2 (confidence level: 75%),https://2ywmedici.top/noagis
+url,Lumma Stealer botnet C2 (confidence level: 75%),https://4rhxhube.run/pogrs
+url,Lumma Stealer botnet C2 (confidence level: 75%),https://apuerrogfh.live/iqwez
+url,Lumma Stealer botnet C2 (confidence level: 75%),https://easyfwdr.digital/azxs
+url,Lumma Stealer botnet C2 (confidence level: 75%),https://fescapadue.live/spzkwq
+url,Lumma Stealer botnet C2 (confidence level: 75%),https://furthert.run/azpp
+url,Lumma Stealer botnet C2 (confidence level: 75%),https://jjrxsafer.top/shpaoz
+url,Lumma Stealer botnet C2 (confidence level: 75%),https://nadvennture.top/gksiio
+url,Lumma Stealer botnet C2 (confidence level: 75%),https://reformzv.digital/guud
+url,Lumma Stealer botnet C2 (confidence level: 75%),https://upuerrogfh.live/iqwez
+url,Lumma Stealer botnet C2 (confidence level: 75%),https://uywmedici.top/noagis
+url,Lumma Stealer botnet C2 (confidence level: 75%),https://vquavabvc.top/iuzhd
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),114.132.166.145|7723
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),120.76.158.8|443
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),196.251.117.67|8808
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),46.246.4.12|1000
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),34.133.215.114|7443
+ip-dst|port,Havoc botnet C2 server (confidence level: 100%),45.146.234.153|443
+ip-dst|port,DCRat botnet C2 server (confidence level: 100%),185.255.92.151|5000
+url,Lumma Stealer botnet C2 (confidence level: 75%),https://travelilx.top/gskaiz
+url,Lumma Stealer botnet C2 (confidence level: 75%),https://xplantainklj.run/opafg
