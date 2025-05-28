@@ -1,0 +1,532 @@
+Type,Comment,Value
+url,Latrodectus payload delivery URL (confidence level: 95%),https://sffjxgbi.elementor.cloud/wp-content/plugins/background-image-cropper/ipjeid.php?rsop=dbbyf4
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 75%),185.242.234.230|443
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 75%),106.38.201.218|443
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 75%),189.1.220.31|443
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 75%),43.161.216.41|443
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 75%),211.154.16.190|443
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 75%),42.193.201.58|443
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 75%),196.251.70.93|443
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 75%),164.92.165.122|443
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 75%),54.234.14.241|443
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 75%),8.148.224.96|443
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 75%),172.245.11.64|443
+ip-dst|port,Ghost RAT botnet C2 server (confidence level: 100%),1.94.163.46|443
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),176.65.140.179|3191
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),216.9.224.152|1024
+ip-dst|port,Havoc botnet C2 server (confidence level: 100%),88.218.0.194|80
+ip-dst|port,Venom RAT botnet C2 server (confidence level: 100%),109.155.143.78|4444
+ip-dst|port,Venom RAT botnet C2 server (confidence level: 100%),34.238.234.161|8888
+ip-dst|port,NetSupportManager RAT botnet C2 server (confidence level: 100%),3.110.87.108|6005
+ip-dst|port,NetSupportManager RAT botnet C2 server (confidence level: 100%),157.175.186.219|2086
+domain,Unknown malware botnet C2 domain (confidence level: 100%),www.cciczy.com
+ip-dst|port,MimiKatz botnet C2 server (confidence level: 100%),38.45.126.44|443
+ip-dst|port,NjRAT botnet C2 server (confidence level: 100%),147.185.221.28|39881
+sha1,NjRAT payload (confidence level: 95%),789829095d78249f078b6b1976321b3ce3e1f5df
+sha256,NjRAT payload (confidence level: 95%),a5aef3acca2d2aa07bd312cb8a58b4bf8dd4aed42fe5d8aaefbb6df9dcb813e5
+md5,NjRAT payload (confidence level: 95%),a0ba3b892379b7e67d1656b116730318
+sha1,Pony payload (confidence level: 95%),b5558fe87b9ec4fe99fe96b4120acb6e737e4eb3
+sha256,Pony payload (confidence level: 95%),bbecfba11bf04f277fe2436600bc0aa3b8d916e8df148c39e18d09da07fd12b0
+md5,Pony payload (confidence level: 95%),90b930ee86d57020747bd2557a90a55a
+sha1,DCRat payload (confidence level: 95%),5c0e8ad314d1ff2e6b4be626149d6e25ebac1384
+sha256,DCRat payload (confidence level: 95%),363889e357125033280348f386040bb5a0e15867e72105bf6d6d5b380c78b109
+md5,DCRat payload (confidence level: 95%),7a6fcae899d1e93fb8e5a8d4d27e2a51
+sha1,Coinminer payload (confidence level: 95%),5d9aa9a159ba4e6830a4b5023ed36f248a3d5e13
+sha256,Coinminer payload (confidence level: 95%),fc3f73647a48ceb5c3569a3fa01c666c8358a4c712bdc9817b046f1701be0383
+md5,Coinminer payload (confidence level: 95%),47ea17fc4204db6d29b1743407b3f58b
+sha1,AsyncRAT payload (confidence level: 95%),d78e7fe85361505b76551b64e234295c4b25d09d
+sha256,AsyncRAT payload (confidence level: 95%),c73eaa30f8c4690487b1aea47f40cc750d1759a5288afe3025652e77c5a994aa
+md5,AsyncRAT payload (confidence level: 95%),4991728b389ea21d991c317a186b663e
+sha1,DCRat payload (confidence level: 95%),811405edeb689bf864058d0a5cd5f6a4e980b227
+sha256,DCRat payload (confidence level: 95%),4a78e0e8218125c86ecf64afec0d5f06e78f3b8de2a09fd85cb7bd2094bd348e
+md5,DCRat payload (confidence level: 95%),422b19f971fd2af55151ea0cd4a7a3c2
+sha1,Coinminer payload (confidence level: 95%),2932c85fead32e419836e0e4f8ff31fe36ebef8b
+sha256,Coinminer payload (confidence level: 95%),86bc6565f48ff3b75438e0667308397f9ee3b27bcb5f9b5ca7230f9ebf11cf72
+md5,Coinminer payload (confidence level: 95%),a0e029637076880655ddb0a4f206b977
+sha1,troystealer payload (confidence level: 95%),18a0ff86a119a8f2e961434eefe7161fd729ca11
+sha256,troystealer payload (confidence level: 95%),b923f4ae9cb358f0e7e9b42b316089669bf268039fd976951824435e85feb264
+md5,troystealer payload (confidence level: 95%),8d2a51aa24afd4f1a6244e44f62c274b
+sha1,ValleyRAT payload (confidence level: 95%),9e2497dba8ac82b8774e5d2b4e4eaa038fa654ef
+sha256,ValleyRAT payload (confidence level: 95%),35ccb9c521c301e416a3ea0c0292ae93914fe165eb45f749c16de03a99f5fa8e
+md5,ValleyRAT payload (confidence level: 95%),41885a879d63a3a519bbfc7f3a788f44
+sha1,Luca Stealer payload (confidence level: 95%),31fe313b6c7228a4bdbb32b816e5207a7e8bdd9e
+sha256,Luca Stealer payload (confidence level: 95%),bcd9163833b001e137031b04bed6256d7a4660515338c2e09d466eeddc028134
+md5,Luca Stealer payload (confidence level: 95%),9c4cfaafde2b445a7f7ded7fbd85873b
+sha1,DBatLoader payload (confidence level: 95%),1bff1817dd1993da57ad0d0421a01ac4db80b1aa
+sha256,DBatLoader payload (confidence level: 95%),dea1bc8fdb17a134d92f4a0197314eb4f1c792dee72f8a7dd7eaf48d0a0a5e9b
+md5,DBatLoader payload (confidence level: 95%),404b2462dee85c4caea9b4be70a0cc12
+sha1,DBatLoader payload (confidence level: 95%),34e0ab1497bc970c2620beff6d1e35feb6fb8232
+sha256,DBatLoader payload (confidence level: 95%),a6e3b57c5e5f02df28cf5ebde170dac4b93533f6f5c3e33d223e95cd2e236bff
+md5,DBatLoader payload (confidence level: 95%),17d5b805622aa2fca821a71e5050c52a
+sha1,Luca Stealer payload (confidence level: 95%),73d216b34ec46ac69699f4d0a0887a46aca401c2
+sha256,Luca Stealer payload (confidence level: 95%),01799ff47a72820aa826cbd58671db77a2043c6ff9dc781646790ff3b046ed07
+md5,Luca Stealer payload (confidence level: 95%),c4f8754c432c304418bc7e771d5da709
+sha1,DBatLoader payload (confidence level: 95%),ca57bd6e32aa1dfab46844a82a6da99f0c9812e2
+sha256,DBatLoader payload (confidence level: 95%),a2760b3739d264ccefd1fc66cc71549f6949a058d0b52f9fbe64577adf011aa1
+md5,DBatLoader payload (confidence level: 95%),978b14d16de71d85f6c65d0f0768b7ec
+sha1,Luca Stealer payload (confidence level: 95%),ddffa7a244390d5f9d43762ea5708c486db0df48
+sha256,Luca Stealer payload (confidence level: 95%),7326028014380bb2effea7393a321a5f83d8d954624e4ad179a70fc4a913c69b
+md5,Luca Stealer payload (confidence level: 95%),0c66b2fe6481490eee4720c91c8916a8
+sha1,Luca Stealer payload (confidence level: 95%),bc1bc4bfbc83840dc500d18b805657c9e8740113
+sha256,Luca Stealer payload (confidence level: 95%),42e1af596d385cf72ad62f73603208e0fec2d6d13f4fc44b764996ab4158d3bc
+md5,Luca Stealer payload (confidence level: 95%),1827af175cd1c34537f61569dcba5fdb
+sha1,Quasar RAT payload (confidence level: 95%),70bf5598e7cfc0e250875e1ebd4f06f5de2ddbe9
+sha256,Quasar RAT payload (confidence level: 95%),31e0765454785a12c86436331f67020b7390d16b9de42b954127799835eea36c
+md5,Quasar RAT payload (confidence level: 95%),b5cfdfb3945eb02c677ea10d8a973100
+sha1,Luca Stealer payload (confidence level: 95%),cf544e20676caef811488645e74fd4f657f37a21
+sha256,Luca Stealer payload (confidence level: 95%),1c73695f4b3be8af6380f7823312052a74054cdf59a48df1945279633cefc1f9
+md5,Luca Stealer payload (confidence level: 95%),de1b35c1caf253529315835a15a9f1f1
+sha1,Luca Stealer payload (confidence level: 95%),eea919604d44f9d86d22b988c9918552a2aada39
+sha256,Luca Stealer payload (confidence level: 95%),7a75d3d645ed69d286b1eb3bdd63a573be145508f313d774e3e2f397c0d884dd
+md5,Luca Stealer payload (confidence level: 95%),237f5146abd1dbd5383bd4abdc292230
+sha1,Luca Stealer payload (confidence level: 95%),8a67b7d21846933df7e04b62a598aff19b1b6a00
+sha256,Luca Stealer payload (confidence level: 95%),4e0f1f8556f25ec68464bc0cc2195194e10d008724ee09e22ea450144dff1ed7
+md5,Luca Stealer payload (confidence level: 95%),772536a3dfdb713d9b9ec696a36f04f9
+sha1,Luca Stealer payload (confidence level: 95%),0670efaa311b390d381a57ed6a354ccef1e687e4
+sha256,Luca Stealer payload (confidence level: 95%),d64f105b467926f48a2620c3db6cdb670d5fc1f3786fe9380c5c12cbd35ee61d
+md5,Luca Stealer payload (confidence level: 95%),a0b9c70365fff87d3aafc73d9f68cab7
+sha1,Luca Stealer payload (confidence level: 95%),c9a8563078635954552561e73011cb17e985d3de
+sha256,Luca Stealer payload (confidence level: 95%),f1dc404e39306e8dd12d3a69903a9e465202c141fe6ff94c2d16c69e3dc9200b
+md5,Luca Stealer payload (confidence level: 95%),7854bd25a060b68710c0bd9929463bc0
+sha1,Luca Stealer payload (confidence level: 95%),05bba2b6b5118399fe3f9836731980cd6e7f7afe
+sha256,Luca Stealer payload (confidence level: 95%),608e9d50b3e0c0a2e83f3f688866470bffdaf00f56244b5d509800da17edbd4b
+md5,Luca Stealer payload (confidence level: 95%),f86d7ced003880d1997c75b218355bc1
+sha1,Luca Stealer payload (confidence level: 95%),a4909ebf0e23a28ffdca0bf950c2ade7e4d8e474
+sha256,Luca Stealer payload (confidence level: 95%),f992991ab5e5d1fd7e78f03b22874b50eb12f90f9c52080654a37da00cff59d5
+md5,Luca Stealer payload (confidence level: 95%),a4c1115f8b0795a465afd1c51dfec44a
+sha1,Luca Stealer payload (confidence level: 95%),a2dbe6a387810ad4611ae6f20fef32c72d9a2fb8
+sha256,Luca Stealer payload (confidence level: 95%),d74f8cec542cc028b6976ac169250b0a5712f0aa6f7e898cbdb644f13b30bc6b
+md5,Luca Stealer payload (confidence level: 95%),0eb6d46f509b517735c754127f58b44f
+sha1,Remcos payload (confidence level: 95%),830b008c6083e983e2bae9a2f4620d29df67eed4
+sha256,Remcos payload (confidence level: 95%),74b51cec29309223c522c8d792c55ab89a8c94be17d271154edcadce4836caff
+md5,Remcos payload (confidence level: 95%),6f163454f20389c41481bcbe117129a6
+sha1,Luca Stealer payload (confidence level: 95%),76dca9bdc8a94f9275c85daf7934ee5d8e489e8d
+sha256,Luca Stealer payload (confidence level: 95%),cfcc919daa1f3aaeb6f113e953fe6842272d3a4df47580220760861fac24fab8
+md5,Luca Stealer payload (confidence level: 95%),dbf59e9dcca432b6281fc498050526d2
+sha1,Luca Stealer payload (confidence level: 95%),8835e39d4144f81f8958b16608082033c8f4f910
+sha256,Luca Stealer payload (confidence level: 95%),5a469d4cfcf5dd625a7670c77e52984cd549c01c3cb0641c1e3c0cce06c6fee9
+md5,Luca Stealer payload (confidence level: 95%),1f3342159f376f9478eb12019a45fab9
+sha1,Luca Stealer payload (confidence level: 95%),03e0d505d54c6d8b4082f4014821bc23aa8e356b
+sha256,Luca Stealer payload (confidence level: 95%),7d823c801a5782b419d0d214b4efa04ac1fa4dcd8e7b6577ef2c95066a157d73
+md5,Luca Stealer payload (confidence level: 95%),5915b7c12598c747995a89ff1ffae5f6
+sha1,Luca Stealer payload (confidence level: 95%),59fac4360f6677a3f617b5024b7bf15e9e512279
+sha256,Luca Stealer payload (confidence level: 95%),27160afab9452087e66de9f4daf7b99fe8f092759d28c5d247cb94eaebd85a02
+md5,Luca Stealer payload (confidence level: 95%),c2dd8e587dbfa822286818bb482b0f18
+sha1,Luca Stealer payload (confidence level: 95%),a80ea9c2ab18cb9d2791b207895fdecf4daed853
+sha256,Luca Stealer payload (confidence level: 95%),36e73535e5aeb1a5001f2a862e1c59e674a6590f76593ad9c5bda0cf1c383d90
+md5,Luca Stealer payload (confidence level: 95%),9c451de68e906a82c000c1bdfbee7b30
+sha1,Luca Stealer payload (confidence level: 95%),ea1012214b6092d324d6cef9dccb9f736684f4a7
+sha256,Luca Stealer payload (confidence level: 95%),b3b15e5fb1af20253ad76efd860580e64749d23d5a77de38a8f94b95dcda0df4
+md5,Luca Stealer payload (confidence level: 95%),996e2044a72dbbc164e458eb801b9d14
+sha1,Luca Stealer payload (confidence level: 95%),8df9d2d394cfa0f626dd176aea8259097b6499bd
+sha256,Luca Stealer payload (confidence level: 95%),db3c974c75dd57fa2373360caea87468416fdf13eb483e18a4f84bfa17d1eaab
+md5,Luca Stealer payload (confidence level: 95%),abc39ee37bc69c672e2cc8d9c3c8c8aa
+sha1,Phorpiex payload (confidence level: 95%),cc2d892f761554ab976ce7ccab39d88467ef6478
+sha256,Phorpiex payload (confidence level: 95%),c93600c0db410e63e4eed9e453a7a7756dfa7deb255c66433d8de2e445d43858
+md5,Phorpiex payload (confidence level: 95%),b4fff24e66f590dc60e2edb5574d926f
+sha1,Luca Stealer payload (confidence level: 95%),087de7edd5ff1b481e40d1b371b88346d3d3ba63
+sha256,Luca Stealer payload (confidence level: 95%),1be5da6fd8988065c9a0dab05fe553b32fecce13b7409a400d5641ef7aa6054e
+md5,Luca Stealer payload (confidence level: 95%),994ca6fcb73fb8c10313a1f0667c3841
+sha1,Luca Stealer payload (confidence level: 95%),73da72493c89790da0b93b29284bb3bb08876a60
+sha256,Luca Stealer payload (confidence level: 95%),7e44b90d075fcf0adbfe85eb7a234ccbd5422d74756870bcd3ed652eac0ad749
+md5,Luca Stealer payload (confidence level: 95%),297dd75ba63dbd73fa6d0b817df1868e
+sha1,Cobalt Strike payload (confidence level: 95%),2ad255dc761a893c7cd4da314b927c70644469d7
+sha256,Cobalt Strike payload (confidence level: 95%),ebb245269e645416c263f5e4f3397f09e50e9ed517d9946df38f88f72f3ae0f9
+md5,Cobalt Strike payload (confidence level: 95%),17c330ef7cdad8cf468bb43ff5b42a06
+sha1,TorLoader payload (confidence level: 95%),07e81b5ded325b272226547c55a546863480faac
+sha256,TorLoader payload (confidence level: 95%),c5ec0dfeb95f04a6eb9eff18b772ac19f5f430ad76715fc92a132a2e4ee6dec3
+md5,TorLoader payload (confidence level: 95%),b8390f5c190e1bac80e639c0cd39c59f
+sha1,Vidar payload (confidence level: 95%),a15d613828bb9d0bb23e2fa892435ba937dc72d2
+sha256,Vidar payload (confidence level: 95%),608fec3b189bf7b3bd07f2d30071335b6aa3f497ce385f6e097aa901ea451b4e
+md5,Vidar payload (confidence level: 95%),7ffc40236b09aac2734773eb23390a08
+sha1,Vidar payload (confidence level: 95%),351b6e4451b2e55f2ee86aa737334bd6abededf4
+sha256,Vidar payload (confidence level: 95%),3561b5b3972012641075bec94d5e9783ddb71aa9fc32762a09d80fcaf074bd2a
+md5,Vidar payload (confidence level: 95%),a8da43f44370f0c6908fa01beab2415b
+sha1,ReverseRAT payload (confidence level: 95%),2f4fa018fe6aa5b89e80efc47b574493e46c03e6
+sha256,ReverseRAT payload (confidence level: 95%),5a255dfa2a938f47ac098bd54e7cfd3e1e0ba5d494bf45898e2e32c6738f3be6
+md5,ReverseRAT payload (confidence level: 95%),d14bc514623306cea216cafccf09accf
+sha1,ReverseRAT payload (confidence level: 95%),34a00249837885da2191765fd02530774dd0eafc
+sha256,ReverseRAT payload (confidence level: 95%),b52b2eddde8a80f4c2704382446b169e1f684e0561c1aa880631af22d3d6a3f0
+md5,ReverseRAT payload (confidence level: 95%),1877caf737cb51bf1217a6da01211a5c
+sha1,XWorm payload (confidence level: 95%),18aa53c87a388ae50ca6f8b04a2d5407f798d473
+sha256,XWorm payload (confidence level: 95%),d3116ed12ca656bbf51dbc9f33e4d9464685ddf72319994db1221a528af7ff8a
+md5,XWorm payload (confidence level: 95%),03acaedf455a49de50bd5dd881de3b12
+sha1,AsyncRAT payload (confidence level: 95%),cb9d732333ef2b6854000825ef3415ce372a09dc
+sha256,AsyncRAT payload (confidence level: 95%),9ba6800b7caeb12b7c20242897608f4a0a6f9458f784c88a7700f3cdf164c78a
+md5,AsyncRAT payload (confidence level: 95%),c634a5b85c746ad20bce84a5d3f3bf3d
+sha1,AsyncRAT payload (confidence level: 95%),3b5876e85904d1797e9764f4f81bc7a920f5c9a1
+sha256,AsyncRAT payload (confidence level: 95%),e844af8d61d9a96dcbba0546cf4b88d684a8bc0fedbdb22d61f1824737da471a
+md5,AsyncRAT payload (confidence level: 95%),cda9d86af82b93855c71ee272d6a3edc
+sha1,Quasar RAT payload (confidence level: 95%),f3a631ad4ad64734ee1d6117e5cdb9db6477b8d5
+sha256,Quasar RAT payload (confidence level: 95%),6d5faa0cd51cbe5d6fb33a09453d1a9ccfcbffc3fb715369026db4103b1605db
+md5,Quasar RAT payload (confidence level: 95%),b0b629c56264132439b5112de8365cf1
+sha1,DCRat payload (confidence level: 95%),1b964b081115128250889cbc2b0cae51329451d3
+sha256,DCRat payload (confidence level: 95%),ca5fe45c64bae90416c184ec24ea804d3bf14837d2d05cccc13271890285f3df
+md5,DCRat payload (confidence level: 95%),cf95bf8a9aa0912f421fd25373fe8146
+sha1,ValleyRAT payload (confidence level: 95%),a182088182f9c97393bb9328fa7d7b771caeb041
+sha256,ValleyRAT payload (confidence level: 95%),c6a04df95dab0429187abdad726a94cfa6ded9c5c3afa12e81506e6ef53472ce
+md5,ValleyRAT payload (confidence level: 95%),b86751a4c95969bd5bd1d974174f87b7
+sha1,NetWire RC payload (confidence level: 95%),24cb833caf155c68d48eb84a6b83eebd30faf0ed
+sha256,NetWire RC payload (confidence level: 95%),6358bdf6b120880ec2dd9331a7aa54de2dcefdcaa08be93aff80ded7cecac921
+md5,NetWire RC payload (confidence level: 95%),b5b00411a957478e89c1c12718137797
+sha1,NetWire RC payload (confidence level: 95%),6c1273929d6bd9e7cd92cfcc04c1d890ff82f239
+sha256,NetWire RC payload (confidence level: 95%),50ff9fa37b9f106e32b66a29588dcea973afa5f0b1e36643d84d284547210add
+md5,NetWire RC payload (confidence level: 95%),00f1c6c168f516d5aecb41cd1f688b11
+sha1,ValleyRAT payload (confidence level: 95%),432f74ec37b1de7a3dad411a654f5aa47235cc8c
+sha256,ValleyRAT payload (confidence level: 95%),a5c6338b23af21cdcf5d04c6fc30d29983abcb8111ed8c9729ce36e09a8ad81f
+md5,ValleyRAT payload (confidence level: 95%),b0739388daf2137098b2d382d13d2720
+sha1,DCRat payload (confidence level: 95%),abf47634fafe11e6385d03f6b50d15bab1003b36
+sha256,DCRat payload (confidence level: 95%),6b78dfac535afed37a5a326d9fcab9982af46fc04d2a94059c4cba2f0581d957
+md5,DCRat payload (confidence level: 95%),aa23c71a22460d0bd76476cde1ebf75e
+sha1,NjRAT payload (confidence level: 95%),dd61463390beb70d9ddf48825b796e215e089843
+sha256,NjRAT payload (confidence level: 95%),93f2ac04fdcd3b35feeccb31d9a31b8e2dd062870d3f2d2b776de9c34c2a1808
+md5,NjRAT payload (confidence level: 95%),830a8f4eb221dc2799026866a6a3defc
+sha1,DCRat payload (confidence level: 95%),b10dd11be230893e698d663aaf22ff8aa8fc60e2
+sha256,DCRat payload (confidence level: 95%),8abdbf04c18d8ca1fa42aa9340d850edd52be783821cd7f5c3201b92cb75e5ca
+md5,DCRat payload (confidence level: 95%),79e57a7ea49e094b0d642291bcb9ca27
+sha1,Amadey payload (confidence level: 95%),60195650bb33eaed745d02ce20b4bd775ea9c108
+sha256,Amadey payload (confidence level: 95%),7623b74488d2413a84e80ae2c03d73c67e9b91350660bdc0c45b0d11cef57bc6
+md5,Amadey payload (confidence level: 95%),777b523753dfd477e0cb553892e403b9
+sha1,Vjw0rm payload (confidence level: 95%),afbabe17994f14712fb3378fe6f3ef41d4561a58
+sha256,Vjw0rm payload (confidence level: 95%),3f5078e471686cd0a8a2e3a98d5835b988d49772c8cf512e84ccc8d18e214bda
+md5,Vjw0rm payload (confidence level: 95%),76c3faf31fbc45ad770dc17482b28b10
+sha1,Pony payload (confidence level: 95%),aa277fdda49503b1f288e85bf4b06cbcc0ae20d0
+sha256,Pony payload (confidence level: 95%),a1fa6a080e043aea83b9369e9cbca1aa0ca51f80d176756cc4c94d12b1b47e85
+md5,Pony payload (confidence level: 95%),68f7858cbcd3a2d6ada3e12d3b630967
+sha1,ValleyRAT payload (confidence level: 95%),e314bc2310efcf4bb30bbd961e69889243826648
+sha256,ValleyRAT payload (confidence level: 95%),dca432d2f1011ce2194930bff6e3c2daa084e51f396feb865389203ee1df3eda
+md5,ValleyRAT payload (confidence level: 95%),6404d7f9bcc57ee37ef38c3725a46a79
+sha1,ValleyRAT payload (confidence level: 95%),714625324b1636df116803547e656fbaa74d30b7
+sha256,ValleyRAT payload (confidence level: 95%),9c54f6cdf47ed1d27d9a815f000280a02cefa34ba6796f763bb5b6adf2131334
+md5,ValleyRAT payload (confidence level: 95%),625bc70c9c8d21e26deba2554c80d164
+sha1,AsyncRAT payload (confidence level: 95%),e23c40b5bc9421cfb36d89d4c1a0d77f885a9f82
+sha256,AsyncRAT payload (confidence level: 95%),9d1178c03cb6e2064243d70df772b957e887a5debc41599c40883123823d26a3
+md5,AsyncRAT payload (confidence level: 95%),61f0cf642600a702e4af70fc7a05614a
+sha1,Stealc payload (confidence level: 95%),5201a60f2298e995c60a0b3fd4d123705d8017f7
+sha256,Stealc payload (confidence level: 95%),8957216cf0ff3b340c066ea6dc984650d928e6479b4f67040632da1652a1f5cd
+md5,Stealc payload (confidence level: 95%),9be374511f90bd82da2b1f929fab0376
+domain,NjRAT botnet C2 domain (confidence level: 75%),radio-boating.gl.at.ply.gg
+ip-dst|port,Mirai botnet C2 server (confidence level: 75%),31.57.159.6|3778
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 75%),119.29.201.113|9884
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),182.16.21.134|8888
+ip-dst|port,Hook botnet C2 server (confidence level: 100%),45.141.233.103|8082
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),209.209.40.186|8080
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),181.162.144.250|8080
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),47.251.86.104|60000
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),47.86.23.120|3333
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),43.225.157.72|3333
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),13.61.16.44|8443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),63.176.122.75|6077
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),164.90.199.100|3333
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),13.60.46.47|3333
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),159.100.9.105|3000
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),159.100.9.105|8080
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),159.100.9.105|8888
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),154.62.226.195|2404
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),124.220.37.173|3333
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),192.52.242.63|8080
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),54.167.103.73|3333
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),181.32.46.61|8080
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),34.154.74.7|3333
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),212.244.58.232|3333
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),129.204.203.252|3333
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),38.55.193.180|80
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),47.128.251.8|8020
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),107.173.101.114|8081
+ip-dst|port,Sliver botnet C2 server (confidence level: 50%),196.251.83.124|31337
+ip-dst|port,Sliver botnet C2 server (confidence level: 50%),172.104.137.101|31337
+ip-dst|port,Sliver botnet C2 server (confidence level: 50%),31.177.111.52|31337
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 50%),8.216.80.229|9443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 50%),118.122.8.157|12144
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 50%),118.122.8.155|12144
+ip-dst|port,Brute Ratel C4 botnet C2 server (confidence level: 50%),162.254.85.213|10443
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 50%),105.156.234.213|8139
+ip-dst|port,SectopRAT botnet C2 server (confidence level: 50%),74.207.236.155|9000
+url,Unknown malware botnet C2 (confidence level: 50%),http://182.16.21.134:8888/supershell/login
+url,Unknown Stealer botnet C2 (confidence level: 50%),https://zxczxczxczxc.twist2katz.com/
+domain,Unknown Stealer botnet C2 domain (confidence level: 50%),zxczxczxczxc.twist2katz.com
+domain,Mirai botnet C2 domain (confidence level: 50%),betnot.duck
+domain,Quasar RAT botnet C2 domain (confidence level: 50%),hilly6969-57199.portmap.io
+domain,Quasar RAT botnet C2 domain (confidence level: 50%),negob80122-48657.portmap.io
+domain,Remcos botnet C2 domain (confidence level: 50%),besttrailwithgreatstartingpointforhimgvf.duckdns.org
+domain,Remcos botnet C2 domain (confidence level: 50%),cashmoneyinc2025.casacam.net
+domain,Remcos botnet C2 domain (confidence level: 50%),naimshekh-39648.portmap.io
+domain,Remcos botnet C2 domain (confidence level: 50%),wealthismine.duckdns.org
+domain,Lumma Stealer botnet C2 domain (confidence level: 50%),smarttorg.world
+domain,Lumma Stealer botnet C2 domain (confidence level: 50%),beemorning.icu
+domain,Lumma Stealer botnet C2 domain (confidence level: 50%),birthteeth.xyz
+domain,Lumma Stealer botnet C2 domain (confidence level: 50%),lowspacewish.site
+domain,Lumma Stealer botnet C2 domain (confidence level: 50%),megabuy24.xyz
+domain,Lumma Stealer botnet C2 domain (confidence level: 50%),pancakebag.xyz
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),47.111.108.47|8389
+ip-dst|port,Ghost RAT botnet C2 server (confidence level: 100%),124.221.8.175|9999
+ip-dst|port,pupy botnet C2 server (confidence level: 100%),38.54.23.241|443
+ip-dst|port,Sliver botnet C2 server (confidence level: 100%),109.172.91.124|31337
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),119.91.52.117|8888
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),88.237.19.77|3003
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),159.100.248.159|7443
+ip-dst|port,Havoc botnet C2 server (confidence level: 100%),44.211.135.190|80
+ip-dst|port,Aurotun Stealer botnet C2 server (confidence level: 100%),62.60.226.178|40102
+ip-dst|port,DCRat botnet C2 server (confidence level: 100%),13.211.63.137|13356
+url,DCRat botnet C2 (confidence level: 100%),http://grapevzlom.cc.swtest.ru/61d830de.php
+ip-dst|port,DeimosC2 botnet C2 server (confidence level: 75%),18.155.51.241|443
+ip-dst|port,DeimosC2 botnet C2 server (confidence level: 75%),193.178.170.145|8070
+ip-dst|port,DeimosC2 botnet C2 server (confidence level: 75%),3.166.194.240|443
+ip-dst|port,DeimosC2 botnet C2 server (confidence level: 75%),3.35.175.54|443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 75%),38.207.179.194|60000
+ip-dst|port,DeimosC2 botnet C2 server (confidence level: 75%),95.165.37.186|14853
+url,DCRat botnet C2 (confidence level: 100%),http://91.92.46.179/pipejscpudbtemporary.php
+domain,Unknown malware payload delivery domain (confidence level: 100%),security.closecurflae.com
+domain,Unknown malware payload delivery domain (confidence level: 100%),aldoep.com
+url,Unknown malware payload delivery URL (confidence level: 100%),https://aldoep.com/flare.msi
+ip-dst|port,Unknown Stealer botnet C2 server (confidence level: 100%),185.107.74.40|27016
+url,Latrodectus payload delivery URL (confidence level: 95%),http://smarttecho.net/wp-content/plugins/wp-water-standards/index.php?r=bd1odhrwczovl2tzyndtay5jb20v
+url,Latrodectus payload delivery URL (confidence level: 95%),http://codepad.co/blog/wp-content/plugins/wp-guidance-machinery/index.php?r=bd1odhrwczovl2rxcmridi5jb20v
+url,Latrodectus payload delivery URL (confidence level: 95%),http://scaof.com/wp-content/plugins/wp-biocuration-planet/index.php?r=bd1odhrwczovl2tzyndtay5jb20v
+url,Latrodectus payload delivery URL (confidence level: 95%),http://imax-host.com/alfinach/wp-content/plugins/wp-res-system/index.php?r=bd1odhrwczovl2rxcmridi5jb20v
+url,Latrodectus payload delivery URL (confidence level: 95%),http://pim.legrand.pl/wp-content/plugins/wp-control-dragnet/index.php?r=bd1odhrwczovl2rxcmridi5jb20v
+ip-dst|port,Meterpreter botnet C2 server (confidence level: 75%),8.211.157.140|443
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),194.59.31.57|2404
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),23.26.77.15|2404
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),194.59.31.46|5200
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),176.65.140.129|3191
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),154.62.226.195|2525
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),213.209.143.37|1337
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),172.94.101.65|8808
+ip-dst|port,Havoc botnet C2 server (confidence level: 100%),60.205.139.49|443
+ip-dst|port,DCRat botnet C2 server (confidence level: 100%),47.107.128.134|8848
+ip-dst|port,DCRat botnet C2 server (confidence level: 100%),46.173.214.176|7777
+ip-dst|port,FAKEUPDATES botnet C2 server (confidence level: 100%),47.130.8.25|443
+ip-dst|port,NetSupportManager RAT payload delivery server (confidence level: 100%),45.81.23.69|443
+domain,NetSupportManager RAT payload delivery domain (confidence level: 100%),static.noleggiodisci.com
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),greengwjz.top
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),harumseeiw.top
+domain,Cobalt Strike botnet C2 domain (confidence level: 75%),cv9bpfn9kk9vq.cfc-execute.bj.baidubce.com
+domain,Cobalt Strike botnet C2 domain (confidence level: 75%),home.33893306.xyz
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 75%),159.75.146.232|9884
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 75%),60.222.116.108|80
+domain,FAKEUPDATES botnet C2 domain (confidence level: 100%),donation.benjaminssoldiers.com
+url,DCRat botnet C2 (confidence level: 100%),http://94.156.115.43/geovmvmproton/5/baseexternalflower/server/7processauth5/tracktestmariadbvm/6universalrequest5/6pollprovider/getloginflow.php
+url,FAKEUPDATES botnet C2 (confidence level: 100%),https://donation.benjaminssoldiers.com/profilelayout
+ip-dst|port,ValleyRAT botnet C2 server (confidence level: 100%),45.204.194.199|6666
+url,DCRat botnet C2 (confidence level: 100%),http://rhionawesa.temp.swtest.ru/videopollprocessbigloaddle.php
+ip-dst|port,Revenge RAT botnet C2 server (confidence level: 100%),177.74.187.183|333
+domain,Lumma Stealer botnet C2 domain (confidence level: 75%),sumeriieab.shop
+domain,Lumma Stealer botnet C2 domain (confidence level: 75%),calyxtwldk.shop
+domain,Lumma Stealer botnet C2 domain (confidence level: 75%),spdbey.digital
+domain,Lumma Stealer botnet C2 domain (confidence level: 75%),lomeas.digital
+domain,Lumma Stealer botnet C2 domain (confidence level: 75%),cyavf.digital
+domain,Lumma Stealer botnet C2 domain (confidence level: 75%),terrgl.digital
+domain,Lumma Stealer botnet C2 domain (confidence level: 75%),medbnel.digital
+domain,Lumma Stealer botnet C2 domain (confidence level: 75%),siilvlt.digital
+domain,Lumma Stealer botnet C2 domain (confidence level: 75%),pelcxt.digital
+domain,Lumma Stealer botnet C2 domain (confidence level: 75%),privwk.digital
+domain,Lumma Stealer botnet C2 domain (confidence level: 75%),dimelb.digital
+domain,Lumma Stealer botnet C2 domain (confidence level: 75%),horrduia.digital
+domain,Lumma Stealer botnet C2 domain (confidence level: 75%),cabzka.digital
+domain,Lumma Stealer botnet C2 domain (confidence level: 75%),coavgdc.digital
+domain,Lumma Stealer botnet C2 domain (confidence level: 75%),lioqki.digital
+domain,Lumma Stealer botnet C2 domain (confidence level: 75%),hehspdw.digital
+domain,Lumma Stealer botnet C2 domain (confidence level: 75%),abubhj.digital
+domain,Lumma Stealer botnet C2 domain (confidence level: 75%),seiyrd.digital
+domain,Lumma Stealer botnet C2 domain (confidence level: 75%),hadibg.digital
+domain,Lumma Stealer botnet C2 domain (confidence level: 75%),frevzb.digital
+ip-dst|port,MetaStealer botnet C2 server (confidence level: 75%),89.185.80.252|443
+domain,NjRAT botnet C2 domain (confidence level: 100%),suchwoni13.duckdns.org
+ip-dst|port,NjRAT botnet C2 server (confidence level: 75%),43.226.229.132|4030
+ip-dst|port,RedLine Stealer botnet C2 server (confidence level: 75%),2.58.56.129|1912
+url,Lumma Stealer botnet C2 (confidence level: 75%),https://harumseeiw.top/tqmn
+url,Loki Password Stealer (PWS) botnet C2 (confidence level: 100%),http://twosisterswine.com.au/admin/panel/five/fre.php
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),207.244.245.192|2404
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),107.173.221.204|8888
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|37727
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|62584
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|1433
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|7358
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|24210
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|11101
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|2456
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|3390
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|5356
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|9936
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|18246
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|501
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|1913
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|2080
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|33861
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|44817
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|22568
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|52244
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|65126
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|567
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|2454
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|8443
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|12778
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|14484
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|17649
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|8082
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|16670
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|29039
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|832
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|2281
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|7402
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|389
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|7547
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|55447
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|103
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|42745
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|44819
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|831
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|17335
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|50609
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|23239
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|55680
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|1521
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|8000
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|20525
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|23931
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|35834
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|49691
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|54666
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|1272
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|8880
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|34271
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|63652
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|5671
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|32780
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|58603
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|24685
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|29484
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|41795
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|48770
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|58000
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|5786
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|7443
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|8684
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|59417
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|9876
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|34126
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|49051
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|2095
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|5902
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|7991
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|40000
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|61239
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|443
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|2004
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),41.143.206.56|11587
+ip-dst|port,NetSupportManager RAT botnet C2 server (confidence level: 100%),108.136.135.26|789
+ip-dst|port,MooBot botnet C2 server (confidence level: 100%),213.130.156.1|33066
+url,Lumma Stealer botnet C2 (confidence level: 75%),https://nercy.live/apzf/api
+url,DCRat botnet C2 (confidence level: 100%),http://litkosbj.beget.tech/c383df8f.php
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 50%),8.134.132.110|5556
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 50%),43.139.145.242|443
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 50%),41.143.206.56|9398
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 50%),105.156.234.213|8140
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 50%),105.156.234.213|8181
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 50%),105.156.234.213|7001
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 50%),105.156.234.213|311
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 50%),105.156.234.213|9443
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 50%),105.156.234.213|31337
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 50%),105.156.234.213|8009
+ip-dst|port,Sliver botnet C2 server (confidence level: 50%),185.196.10.9|31337
+ip-dst|port,Sliver botnet C2 server (confidence level: 50%),144.172.104.169|31337
+ip-dst|port,Sliver botnet C2 server (confidence level: 50%),176.65.141.106|31337
+ip-dst|port,Sliver botnet C2 server (confidence level: 50%),82.147.85.23|31337
+ip-dst|port,Sliver botnet C2 server (confidence level: 50%),144.172.110.133|31337
+ip-dst|port,Ghost RAT botnet C2 server (confidence level: 50%),149.210.73.170|443
+ip-dst|port,Xtreme RAT botnet C2 server (confidence level: 50%),110.43.68.39|10001
+domain,Amadey botnet C2 domain (confidence level: 50%),cleaningenering.top
+domain,Amadey botnet C2 domain (confidence level: 50%),cleaningpro.top
+domain,DCRat botnet C2 domain (confidence level: 50%),published-refined.gl.at.ply.gg
+domain,Quasar RAT botnet C2 domain (confidence level: 50%),catonzaza-25876.portmap.io
+domain,Remcos botnet C2 domain (confidence level: 50%),elfin.duckdns.org
+ip-dst|port,Remcos botnet C2 server (confidence level: 50%),172.177.207.123|8802
+ip-dst|port,Remcos botnet C2 server (confidence level: 50%),172.177.207.123|8804
+ip-dst|port,Remcos botnet C2 server (confidence level: 50%),172.177.207.123|8805
+ip-dst|port,Remcos botnet C2 server (confidence level: 50%),172.177.207.123|8807
+domain,XWorm botnet C2 domain (confidence level: 50%),machack-45210.portmap.io
+domain,Lumma Stealer botnet C2 domain (confidence level: 50%),cvzco.run
+domain,Lumma Stealer botnet C2 domain (confidence level: 50%),devotiwpad.live
+domain,Lumma Stealer botnet C2 domain (confidence level: 50%),untgst.run
+domain,Phemedrone Stealer botnet C2 domain (confidence level: 50%),lolzshop.space
+domain,Phemedrone Stealer botnet C2 domain (confidence level: 50%),mail.zelen.space
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),147.45.193.63|80
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),190.211.254.211|80
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),8.219.233.255|20066
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),106.54.43.163|443
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),189.1.220.31|48443
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),189.1.220.31|48444
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),192.3.24.17|80
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),14.103.242.218|8888
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),176.65.140.104|80
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),196.251.71.144|2404
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),46.246.14.2|8090
+ip-dst|port,Sliver botnet C2 server (confidence level: 100%),3.85.132.181|443
+ip-dst|port,Sliver botnet C2 server (confidence level: 100%),8.216.80.229|443
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),144.172.84.45|3000
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),95.129.234.24|7707
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),83.244.71.247|4444
+ip-dst|port,Latrodectus botnet C2 server (confidence level: 90%),151.236.9.20|443
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),190.199.225.65|443
+ip-dst|port,Havoc botnet C2 server (confidence level: 100%),185.203.118.105|443
+ip-dst|port,NetSupportManager RAT botnet C2 server (confidence level: 100%),88.17.30.37|443
+ip-dst|port,NetSupportManager RAT botnet C2 server (confidence level: 100%),35.154.17.69|6005
+ip-dst|port,NetSupportManager RAT botnet C2 server (confidence level: 100%),84.154.183.108|82
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),159.100.9.105|3333
+domain,AMOS botnet C2 domain (confidence level: 50%),afhousing.com
+domain,AMOS botnet C2 domain (confidence level: 50%),arisheema.com
+domain,AMOS botnet C2 domain (confidence level: 50%),asoonworld.com
+domain,AMOS botnet C2 domain (confidence level: 50%),azaanamjad.com
+domain,AMOS botnet C2 domain (confidence level: 50%),bedavavideoizle.com
+domain,AMOS botnet C2 domain (confidence level: 50%),bexarmg.com
+domain,AMOS botnet C2 domain (confidence level: 50%),bikeabq.com
+domain,AMOS botnet C2 domain (confidence level: 50%),bitcowe.com
+domain,AMOS botnet C2 domain (confidence level: 50%),chantalrae.com
+domain,AMOS botnet C2 domain (confidence level: 50%),downloadmacos.com
+domain,AMOS botnet C2 domain (confidence level: 50%),escapeesrvelub.com
+domain,AMOS botnet C2 domain (confidence level: 50%),etechnix.com
+domain,AMOS botnet C2 domain (confidence level: 50%),fioregarden.com
+domain,AMOS botnet C2 domain (confidence level: 50%),followerstik.com
+domain,AMOS botnet C2 domain (confidence level: 50%),gadesive.com
+domain,AMOS botnet C2 domain (confidence level: 50%),gardenierbi.com
+domain,AMOS botnet C2 domain (confidence level: 50%),hesingue.com
+domain,AMOS botnet C2 domain (confidence level: 50%),kbcokc.com
+domain,AMOS botnet C2 domain (confidence level: 50%),kosmosgrid.com
+domain,AMOS botnet C2 domain (confidence level: 50%),lenoreinc.com
+domain,AMOS botnet C2 domain (confidence level: 50%),lildevi.com
+domain,AMOS botnet C2 domain (confidence level: 50%),m-e-a-s.com
+domain,AMOS botnet C2 domain (confidence level: 50%),mrkenallen.com
+domain,AMOS botnet C2 domain (confidence level: 50%),novalur.com
+domain,AMOS botnet C2 domain (confidence level: 50%),nullitax.com
+domain,AMOS botnet C2 domain (confidence level: 50%),peperinty.com
+domain,AMOS botnet C2 domain (confidence level: 50%),pixoos.com
+domain,AMOS botnet C2 domain (confidence level: 50%),planetajanta.com
+domain,AMOS botnet C2 domain (confidence level: 50%),posesinpanni.com
+domain,AMOS botnet C2 domain (confidence level: 50%),realtorrohe.com
+domain,AMOS botnet C2 domain (confidence level: 50%),sabbih.com
+domain,AMOS botnet C2 domain (confidence level: 50%),simchatime.com
+domain,AMOS botnet C2 domain (confidence level: 50%),stickynuggzinc.com
+domain,AMOS botnet C2 domain (confidence level: 50%),stivaliserna.com
+domain,AMOS botnet C2 domain (confidence level: 50%),superbaccessories.com
+domain,AMOS botnet C2 domain (confidence level: 50%),thotlog.com
+domain,AMOS botnet C2 domain (confidence level: 50%),tjporktrace.com
+domain,AMOS botnet C2 domain (confidence level: 50%),trazeall.com
+domain,AMOS botnet C2 domain (confidence level: 50%),ugspy.com
+domain,AMOS botnet C2 domain (confidence level: 50%),vbeltdrives.com
+domain,AMOS botnet C2 domain (confidence level: 50%),vuwzer.com
+domain,AMOS botnet C2 domain (confidence level: 50%),yvngvualr.com
+ip-dst|port,QakBot botnet C2 server (confidence level: 75%),154.246.12.204|22
+ip-dst|port,DeimosC2 botnet C2 server (confidence level: 75%),156.254.114.50|443
+ip-dst|port,DeimosC2 botnet C2 server (confidence level: 75%),31.22.105.217|10009
+ip-dst|port,Rhysida botnet C2 server (confidence level: 75%),37.59.132.163|443
+ip-dst|port,Rhysida botnet C2 server (confidence level: 75%),37.59.132.163|80
+ip-dst|port,DeimosC2 botnet C2 server (confidence level: 75%),45.207.217.29|60020
+ip-dst|port,Brute Ratel C4 botnet C2 server (confidence level: 75%),54.210.52.218|443
+ip-dst|port,QakBot botnet C2 server (confidence level: 75%),74.102.197.54|2222
+ip-dst|port,QakBot botnet C2 server (confidence level: 75%),88.236.195.215|443
+ip-dst|port,DeimosC2 botnet C2 server (confidence level: 75%),91.208.216.179|11435
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 75%),193.112.239.170|443
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 75%),43.136.45.182|443
+ip-dst|port,ValleyRAT botnet C2 server (confidence level: 100%),120.89.71.226|9090
+ip-dst|port,ValleyRAT botnet C2 server (confidence level: 100%),202.95.15.37|80
