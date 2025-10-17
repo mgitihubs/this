@@ -1,0 +1,509 @@
+Type,Comment,Value
+url,KongTuke payload delivery URL (confidence level: 100%),https://prixmatech.com/5r7h.js
+domain,KongTuke payload delivery domain (confidence level: 100%),prixmatech.com
+url,KongTuke payload delivery URL (confidence level: 100%),http://144.31.221.84:5555/code777
+url,Unknown Stealer botnet C2 (confidence level: 100%),http://87.120.165.1:1448/login
+url,Unknown Stealer botnet C2 (confidence level: 100%),http://87.120.165.1:1448/upload
+domain,SalatStealer botnet C2 domain (confidence level: 100%),fsafasjasgia.live
+domain,SalatStealer botnet C2 domain (confidence level: 100%),196dot247dot163dot8.webrat.in
+url,Unknown Stealer payload delivery URL (confidence level: 100%),http://87.120.165.1:1337/libs.exe
+url,KongTuke payload delivery URL (confidence level: 100%),https://prixmatech.com/js.php
+url,Unknown Stealer botnet C2 (confidence level: 100%),https://vale-sanete-investment.sbs/fkstk
+url,Unknown Stealer botnet C2 (confidence level: 100%),https://vale-sanete-investment.sbs/uploadfile
+url,Unknown Stealer botnet C2 (confidence level: 100%),https://vale-sanete-investment.sbs/browserinfo
+url,Unknown Stealer botnet C2 (confidence level: 100%),https://vale-sanete-investment.sbs/browsersdynamic
+url,Unknown Stealer botnet C2 (confidence level: 100%),https://vale-sanete-investment.sbs/telegram
+url,Unknown Stealer botnet C2 (confidence level: 100%),https://vale-sanete-investment.sbs/discord
+url,Unknown Stealer botnet C2 (confidence level: 100%),https://vale-sanete-investment.sbs/wallets
+url,Unknown Stealer botnet C2 (confidence level: 100%),https://vale-sanete-investment.sbs/ftpclients
+url,Unknown Stealer botnet C2 (confidence level: 100%),https://vale-sanete-investment.sbs/credclients
+url,Unknown Stealer botnet C2 (confidence level: 100%),https://vale-sanete-investment.sbs/signal-done
+url,Unknown Stealer payload delivery URL (confidence level: 100%),https://vale-sanete-investment.sbs/getdllv2
+domain,FAKEUPDATES botnet C2 domain (confidence level: 100%),store.alignfrisco.com
+ip-dst|port,Nanocore RAT botnet C2 server (confidence level: 75%),51.79.62.93|8932
+url,Amadey botnet C2 (confidence level: 100%),http://91.92.242.225/h9djjcwefj/index.php
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),210.21.11.212|8088
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),113.47.146.242|8443
+ip-dst|port,Latrodectus botnet C2 server (confidence level: 100%),178.16.55.18|443
+ip-dst|port,Latrodectus botnet C2 server (confidence level: 100%),178.16.55.30|443
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),192.159.99.171|1000
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),193.26.115.230|5001
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),45.88.186.177|8888
+ip-dst|port,Sliver botnet C2 server (confidence level: 100%),185.110.191.88|443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),31.42.127.229|8888
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),192.159.99.98|8808
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),207.189.164.106|56003
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),102.117.173.63|7443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),143.110.187.124|7443
+ip-dst|port,Meterpreter botnet C2 server (confidence level: 100%),45.227.254.6|3790
+domain,ClearFake payload delivery domain (confidence level: 100%),pox.ibzr-2.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),h7lp.vorn5.ru
+domain,Cobalt Strike botnet C2 domain (confidence level: 75%),www.6119.com.cn
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 75%),121.41.67.224|18080
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 75%),124.70.82.189|2096
+domain,Unknown malware botnet C2 domain (confidence level: 100%),ss.cybiz.ggff.net
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),212.15.49.30|8808
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),148.230.110.222|443
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),190.153.22.234|2222
+ip-dst|port,DCRat botnet C2 server (confidence level: 100%),27.124.41.58|443
+ip-dst|port,Latrodectus botnet C2 server (confidence level: 100%),178.16.55.16|443
+ip-dst|port,Latrodectus botnet C2 server (confidence level: 100%),178.16.55.39|443
+ip-dst|port,Ares botnet C2 server (confidence level: 90%),5.149.252.227|26358
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),157.20.104.71|60000
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),42.192.52.126|60000
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),64.226.76.186|443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),35.224.159.59|443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),139.84.219.208|443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),107.174.82.197|443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),20.15.35.206|3333
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),195.238.122.114|1234
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),18.162.97.150|8080
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),148.230.82.66|8080
+ip-dst|port,GobRAT botnet C2 server (confidence level: 100%),47.239.84.57|8443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),136.244.88.88|3333
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),5.250.183.141|3333
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),155.138.161.66|443
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),23.132.164.189|8808
+ip-dst|port,NetSupportManager RAT botnet C2 server (confidence level: 100%),102.96.170.86|443
+ip-dst|port,DeimosC2 botnet C2 server (confidence level: 100%),54.206.19.174|443
+url,Amadey botnet C2 (confidence level: 100%),http://78.40.193.235
+domain,RedLine Stealer botnet C2 domain (confidence level: 100%),address-buffer.gl.at.ply.gg
+ip-dst|port,ValleyRAT botnet C2 server (confidence level: 100%),45.64.246.16|6666
+ip-dst|port,ValleyRAT botnet C2 server (confidence level: 100%),45.64.246.16|8888
+ip-dst|port,ValleyRAT botnet C2 server (confidence level: 100%),45.64.246.16|80
+ip-dst|port,Amadey botnet C2 server (confidence level: 50%),91.92.242.225|80
+url,Amadey botnet C2 (confidence level: 100%),http://91.92.242.225/h9djjcwefj/login.php
+url,Amatera botnet C2 (confidence level: 50%),https://amapanel.sbs/sign-in
+url,Hook botnet C2 (confidence level: 50%),http://77.91.69.107:3000/
+url,Agent Tesla botnet C2 (confidence level: 50%),https://api.telegram.org/bot7556641569:aafbdwbtylmrrbct2ia4i69eu8wxegwyogu/
+domain,AsyncRAT botnet C2 domain (confidence level: 50%),prakashjadhav.dynu.net
+domain,DCRat botnet C2 domain (confidence level: 50%),bruselas1.duckdns.org
+ip-dst|port,DCRat botnet C2 server (confidence level: 50%),156.254.5.118|8848
+domain,Mirai botnet C2 domain (confidence level: 50%),exec.windyy.qzz.io
+domain,Remcos botnet C2 domain (confidence level: 50%),angelcamefromtheskypeforsaveyoublessinga.duckdns.org
+ip-dst|port,Remcos botnet C2 server (confidence level: 50%),178.16.54.40|8544
+ip-dst|port,Remcos botnet C2 server (confidence level: 50%),31.40.204.138|24047
+ip-dst|port,Remcos botnet C2 server (confidence level: 50%),31.40.204.138|24048
+ip-dst|port,XWorm botnet C2 server (confidence level: 100%),5.175.234.16|7000
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),101.43.58.190|8081
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),68.183.186.194|6089
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),185.157.162.126|88
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),207.231.110.67|8808
+ip-dst|port,Havoc botnet C2 server (confidence level: 100%),72.60.199.244|443
+ip-dst|port,Chaos botnet C2 server (confidence level: 100%),157.20.32.210|7000
+ip-dst|port,AdaptixC2 botnet C2 server (confidence level: 100%),113.44.152.64|10002
+ip-dst|port,ValleyRAT botnet C2 server (confidence level: 100%),168.76.70.50|9000
+ip-dst|port,ValleyRAT botnet C2 server (confidence level: 100%),143.92.49.156|443
+ip-dst|port,BianLian botnet C2 server (confidence level: 75%),149.28.120.86|443
+ip-dst|port,Sliver botnet C2 server (confidence level: 75%),172.245.118.81|8443
+ip-dst|port,Loki Password Stealer (PWS) botnet C2 server (confidence level: 75%),111.70.28.234|53525
+ip-dst|port,Loki Password Stealer (PWS) botnet C2 server (confidence level: 75%),46.77.51.179|83
+ip-dst|port,Sliver botnet C2 server (confidence level: 50%),94.237.87.218|31337
+domain,ClearFake payload delivery domain (confidence level: 100%),xw.ibzr-2.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),hs7.obvp-2.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),oe.obvp-2.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),biz.obvp-2.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),mhk.obvp-2.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),gi.obvp-2.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),p0qh.vorn5.ru
+ip-dst|port,Rhadamanthys botnet C2 server (confidence level: 100%),217.156.66.66|443
+domain,ClearFake payload delivery domain (confidence level: 100%),g1s.obvp-2.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),lz.obvp-2.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),v8.ckar-4.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),ax75.vorn5.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),08.ckar-4.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),zz1c.vorn5.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),njv.ckar-4.ru
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),178.16.52.194|80
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),43.143.240.86|88
+domain,ClearFake payload delivery domain (confidence level: 100%),c3fs.vorn5.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),fs.ckar-4.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),mje.ckar-4.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),n8yt.qihs8.ru
+ip-dst|port,Remcos botnet C2 server (confidence level: 75%),124.198.132.91|9641
+domain,ClearFake payload delivery domain (confidence level: 100%),65y.ckar-4.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),7l.ckar-4.ru
+ip-dst|port,Vjw0rm botnet C2 server (confidence level: 100%),46.246.4.12|7046
+domain,ClearFake payload delivery domain (confidence level: 100%),g6tc.qihs8.ru
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),172.111.213.74|12760
+domain,ClearFake payload delivery domain (confidence level: 100%),kt.ckyq-9.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),oo.ckyq-9.ru
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),195.178.110.135|5555
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),47.113.149.100|8888
+domain,Remcos botnet C2 domain (confidence level: 100%),11733wednesdayyyyyyyfileeemanagerxxxx.duckdns.org
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),139.180.131.34|9999
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),23.140.36.126|48192
+ip-dst|port,Hook botnet C2 server (confidence level: 100%),146.71.85.126|7166
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),196.251.69.215|4782
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),111.230.12.254|4782
+ip-dst|port,NetSupportManager RAT botnet C2 server (confidence level: 100%),54.193.199.63|8020
+ip-dst|port,NetSupportManager RAT botnet C2 server (confidence level: 100%),13.245.237.95|35187
+ip-dst|port,NetSupportManager RAT botnet C2 server (confidence level: 100%),54.233.17.185|1961
+ip-dst|port,MimiKatz botnet C2 server (confidence level: 100%),103.142.147.69|8000
+domain,Nanocore RAT botnet C2 domain (confidence level: 100%),akea-24794.portmap.host
+domain,ClearFake payload delivery domain (confidence level: 100%),428.ckyq-9.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),rq8.ckyq-9.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),rb56.qihs8.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),lx6.ckyq-9.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),nr1.ckyq-9.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),y1me.qihs8.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),pau.ckyq-9.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),d7qz.qihs8.ru
+domain,Latrodectus botnet C2 domain (confidence level: 100%),qiokbrohaschosdikolane.com
+domain,ClearFake payload delivery domain (confidence level: 100%),t9f.qcet-8.ru
+url,Latrodectus botnet C2 (confidence level: 100%),https://qiokbrohaschosdikolane.com/work/
+domain,ClearFake payload delivery domain (confidence level: 100%),t5vq.qihs8.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),hv.qcet-8.ru
+domain,Latrodectus botnet C2 domain (confidence level: 100%),havalkilofilojast.com
+url,Latrodectus botnet C2 (confidence level: 100%),https://havalkilofilojast.com/work/
+domain,ClearFake payload delivery domain (confidence level: 100%),m3qh.jobt9.ru
+domain,Latrodectus botnet C2 domain (confidence level: 100%),krisaldasliodsahj.com
+ip-dst|port,Nanocore RAT botnet C2 server (confidence level: 75%),91.92.242.3|7800
+url,Latrodectus botnet C2 (confidence level: 100%),https://krisaldasliodsahj.com/work/
+domain,Latrodectus botnet C2 domain (confidence level: 100%),krlopskhfutroplsa.com
+url,Latrodectus botnet C2 (confidence level: 100%),https://krlopskhfutroplsa.com/work/
+domain,Latrodectus botnet C2 domain (confidence level: 100%),novakremokasdogiosan.com
+url,Latrodectus botnet C2 (confidence level: 100%),https://novakremokasdogiosan.com/work/
+domain,Latrodectus botnet C2 domain (confidence level: 100%),justriojadiokliobass.com
+url,Latrodectus botnet C2 (confidence level: 100%),https://justriojadiokliobass.com/work/
+domain,Latrodectus botnet C2 domain (confidence level: 100%),krivomadogolyhp.com
+url,Latrodectus botnet C2 (confidence level: 100%),https://krivomadogolyhp.com/work/
+domain,Latrodectus botnet C2 domain (confidence level: 100%),hristomasitomasdf.com
+domain,ClearFake payload delivery domain (confidence level: 100%),pd.qcet-8.ru
+url,Latrodectus botnet C2 (confidence level: 100%),https://hristomasitomasdf.com/work/
+domain,ClearFake payload delivery domain (confidence level: 100%),k9ux.jobt9.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),bgu.qcet-8.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),tx8.qcet-8.ru
+ip-dst|port,XWorm botnet C2 server (confidence level: 100%),5.175.234.16|7005
+domain,ClearFake payload delivery domain (confidence level: 100%),w12r.jobt9.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),av.qcet-8.ru
+url,DCRat botnet C2 (confidence level: 100%),http://a1172253.xsph.ru/87332867.php
+domain,ClearFake payload delivery domain (confidence level: 100%),ar.qcet-8.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),f4zi.jobt9.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),n0.blyp-9.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),77.blyp-9.ru
+url,NetSupportManager RAT payload delivery URL (confidence level: 100%),https://signaturepl.com/work/original.js
+domain,NetSupportManager RAT payload delivery domain (confidence level: 100%),signaturepl.com
+url,NetSupportManager RAT payload delivery URL (confidence level: 100%),https://signaturepl.com/work/index.php
+domain,ClearFake payload delivery domain (confidence level: 100%),r2.blyp-9.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),sx89.jobt9.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),auf.blyp-9.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),5c.blyp-9.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),q0rd.jobt9.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),e9u.blyp-9.ru
+ip-dst|port,donut_injector botnet C2 server (confidence level: 100%),176.46.152.62|5858
+ip-dst|port,donut_injector botnet C2 server (confidence level: 100%),176.46.152.87|5858
+domain,ClearFake payload delivery domain (confidence level: 100%),y7.blyp-9.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),v6yv.moxt5.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),v7b.rxir-9.ru
+ip-dst|port,XWorm botnet C2 server (confidence level: 100%),83.147.243.110|1007
+domain,ClearFake payload delivery domain (confidence level: 100%),ov.rxir-9.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),cyc.rxir-9.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),p9au.moxt5.ru
+url,DCRat botnet C2 (confidence level: 100%),http://a1163865.xsph.ru/f218e95a.php
+domain,ClearFake payload delivery domain (confidence level: 100%),l5.rxir-9.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),bb.rxir-9.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),t3wn.moxt5.ru
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),101.226.8.163|9231
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),101.43.58.190|8080
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),129.211.174.173|8088
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),54.241.73.150|443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),54.169.39.199|7443
+ip-dst|port,Havoc botnet C2 server (confidence level: 100%),172.245.154.155|3443
+ip-dst|port,Meterpreter botnet C2 server (confidence level: 100%),196.75.181.212|2222
+ip-dst|port,Meterpreter botnet C2 server (confidence level: 100%),52.23.157.86|6667
+domain,ClearFake payload delivery domain (confidence level: 100%),3x1.rxir-9.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),l8qh.moxt5.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),3k.rxir-9.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),e1my.moxt5.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),4a.cfob-5.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),6dx.cfob-5.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),h2ds.moxt5.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),1b.cfob-5.ru
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 75%),154.201.74.112|8080
+domain,ClearFake payload delivery domain (confidence level: 100%),u7.cfob-5.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),r7nd.nyqb0.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),hpc.cfob-5.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),c9.cfob-5.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),c4tt.nyqb0.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),oy.cfob-5.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),z5kc.nyqb0.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),lmg.pot-5.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),inr.pot-5.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),y0wg.nyqb0.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),mr1.pot-5.ru
+url,Stealc botnet C2 (confidence level: 100%),http://45.155.69.25
+domain,Nanocore RAT botnet C2 domain (confidence level: 100%),suprakini3-53700.portmap.host
+domain,Nanocore RAT botnet C2 domain (confidence level: 100%),miklo2600.chickenkiller.com
+domain,Nanocore RAT botnet C2 domain (confidence level: 100%),mikloesee.ddns.net
+url,Rhadamanthys botnet C2 (confidence level: 100%),https://31.41.244.251:9985/b82e999a987f2b00ec30/sqat3for.m4eeh
+domain,ClearFake payload delivery domain (confidence level: 100%),baj.pot-5.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),j9pf.nyqb0.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),e6.pot-5.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),m6hk.nyqb0.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),65o.pot-5.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),q8dh.kynh0.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),ov6.pot-5.ru
+ip-dst|port,QakBot botnet C2 server (confidence level: 75%),142.247.237.248|443
+ip-dst|port,Eye Pyramid botnet C2 server (confidence level: 75%),144.124.224.27|443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 75%),23.94.44.214|60000
+ip-dst|port,NetSupportManager RAT botnet C2 server (confidence level: 75%),43.200.253.113|44818
+domain,ClearFake payload delivery domain (confidence level: 100%),fe.gyj-0.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),n1sb.kynh0.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),chp.gyj-0.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),k6oz.kynh0.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),pt.gyj-0.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),x3rn.kynh0.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),wu.gyj-0.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),b7yg.kynh0.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),1n.gyj-0.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),t2jw.kynh0.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),13.gyj-0.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),yc.gyj-0.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),8m.bid-5.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),v5.bid-5.ru
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),83.229.126.65|8080
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),113.45.176.209|8888
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),165.154.125.212|445
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),68.64.177.142|80
+ip-dst|port,Latrodectus botnet C2 server (confidence level: 100%),178.16.55.44|443
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),196.251.117.145|2404
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),196.251.118.26|2404
+domain,Unknown RAT botnet C2 domain (confidence level: 100%),slickweb-ads.com
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),161.248.178.105|8080
+ip-dst|port,SectopRAT botnet C2 server (confidence level: 100%),144.172.103.204|9000
+ip-dst|port,Havoc botnet C2 server (confidence level: 100%),103.49.239.100|8443
+ip-dst|port,DCRat botnet C2 server (confidence level: 100%),162.33.179.50|8090
+ip-dst|port,AdaptixC2 botnet C2 server (confidence level: 100%),45.155.53.153|4321
+ip-dst|port,Meterpreter botnet C2 server (confidence level: 100%),3.80.46.247|83
+domain,ClearFake payload delivery domain (confidence level: 100%),7d.bid-5.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),ni5.bid-5.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),sj.wir-2.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),k32.wir-2.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),b21.wib-8.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),z1.4a8u6.ru
+domain,Cobalt Strike botnet C2 domain (confidence level: 75%),jquery.min-js.site
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 75%),107.148.35.2|8443
+domain,Latrodectus botnet C2 domain (confidence level: 100%),mioasiosumslauyoks.com
+url,Latrodectus botnet C2 (confidence level: 100%),https://mioasiosumslauyoks.com/work/
+domain,ClearFake payload delivery domain (confidence level: 100%),koq-0.ru
+ip-dst|port,Rhadamanthys botnet C2 server (confidence level: 100%),176.46.141.4|443
+domain,ClearFake payload delivery domain (confidence level: 100%),luv-6.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),jix-3.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),zit-5.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),bas-9.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),fyh-2.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),pt.4a8u6.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),x.4a8u6.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),q9.4a8u6.ru
+sha1,Agent Tesla payload (confidence level: 95%),34784175788212bc73886e63406b2e065b5a5fa8
+sha256,Agent Tesla payload (confidence level: 95%),b6435d167628a91820c8440d2fbf10fe6f823e64c33a597eca56021322c47bb4
+md5,Agent Tesla payload (confidence level: 95%),623f50ad88aa92d583259a29fe5f9354
+sha1,Formbook payload (confidence level: 95%),2c4f6adb00fd49552d2e7030ff255ad3bd6b97dd
+sha256,Formbook payload (confidence level: 95%),65140ae2ddd1e19e3dcdd80ad3b6bd652e7388334e1bd1c526486a12b25df026
+md5,Formbook payload (confidence level: 95%),e8c3cf465dcd453a10cea3158132ffb0
+sha1,Coinminer payload (confidence level: 95%),a773f2999ab7b108ca4ae31c8ef0b844992a0a0e
+sha256,Coinminer payload (confidence level: 95%),88db7224a27c32a9c8e5b12e7be3204d483d2e1dcdd7038ca2d9e553de4a397b
+md5,Coinminer payload (confidence level: 95%),36dafaed8ee9d0258aba8180c4be7b0f
+sha1,Luca Stealer payload (confidence level: 95%),62d4f06e5066eb90ade757ef0bbfba8fcaca956b
+sha256,Luca Stealer payload (confidence level: 95%),384cce56ad1a254c76c022acf2c07580f3d0097a679c249f6341dc98e8e46b74
+md5,Luca Stealer payload (confidence level: 95%),07d6bc78fe695d6a51772a3dfb3b7000
+sha1,Vidar payload (confidence level: 95%),56558b246a371425732ca1f4e30cbb91848f3ebf
+sha256,Vidar payload (confidence level: 95%),84ce9a23b8ea3984ce58d0c5f5264f0231d97bbad8534a8a107558a00a7f7dc8
+md5,Vidar payload (confidence level: 95%),fa3672d0af6f0b439f76a1c046af599b
+sha1,Formbook payload (confidence level: 95%),632366a1fb052534fa38b65cb2b667e3848ba302
+sha256,Formbook payload (confidence level: 95%),9b6137a8a2aab203501a3131ae0aea965acf9afde14a739a5dbb5f5e7b08bfe1
+md5,Formbook payload (confidence level: 95%),4c8f5598deac94b8215d1e5dcfd5f3d1
+sha1,DCRat payload (confidence level: 95%),74529c269aeee0d5b855110400f8b9fa9dd94375
+sha256,DCRat payload (confidence level: 95%),ff42ccd0615ed68fd5f182a4b960d81c342f9bc66a4cfc604b6c59db8d34d9ac
+md5,DCRat payload (confidence level: 95%),0184b2c2c4e82a68bbd52734ed55368d
+sha1,MASS Logger payload (confidence level: 95%),48ba1c2824952416b480b3f3332ec584aa9f01a1
+sha256,MASS Logger payload (confidence level: 95%),0cc3c074aa5669e33c1abd322e74ad343beec2f0fe00c49123913c497daea1f7
+md5,MASS Logger payload (confidence level: 95%),9c3bb56ae418497369337a25fbef45f8
+sha1,Formbook payload (confidence level: 95%),aceb556fb39cdc2fd134709260d324704a058896
+sha256,Formbook payload (confidence level: 95%),099aab7e93cc90414b63769dba429546e4f98953f1c8304f6b8109e6fa0a824e
+md5,Formbook payload (confidence level: 95%),538eb03e70427ca0334908f1b185a88d
+sha1,RedLine Stealer payload (confidence level: 95%),a297976584f93ffd7ce2512452576a9c8f10cd42
+sha256,RedLine Stealer payload (confidence level: 95%),749af3b59eccdb2c5625afe9fcd959ac667915eeafc79f442617a5ce7612b27a
+md5,RedLine Stealer payload (confidence level: 95%),02598f00ab0df9d4140577996c1968da
+sha1,NetWire RC payload (confidence level: 95%),274815eeeb48168df9a54a0ea956df7077897693
+sha256,NetWire RC payload (confidence level: 95%),55ae2ce1f1fd51a8896b38ca5b82d61f67c46523ee83c612a169d1735786933a
+md5,NetWire RC payload (confidence level: 95%),2779ae34c7d28acff439c2c944c82505
+sha1,XWorm payload (confidence level: 95%),546984b6a6ec7ecf2f33aa35c94bcd5d97583bd6
+sha256,XWorm payload (confidence level: 95%),baf521d814327d8ea4539502bb7e03e12ecd4f8ed6320bbd5f240a10adf5c03e
+md5,XWorm payload (confidence level: 95%),db99a8575b32337562567b5d3754653b
+sha1,DCRat payload (confidence level: 95%),71d8c5882d2ad8bbda653c74f80c9037a1ef4058
+sha256,DCRat payload (confidence level: 95%),36a0f0513068557e9637665a79dfa03c77fa71b0e084a6e386d8f671f4e6a3cf
+md5,DCRat payload (confidence level: 95%),d665c5c267a9a308b2c3802314889acd
+sha1,DCRat payload (confidence level: 95%),a46e73fba6acd24eb5610ef09d7d54228dfa8183
+sha256,DCRat payload (confidence level: 95%),80e991e05aaf94cce8bce3daf2ce8b8cb49a2b7c5e06b96d3a6281801b16b9cb
+md5,DCRat payload (confidence level: 95%),78b5a4b1fc452143b346b06181b2e7a4
+sha1,Stealc payload (confidence level: 95%),2d094e3d8c12a487da83019ab8c57d8ab93f1904
+sha256,Stealc payload (confidence level: 95%),9383d88ed5d3618d78dada899ea134dd576c3839fb69b15b4802243bed01a31b
+md5,Stealc payload (confidence level: 95%),9de9c0aa9de7fc795e56fcffbd142959
+sha1,Remcos payload (confidence level: 95%),7b2821a084490674beaec4b5fe8f09b55a3d1892
+sha256,Remcos payload (confidence level: 95%),44b4e8fd5f88de4ef6a49b7d42e9b31c226f66346db7f73d3ad8aaf1074c7f12
+md5,Remcos payload (confidence level: 95%),1596334927e57914e454ffa56888e69d
+sha1,Nanocore RAT payload (confidence level: 95%),627ef2d5f82a4616c3ad2d82cdcce50c0a51e99d
+sha256,Nanocore RAT payload (confidence level: 95%),f99a35529d49c648c01518eb567398141b2ad7a809f88618c75b6f637cae3926
+domain,ClearFake payload delivery domain (confidence level: 100%),h7.4a8u6.ru
+md5,Nanocore RAT payload (confidence level: 95%),3445a601281ca68061d74dbd2bf137d0
+sha1,GUIDLOADER payload (confidence level: 95%),afa4213ad6ef298dc0e99e47eedb4749b662912a
+sha256,GUIDLOADER payload (confidence level: 95%),d899a46671c4d07c396298300fa8bccb84afef9953785cfb6caacd95b059543b
+md5,GUIDLOADER payload (confidence level: 95%),d9b1b50827d88268526294b0da5f08d6
+sha1,DarkTortilla payload (confidence level: 95%),72adef6c43aee8fc9240ee2c8fa9464a124a5fa0
+sha256,DarkTortilla payload (confidence level: 95%),56ba908c2c9804f2dbdf7efa846c376b6257715336bed8fdb9f8aa89ed46bfea
+md5,DarkTortilla payload (confidence level: 95%),10430f4d8fa49751d7886583a39a1945
+sha1,Remcos payload (confidence level: 95%),052fe7ec5d27f29237ea101bd29ca99c813a0dce
+sha256,Remcos payload (confidence level: 95%),008552c691b84f66447bc02a60209c2ca6e88415bae39de8eb5b72ffd5c0a5e3
+md5,Remcos payload (confidence level: 95%),7ab97c60b666cb32c67ccb42cd61a828
+sha1,Remcos payload (confidence level: 95%),1905a445d1cd5c984709c08faeff2c34c5a621a8
+sha256,Remcos payload (confidence level: 95%),48e1a37a6b3b5da91b27c1bed4cb16b104717fb6ed78e287d498e1c944ffe2c7
+md5,Remcos payload (confidence level: 95%),cb25212600f9790b6b7b71b2ae056366
+sha1,KrakenKeylogger payload (confidence level: 95%),149194a54caf26cf6e676384d79a17c334793f13
+sha256,KrakenKeylogger payload (confidence level: 95%),a41e95be482495af59de5e3d4ba9c298a93c2efedc25083de52c960cb64718bc
+md5,KrakenKeylogger payload (confidence level: 95%),fa279fd0825113e20b55a4a3990e57ee
+sha1,KrakenKeylogger payload (confidence level: 95%),8e64ecac580e56b5ce25025d475dce766c5f6eef
+sha256,KrakenKeylogger payload (confidence level: 95%),8a66d39f70c5e10e1cc7b7b108ac259281682ec4a09dbee9962e27ea4c5ad2b9
+md5,KrakenKeylogger payload (confidence level: 95%),953323775d5923cea85b30116152d97b
+sha1,KrakenKeylogger payload (confidence level: 95%),ca1a63cc124f49404b9512927b69a2e94b643d36
+sha256,KrakenKeylogger payload (confidence level: 95%),c9556f0dd8a84747a9eb4e92fd464bfdaccdec7d7adabdefd2e63751a7e6ba85
+md5,KrakenKeylogger payload (confidence level: 95%),94bc758909235bf6eee86a1e16af3f20
+sha1,KrakenKeylogger payload (confidence level: 95%),b45d02cf991d76968128724ed87112dc86cd2974
+sha256,KrakenKeylogger payload (confidence level: 95%),7b50accfe80d370e374def391c5d57fbf8c7a468d1f20e1274e59839dafbf2db
+md5,KrakenKeylogger payload (confidence level: 95%),239dc7604cb37bd8d05228a3296312d1
+sha1,troystealer payload (confidence level: 95%),459d6d57c8b3c07fd778c267a8ac8927d2b7839e
+sha256,troystealer payload (confidence level: 95%),dc60b3a787e014b5ed9ef2a3eb0d7b7d93ed800d0524a10d0eb8447d47b43926
+md5,troystealer payload (confidence level: 95%),6f5ae138326ff745f4a8d7d3621e7673
+sha1,KrakenKeylogger payload (confidence level: 95%),c19ab3f97d4c3071fcef4811a76161b652005b94
+sha256,KrakenKeylogger payload (confidence level: 95%),e0b4de8edbfab9c43be6369f3a1ec256e417d76f5358c2846126bb1fc43eafcf
+md5,KrakenKeylogger payload (confidence level: 95%),85ff2e4b83b16db8f1e7882862c423ac
+sha1,MASS Logger payload (confidence level: 95%),f3c86dd3c24409350cb7ac30f33f402f4ffb4bff
+sha256,MASS Logger payload (confidence level: 95%),9a71cc06cb3603748c3882854ed953eee0f24c6df20ab9682d5de23df81a0186
+md5,MASS Logger payload (confidence level: 95%),442db68ebef1ab8276b13437286fb28b
+sha1,Formbook payload (confidence level: 95%),b7dfe12a97ca292a01f1171919c856171f807e49
+sha256,Formbook payload (confidence level: 95%),4afa1a3905f439ddbcb073970fe4b19c3d273ccf805b35fa6ee6b334c9b81278
+md5,Formbook payload (confidence level: 95%),37c0f5a51a146ca0f629c9ab66845abf
+sha1,tRat payload (confidence level: 95%),5a26e28d4ba9cfb781b1e033c190f5a49724e0cb
+sha256,tRat payload (confidence level: 95%),5b26a53f7bb11c13765d349c2b835779bd1009a592f7a586726a42f8645b9234
+md5,tRat payload (confidence level: 95%),478e8d9fb4c302683925b9fbdae46abd
+sha1,DarkTortilla payload (confidence level: 95%),9a9168e58083386017724370ad89f5f29f6e3cd4
+sha256,DarkTortilla payload (confidence level: 95%),a42941472759b2fbbd3d8958263b1f83cf2619190b15926ff39bfdff12ab9964
+md5,DarkTortilla payload (confidence level: 95%),45ca534c46f05171477501366a3bdfab
+sha1,Formbook payload (confidence level: 95%),e5e220642054e11133ebb5ecd1dacc53baf96937
+sha256,Formbook payload (confidence level: 95%),d382c14c00727d820ed4991b16fd47b4d7cd1237866219674ad5d6e52dcf47ae
+md5,Formbook payload (confidence level: 95%),1ef18945439b6e7c3e430fdb7324f151
+sha1,Vidar payload (confidence level: 95%),e6f0d2ac6f78bbbd9e016536fcbdede3faac9323
+sha256,Vidar payload (confidence level: 95%),47d32350c47e93525e21a2586b6b598f31dbe59cbe54ce2f9fdbfcc6ab241b84
+md5,Vidar payload (confidence level: 95%),8746d33c6b6ded9ce01488e3a6eb3d45
+sha1,Arkei Stealer payload (confidence level: 95%),2faefc30dec4f5c19fe2b67d4ec2488b8b41d28d
+sha256,Arkei Stealer payload (confidence level: 95%),4d225eaad718f8ea4fdbf03df38658c82e175573f0c4a6a7f5c2fdc8c37d683f
+md5,Arkei Stealer payload (confidence level: 95%),f9f844483e958a66557d265d9a6e2b87
+sha1,Rhadamanthys payload (confidence level: 95%),a461a1a8c1cc28459c51ea462d5e5f64ce8d16ac
+sha256,Rhadamanthys payload (confidence level: 95%),1e53be9313b624ca36e549021df95a17b8b63e09dfe1f16813b21c8d6ce954dc
+md5,Rhadamanthys payload (confidence level: 95%),f85eeb42da10f9dfdcee805a440b9dee
+sha1,CollectorGoomba payload (confidence level: 95%),9a6bb0ec6ad679c545bb09c120758b1f0c2b4ff1
+sha256,CollectorGoomba payload (confidence level: 95%),ba9a535fef09dffd3fe3e63dd06f779de2c801d1aff84be74e65be76929a2bd2
+md5,CollectorGoomba payload (confidence level: 95%),53386c791e4fb61cd11c96ec32f70083
+sha1,QuantLoader payload (confidence level: 95%),296941ea430fc0b4c2be06238f7b9416b0264f5c
+sha256,QuantLoader payload (confidence level: 95%),26a72d8287a5ea4b7c92a302cd7730eefd7776a38c69b6cfabe91acf876b6138
+md5,QuantLoader payload (confidence level: 95%),48007f0f82c68ba169c6721d7401d024
+sha1,MASS Logger payload (confidence level: 95%),5c4d07ab7b00134bf5c1cc94e63c17900a1e9e1b
+sha256,MASS Logger payload (confidence level: 95%),4fb8397fe0b5c1b09dcaab11abef046d925e6bffa9ae9c02eae6d18a56b8f3b6
+md5,MASS Logger payload (confidence level: 95%),4e22218c3e9bcdc954e3961318daf2ef
+sha1,Rhadamanthys payload (confidence level: 95%),3495015f424d0d7c1e81917265f8e2ed8367c9ff
+sha256,Rhadamanthys payload (confidence level: 95%),17db994dce901d57e0fc893250777632e70581cff3e6e2d37a008843b099425f
+md5,Rhadamanthys payload (confidence level: 95%),838ba0f51955a08d248bc1f23ff0671f
+sha1,Rhadamanthys payload (confidence level: 95%),52474559ffe58f83ff336b92e045c40712ddc6f5
+sha256,Rhadamanthys payload (confidence level: 95%),360184fad3ab5d7bd18f7c3199ceec0f34ee64979ac64c2cc155f7d57794f2bb
+md5,Rhadamanthys payload (confidence level: 95%),e6a6e23a3ee0f4cc5e5977979fbdce85
+sha1,Rhadamanthys payload (confidence level: 95%),e23c10ed7ef411d4c51a99110fc8e1acb9c02a55
+sha256,Rhadamanthys payload (confidence level: 95%),9f8333d81c13ea426953b758140836cff2cf7e7f32e36738f118c6257c6efd34
+md5,Rhadamanthys payload (confidence level: 95%),88494bf0f231ea7a80ae0bee541ce9e9
+sha1,Feodo payload (confidence level: 95%),4f79f78a904ecc7ec9bb3ca48c126b8cb45c8875
+sha256,Feodo payload (confidence level: 95%),53214a1b38b07d4bc0b6b706825e563f0663184aa89f70873ae36f8d1eff0918
+md5,Feodo payload (confidence level: 95%),898775d0e73a60719a862b14ba38c218
+sha1,Amadey payload (confidence level: 95%),2c30be88fc2263ee8898411ec1265ac8b8f83ac4
+sha256,Amadey payload (confidence level: 95%),2591378c3dc6d559d1086febc5bccd77dd23aa3666a70ff450165e52b0db2990
+md5,Amadey payload (confidence level: 95%),753679075d41a3418c419ab93534957b
+sha1,MASS Logger payload (confidence level: 95%),3f2c35cc9847ef829519c3bea220e1a86edc6cd7
+sha256,MASS Logger payload (confidence level: 95%),752a406c3e6f56db0ca474d9ccd7b55b61ee5df6ab8d783092ea5df285a95153
+md5,MASS Logger payload (confidence level: 95%),d7ddfcc98229f93608d6a3459f0e2a9e
+sha1,ValleyRAT payload (confidence level: 95%),08796cc1bdd7152cf037d39ae7e088d474f9e3c8
+sha256,ValleyRAT payload (confidence level: 95%),b14996c4a93ff7d09795b113fb916c9588eb7efb4d64a1dbe190cfe937912209
+md5,ValleyRAT payload (confidence level: 95%),2f44b5da82cf7afb86cde6b25ab68dff
+sha1,Remcos payload (confidence level: 95%),3edb585d9ae2289103ab028b9894c4632fa7966d
+sha256,Remcos payload (confidence level: 95%),3cae17dc6bd7706ab2ff54ce1572604f701548eb64f2aa7b2d0d1dd483652720
+md5,Remcos payload (confidence level: 95%),9f1c644388f546aa50e178ce3aa1bdc5
+sha1,Vidar payload (confidence level: 95%),5187b37fea89f929e085e34a06f6c46a31032a20
+sha256,Vidar payload (confidence level: 95%),946124da25d5f44db9510df4e32324a60933be4f5ff0881ef402ef6f67ced0cf
+md5,Vidar payload (confidence level: 95%),14d1393dfed8bdaa1fb2696531adc874
+sha1,Rhadamanthys payload (confidence level: 95%),6302142154ccf4204731becf4ace2dfa409200a3
+sha256,Rhadamanthys payload (confidence level: 95%),8e4dd71adea36485a47afa4bc652bc7126a2b49f704fff4d0a6bbd7f5952918f
+md5,Rhadamanthys payload (confidence level: 95%),adff70713dc6025cd730d28c51b76687
+sha1,ValleyRAT payload (confidence level: 95%),a47682517307f21d6b09ddeb3fa23913202f0d70
+sha256,ValleyRAT payload (confidence level: 95%),6a6f91180a63a3a11238ad8c73a49f2341d944e3e5232d238b074db5d0f53002
+md5,ValleyRAT payload (confidence level: 95%),a07bd813566928a9c345a2fc225c3bd5
+sha1,KrakenKeylogger payload (confidence level: 95%),249c20d0491dba7c9cc9c9f93cafc5aebdc2a31f
+sha256,KrakenKeylogger payload (confidence level: 95%),fdd36a586f4979bb696ae7863c45e7332a6e318ef3a6189e1adec270fa698bb6
+md5,KrakenKeylogger payload (confidence level: 95%),94328c59a999bd9792d29509961ba9ef
+sha1,Agent Tesla payload (confidence level: 95%),2c52c270c3e705cb05112603f86c4f8feda3c981
+sha256,Agent Tesla payload (confidence level: 95%),f4f2bf8c021bc14f008f14eef6a1884b363f394a94cae1edfe9f90d13d93e274
+md5,Agent Tesla payload (confidence level: 95%),addd43768ab103d1c9f0b43332d5a3bd
+sha1,GCleaner payload (confidence level: 95%),ed74da0618d861e804f80e8aead0b542fda49d1e
+sha256,GCleaner payload (confidence level: 95%),7aa20099672e8dc0f13bde889491b9db5f38b58a1a3bb80e39b17689cc512e00
+md5,GCleaner payload (confidence level: 95%),690b24299174589fde64e441a25f3a7d
+sha1,Vidar payload (confidence level: 95%),1be2088aeb9f8157be6d0df89690a4811ea5efd7
+sha256,Vidar payload (confidence level: 95%),38c8897f756e526dac34654b91f82e5b4d892e55bd3f80ff53f4bf5ae53f0955
+md5,Vidar payload (confidence level: 95%),7eda2695e98af678a1a61a09424d12b5
+sha1,Coinminer payload (confidence level: 95%),fe7223413aab339d414a6fde47aa20901d29dcfd
+sha256,Coinminer payload (confidence level: 95%),36150e5544bab76fff0af720bf9288b08767a1d1316fc3e623af0d123099ed77
+md5,Coinminer payload (confidence level: 95%),76482d0ca56f3b9cda5ccc13ee6ed6e7
+sha1,Amadey payload (confidence level: 95%),3ccb798010cb0d9d3bfc77692b42cfe8be9fe8e6
+sha256,Amadey payload (confidence level: 95%),295d8cfdfd1e2ed35c709f6bebc41a27f2e2793938ad900527b4ccb3e682f691
+md5,Amadey payload (confidence level: 95%),72328873349276a4e1a6575d047bbb81
+sha1,Vidar payload (confidence level: 95%),931cdaad1394884eba15f2c237db7df88885ee0e
+sha256,Vidar payload (confidence level: 95%),4442b118e59af03640319a8881bce484466be654f2b9c29a007c91f739b9611c
+md5,Vidar payload (confidence level: 95%),723562aa14ddd7dbb78f98b8f14f4788
+sha1,AsyncRAT payload (confidence level: 95%),0651fdb3c8f9addf683ddb61c17f00545eb19586
+sha256,AsyncRAT payload (confidence level: 95%),7e762d20c586c2dde5d23deae32f258d76aece2663509079be9c8681b033bcfb
+md5,AsyncRAT payload (confidence level: 95%),ff1b43f40973426f5f1a9efe452aff18
+sha1,Rhadamanthys payload (confidence level: 95%),d9dbb9222700eea4535ed5640d03aa6b86ee26c8
+sha256,Rhadamanthys payload (confidence level: 95%),940b8f326d32d185fd4254207aaa70408e3b62ea4685935b15e33de37d3c1dac
+md5,Rhadamanthys payload (confidence level: 95%),620194552cf82188f4758971292b1a68
+sha1,StrelaStealer payload (confidence level: 95%),efcf359cf8314b21d66150f132a3e43b8c752538
+sha256,StrelaStealer payload (confidence level: 95%),68ceae64d7bd6c09e24598da9a4ab1e52f08a896384e8d3bc725c3688298d1bb
+md5,StrelaStealer payload (confidence level: 95%),a53d2eb503a01d00774ef28ed296387b
+sha1,Vidar payload (confidence level: 95%),13cd6a109c5531c498a87dd611e9c28d5d45395b
+sha256,Vidar payload (confidence level: 95%),298d1d1270bde42d9779641204888bf90c107e9d178096d720565ccc0fd8ef97
+md5,Vidar payload (confidence level: 95%),2c541513bdaeb2ba0015da93429c9715
+sha1,Vidar payload (confidence level: 95%),0418bdb8052101256304902f0512cc465c2599df
+sha256,Vidar payload (confidence level: 95%),ffe7220a9e1fb0847ffd766b1e0c4182e1d6eea4082137e5518c1cac39deef90
+md5,Vidar payload (confidence level: 95%),18d879244c26c3b3c581da022023a440
+sha1,Remcos payload (confidence level: 95%),7524f2c8270e205646de3466fa1a5a7a81005fcd
+sha256,Remcos payload (confidence level: 95%),5756bb7dd6781086bfa7c5af6786f9792c895f29900f37eb92284ab38224c8f8
+md5,Remcos payload (confidence level: 95%),55548c768c480cead454dfd3a607fc61
+sha1,KrakenKeylogger payload (confidence level: 95%),3738c9390b0737e0961506411f3713b6ea48240a
+sha256,KrakenKeylogger payload (confidence level: 95%),a0f222db8c40b6284375dc5a7b454a9c6712e670733befa13b5b0805947a82be
+md5,KrakenKeylogger payload (confidence level: 95%),a0192c1bb864eb9ab04ab7010bd60679
+sha1,GUIDLOADER payload (confidence level: 95%),90cb9b25084358c628e1d7cca8b67f40815a9efd
+sha256,GUIDLOADER payload (confidence level: 95%),b5d44eb79bb60df60b30f4157e958cb1a84c6ed93f2fb3767e96c573c27092e4
+md5,GUIDLOADER payload (confidence level: 95%),d08fed559e436d61713e63de037a44e9
+sha1,Agent Tesla payload (confidence level: 95%),92950aab4abd6bc0239b29ae5e7f8e69b595069d
+sha256,Agent Tesla payload (confidence level: 95%),af2e00ac22f2522f65d684d514a29971db860e045ec1f2a0c2310e0866d4050f
+md5,Agent Tesla payload (confidence level: 95%),d54d7563d3332a0423b954d21c11a20d
+sha1,DarkCloud Stealer payload (confidence level: 95%),ce7d88278536dfef0f0a1b3f6f687215cf6b9b4b
+sha256,DarkCloud Stealer payload (confidence level: 95%),08184b0273e5c2500821018836b3588d3b373722b7a842a522844252ca44d8f0
+md5,DarkCloud Stealer payload (confidence level: 95%),c471e6c7387bd12292b91cf14fa94671
+sha1,DarkTortilla payload (confidence level: 95%),f8cf07f2f738fe518ff7a0595217a89e9f987e1f
+sha256,DarkTortilla payload (confidence level: 95%),8f526c18a2151d5d43f9d3569696519bfb76a900fa8b7ff4e4f0100051730c8d
+md5,DarkTortilla payload (confidence level: 95%),b4a768830aefa1a351f5b239ffc9f6c5
+sha1,Rhadamanthys payload (confidence level: 95%),1fcf2946d767224ba8e4aca50c44c14ed9f36140
+sha256,Rhadamanthys payload (confidence level: 95%),968adf76dcc8eea2eeaac8012f34e0c37e45e8a9efce6520d76881213c7b9b3d
+md5,Rhadamanthys payload (confidence level: 95%),e63f6352918d0568671a7bbe35950ace
+domain,ClearFake payload delivery domain (confidence level: 100%),s.4y2o5.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),m8.4y2o5.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),vk.4y2o5.ru
+url,Amadey botnet C2 (confidence level: 100%),http://158.94.208.102/g8jejcds74f/index.php
+domain,ClearFake payload delivery domain (confidence level: 100%),x.4y2o5.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),r7.4y2o5.ru
