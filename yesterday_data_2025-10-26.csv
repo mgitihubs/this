@@ -1,0 +1,479 @@
+Type,Comment,Value
+sha256,Unknown Stealer payload (confidence level: 100%),9ffc66cfdbe4780957925370962a69757cb000b30e7dfa5788f160670364a326
+sha256,Unknown Stealer payload (confidence level: 100%),3930988ec97fe425cf4441f22dc4dca0aa086b3c7100ee2f67e13fe80b804151
+sha256,Unknown Stealer payload (confidence level: 100%),6bffe01c34b9ec6e91e6392b305ae7398918f7f996ae9858ea6c6d9b4499c6f0
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),45.94.31.42|7777
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),220.121.11.221|8443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),145.40.252.206|8443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),221.163.215.226|8443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),138.75.120.161|8443
+ip-dst|port,MooBot botnet C2 server (confidence level: 100%),152.42.197.32|80
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),116.62.151.244|3333
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),44.217.119.131|443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),159.203.70.73|443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),178.254.12.89|3333
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),91.98.114.154|443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),128.140.12.121|3333
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),157.90.231.173|443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),135.181.101.129|3333
+domain,FAKEUPDATES botnet C2 domain (confidence level: 100%),cpanel.sayyesmovement.ca
+ip-dst|port,Sliver botnet C2 server (confidence level: 100%),151.245.54.181|31337
+ip-dst|port,Crimson RAT botnet C2 server (confidence level: 100%),144.172.98.81|911
+ip-dst|port,AdaptixC2 botnet C2 server (confidence level: 100%),79.133.46.74|65432
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),128.0.118.72|8090
+domain,ClearFake payload delivery domain (confidence level: 100%),ik.yjor.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),rz.zi-qa.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),rz3.1e2u2a0.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),w5en.cdn-6-38.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),v8.ziqa.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),d9.4a7vci9.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),aa.b2-ra.ru
+ip-dst|port,ValleyRAT botnet C2 server (confidence level: 100%),8.210.134.138|5858
+domain,ClearFake payload delivery domain (confidence level: 100%),c4hz.cdn-6-38.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),mi.g-lim.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),p0la.cdn-6-38.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),mc.jeqr.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),kl.ko-lu.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),q3x.4a7vci9.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),ke.loxr.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),n7xs.cdn-6-38.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),0p.m7lo.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),m0k4.4a7vci9.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),7p.meqt.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),6b.n-jur.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),sw.njur.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),r8gk.fv0-93.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),oz.plx-5.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),a1.4a7vci9.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),w3ta.fv0-93.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),07.plx5.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),y7p2.4a7vci9.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),ue.r8li.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),jd5.fv0-93.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),b7.rvox.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),90.slaq.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),5qzn.fv0-93.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),oe.su-4n.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),vz8.4a7vci9.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),03.su4n.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),ck4v.fv0-93.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),11.t4mox.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),2p.twy-0.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),u1jd.fv0-93.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),t2.9i3mpa6.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),we.twy0.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),yf.vuln5.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),pz7h.xb1-60.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),5q.x-vo4.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),s4.xer-o.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),kz1.9i3mpa6.ru
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),47.121.135.201|443
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),186.169.57.143|5061
+ip-dst|port,Sliver botnet C2 server (confidence level: 100%),143.198.158.122|443
+ip-dst|port,Sliver botnet C2 server (confidence level: 100%),46.224.19.128|443
+ip-dst|port,Sliver botnet C2 server (confidence level: 100%),35.220.199.172|8443
+domain,ClearFake payload delivery domain (confidence level: 100%),n4wq.xb1-60.ru
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),178.16.54.184|9090
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),196.251.116.232|7443
+ip-dst|port,Havoc botnet C2 server (confidence level: 100%),37.72.168.176|443
+ip-dst|port,DCRat botnet C2 server (confidence level: 100%),182.16.11.155|8088
+ip-dst|port,DCRat botnet C2 server (confidence level: 100%),182.16.11.157|8088
+ip-dst|port,DCRat botnet C2 server (confidence level: 100%),182.16.11.156|8088
+ip-dst|port,Chaos botnet C2 server (confidence level: 100%),173.212.216.226|8080
+ip-dst|port,AdaptixC2 botnet C2 server (confidence level: 100%),178.16.53.135|4321
+ip-dst|port,Meterpreter botnet C2 server (confidence level: 100%),196.75.76.28|2222
+ip-dst|port,Empire Downloader botnet C2 server (confidence level: 100%),23.22.39.162|80
+domain,ClearFake payload delivery domain (confidence level: 100%),d8.xvo4.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),w9.yjor.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),kj.zi-qa.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),x7m.9i3mpa6.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),fm.ziqa.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),t8kc.xb1-60.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),1c.b2-ra.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),p0.9i3mpa6.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),ry.g-lim.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),j2yr.xb1-60.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),6d.jeqr.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),c6.ko-lu.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),h3v9.9i3mpa6.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),m6dx.xb1-60.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),20.loxr.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),bf.m7lo.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),qv5a.xb1-60.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),c4w.9i3mpa6.ru
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),23.160.168.167|4122
+ip-dst|port,NjRAT botnet C2 server (confidence level: 100%),188.215.31.4|5552
+domain,CyberGate botnet C2 domain (confidence level: 100%),leetaka1337.no-ip.org
+domain,CyberGate botnet C2 domain (confidence level: 100%),fogueteiro.webhop.biz
+ip-dst|port,ValleyRAT botnet C2 server (confidence level: 100%),103.86.44.18|69
+domain,ClearFake payload delivery domain (confidence level: 100%),40.n-jur.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),n4.5u5vbu6.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),g1tb.xf7-27.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),9y.njur.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),s9lp.xf7-27.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),b8q.5u5vbu6.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),fx.plx5.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),r0z1.5u5vbu6.ru
+url,Hook botnet C2 (confidence level: 50%),http://154.36.184.35/
+url,XWorm payload delivery URL (confidence level: 50%),https://reddesignandprint.co.uk/huc/?id=isaqt4rg5oquuggm
+url,XWorm payload delivery URL (confidence level: 50%),https://www.browse-health-insurance-plans.unitedhealthcare-group.uhc-com.vision-solution.top/?id=isaqt4rg5oquuggm
+domain,ClearFake payload delivery domain (confidence level: 100%),0wr.xf7-27.ru
+url,Glupteba botnet C2 (confidence level: 50%),https://5d8fd57c-62b0-48f1-b595-796cb6b6e7f4.server4.nisdably.com/
+url,Glupteba botnet C2 (confidence level: 50%),https://ww25.5d8fd57c-62b0-48f1-b595-796cb6b6e7f4.server2.ninhaine.com/
+url,AsyncRAT botnet C2 (confidence level: 50%),https://pastebin.com/raw/qphtbsru
+domain,AsyncRAT botnet C2 domain (confidence level: 50%),assettocorsamain.duckdns.org
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 50%),73.125.85.148|4782
+domain,DCRat botnet C2 domain (confidence level: 50%),cards-latin.gl.at.ply.gg
+domain,DCRat botnet C2 domain (confidence level: 50%),customers-commander.gl.at.ply.gg
+domain,DCRat botnet C2 domain (confidence level: 50%),law-necklace.gl.at.ply.gg
+domain,DCRat botnet C2 domain (confidence level: 50%),message-their.gl.at.ply.gg
+domain,DCRat botnet C2 domain (confidence level: 50%),perfect-shut.gl.at.ply.gg
+domain,DCRat botnet C2 domain (confidence level: 50%),qiuehwefu-62319.portmap.host
+ip-dst|port,DCRat botnet C2 server (confidence level: 50%),188.64.133.147|24419
+ip-dst|port,DCRat botnet C2 server (confidence level: 50%),188.64.133.147|8828
+ip-dst|port,DCRat botnet C2 server (confidence level: 50%),213.176.79.35|3232
+url,Loki Password Stealer (PWS) botnet C2 (confidence level: 50%),http://doupfate.ml/panel/fre.php
+domain,Mirai botnet C2 domain (confidence level: 50%),mirainetvbot.duckdns.org
+domain,Quasar RAT botnet C2 domain (confidence level: 50%),cofof37797-42209.portmap.host
+domain,XWorm botnet C2 domain (confidence level: 50%),final-highlight.gl.at.ply.gg
+ip-dst|port,XWorm botnet C2 server (confidence level: 50%),147.185.221.212|45283
+domain,FAKEUPDATES payload delivery domain (confidence level: 50%),joiner.best
+domain,ClearFake payload delivery domain (confidence level: 100%),yn.r8li.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),w.5u5vbu6.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),k3um.xf7-27.ru
+domain,Unknown malware botnet C2 domain (confidence level: 50%),modgovindia.com
+domain,Unknown malware botnet C2 domain (confidence level: 50%),newforsomething.rest
+domain,Unknown malware botnet C2 domain (confidence level: 50%),segy.zip
+domain,Unknown malware botnet C2 domain (confidence level: 50%),segy.shop
+domain,Unknown malware botnet C2 domain (confidence level: 50%),segy.cc
+domain,Unknown malware botnet C2 domain (confidence level: 50%),segy2.cc
+domain,ClearFake payload delivery domain (confidence level: 100%),aw.rvox.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),y8ce.xf7-27.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),rg.slaq.ru
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),1.94.53.8|80
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),196.251.115.229|2404
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),185.29.10.122|2404
+ip-dst|port,Sliver botnet C2 server (confidence level: 100%),195.246.230.161|8443
+ip-dst|port,Sliver botnet C2 server (confidence level: 100%),182.255.46.151|443
+ip-dst|port,Sliver botnet C2 server (confidence level: 100%),145.241.249.54|8443
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),31.57.97.136|8808
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),95.9.236.210|9999
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),34.29.218.146|7443
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),54.179.178.191|443
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 100%),69.197.183.159|8000
+ip-dst|port,DCRat botnet C2 server (confidence level: 100%),185.91.127.173|6000
+ip-dst|port,MooBot botnet C2 server (confidence level: 100%),159.223.50.225|80
+ip-dst|port,AdaptixC2 botnet C2 server (confidence level: 100%),43.229.150.111|4321
+ip-dst|port,Meterpreter botnet C2 server (confidence level: 100%),54.205.208.230|22322
+ip-dst|port,Meterpreter botnet C2 server (confidence level: 100%),45.14.246.128|5555
+ip-dst|port,AMOS botnet C2 server (confidence level: 100%),62.60.131.249|80
+domain,ClearFake payload delivery domain (confidence level: 100%),g6k2.5u5vbu6.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),o4.su-4n.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),b4nz.xf7-27.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),ba.su4n.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),ak.t4mox.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),amber.fenod.online
+domain,ClearFake payload delivery domain (confidence level: 100%),m3t.5u5vbu6.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),9f.twy-0.ru
+url,Amadey botnet C2 (confidence level: 100%),http://196.251.81.93/hmfd8ejds/login.php
+url,Amadey botnet C2 (confidence level: 100%),http://mail.logrecovery.com/hmfd8ejds/login.php
+url,Amadey botnet C2 (confidence level: 100%),http://www.logrecovery.com/hmfd8ejds/login.php
+url,Amadey botnet C2 (confidence level: 100%),http://ns2.logrecovery.com/hmfd8ejds/login.php
+ip-dst|port,Brute Ratel C4 botnet C2 server (confidence level: 75%),207.180.216.244|443
+domain,ClearFake payload delivery domain (confidence level: 100%),rn.twy0.ru
+ip-dst|port,DeimosC2 botnet C2 server (confidence level: 75%),60.163.142.133|10250
+ip-dst|port,DeimosC2 botnet C2 server (confidence level: 75%),70.183.54.124|8080
+ip-dst|port,DeimosC2 botnet C2 server (confidence level: 75%),77.110.100.54|443
+domain,ClearFake payload delivery domain (confidence level: 100%),iyr1c.fenod.online
+domain,ClearFake payload delivery domain (confidence level: 100%),a1.vuln5.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),fern.sne4p.online
+ip-dst|port,Havoc botnet C2 server (confidence level: 75%),184.82.96.153|444
+domain,ClearFake payload delivery domain (confidence level: 100%),6y.x-vo4.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),8h.xer-o.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),prism.fenod.online
+domain,ClearFake payload delivery domain (confidence level: 100%),bark.sne4p.online
+domain,ClearFake payload delivery domain (confidence level: 100%),9o.xvo4.ru
+ip-dst|port,NjRAT botnet C2 server (confidence level: 100%),147.185.221.229|50473
+domain,ClearFake payload delivery domain (confidence level: 100%),ln.yjor.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),flint.fenod.online
+ip-dst|port,Rhadamanthys botnet C2 server (confidence level: 100%),158.94.208.93|443
+domain,ClearFake payload delivery domain (confidence level: 100%),m1nt.sne4p.online
+domain,ClearFake payload delivery domain (confidence level: 100%),3u.zi-qa.ru
+ip-dst|port,Rhadamanthys botnet C2 server (confidence level: 100%),158.94.208.98|443
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),alumibro.asia
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),meeukdt.locker
+domain,ClearFake payload delivery domain (confidence level: 100%),cedar.fenod.online
+domain,ClearFake payload delivery domain (confidence level: 100%),lf.ziqa.ru
+url,Amadey botnet C2 (confidence level: 100%),http://196.251.81.93/hmfd8ejds/index.php
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),196.251.88.188|8808
+ip-dst|port,DeimosC2 botnet C2 server (confidence level: 100%),139.199.157.125|8443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),81.94.94.99|8443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),135.23.161.85|8443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),24.10.126.194|8443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),207.38.227.101|8443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),211.114.133.103|8443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),108.168.8.135|8443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),61.76.175.46|8443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),210.222.156.151|8443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),222.112.130.92|8443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),37.203.250.52|8443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),220.121.206.37|8443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),14.44.67.60|8443
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),166.88.142.69|3333
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),148.230.99.234|3333
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),192.210.235.240|80
+domain,ClearFake payload delivery domain (confidence level: 100%),y2.b2-ra.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),zebra.fenod.online
+domain,ClearFake payload delivery domain (confidence level: 100%),5w.g-lim.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),r0se.sne4p.online
+domain,ClearFake payload delivery domain (confidence level: 100%),4f.jeqr.ru
+url,Unknown malware payload delivery URL (confidence level: 50%),https://68gamewin7.shop/
+url,Unknown malware payload delivery URL (confidence level: 50%),https://freelawchat.ai/captcha/?pop
+url,Unknown malware payload delivery URL (confidence level: 50%),https://urlz.fr/urco
+url,Unknown malware payload delivery URL (confidence level: 50%),https://whitebarsunlight.top/wwww/daily/top
+url,Unknown malware payload delivery URL (confidence level: 50%),https://willowabbyoptimization-dot-elite-magpie-462511-c4.uc.r.appspot.com/?c=1iidkbycruqugh1xeflymky8o8xbzz_govxczm4l7agu&q=0&r=19a0ca4afc628ad9&z=1761148710684&o=https://maccablog.com/how-to-safely-update-the-electrical-systems-in-your-home/
+url,Unknown malware payload delivery URL (confidence level: 50%),https://5w.g-lim.ru/9xfc0noz
+url,Unknown malware payload delivery URL (confidence level: 50%),https://zebra.fenod.online/8ozkn69k3n.sh
+url,Unknown malware payload delivery URL (confidence level: 50%),https://up.freeandlast.com/app.bin
+url,Unknown malware payload delivery URL (confidence level: 50%),https://4f.jeqr.ru/ql3qfvot
+url,Unknown malware payload delivery URL (confidence level: 100%),https://www.npa-eportal.digital-service.elster-de.status-drive.top/eportal/
+url,Unknown malware payload delivery URL (confidence level: 100%),https://package2879-core-maht-improved.s3.ap-northeast-2.amazonaws.com/yw87ybm77yrtva
+domain,Unknown malware payload delivery domain (confidence level: 100%),www.npa-eportal.digital-service.elster-de.status-drive.top
+domain,Unknown malware payload delivery domain (confidence level: 100%),package2879-core-maht-improved.s3.ap-northeast-2.amazonaws.com
+url,Unknown malware payload delivery URL (confidence level: 50%),https://avsomi.co/categories/
+domain,ClearFake payload delivery domain (confidence level: 100%),lm.ko-lu.ru
+url,AsyncRAT payload delivery URL (confidence level: 100%),http://178.16.55.189/sky/clinet.exe
+domain,ClearFake payload delivery domain (confidence level: 100%),tide.sne4p.online
+domain,ClearFake payload delivery domain (confidence level: 100%),maple.q0spi.online
+domain,ClearFake payload delivery domain (confidence level: 100%),lb.loxr.ru
+domain,Unknown Stealer botnet C2 domain (confidence level: 100%),gamedb.shop
+domain,Unknown Stealer botnet C2 domain (confidence level: 100%),cloudupdate.cfd
+domain,Unknown Stealer botnet C2 domain (confidence level: 100%),cybertecha.shop
+domain,Unknown Stealer botnet C2 domain (confidence level: 100%),browsertools.shop
+domain,ClearFake payload delivery domain (confidence level: 100%),raven.q0spi.online
+domain,ClearFake payload delivery domain (confidence level: 100%),8t.m7lo.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),i3.meqt.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),azure.q0spi.online
+domain,ClearFake payload delivery domain (confidence level: 100%),2t.n-jur.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),v0id.sne4p.online
+domain,ClearFake payload delivery domain (confidence level: 100%),grain.q0spi.online
+domain,ClearFake payload delivery domain (confidence level: 100%),9i.njur.ru
+sha256,Unknown malware payload (confidence level: 50%),9ffc1446b20f86295bd48ea59037bc48a2258884a7ae9df27cb21ec49671bca5
+sha256,Unknown malware payload (confidence level: 50%),805f6c57b3ae3337c585c473536f4e2a6e876bbe786f04cc61fb14cba1074ee3
+sha256,Unknown malware payload (confidence level: 50%),654a646061bebc74ef1f6d293b361c56f6606b97c10d868c49be32644bd27826
+sha256,Unknown malware payload (confidence level: 50%),9cc4bcedcd9de532ff0d785ff0b37e8b55791d823f638f0edc39f836d7ff4c91
+sha256,Unknown malware payload (confidence level: 50%),b54311c6ccdd664babdc1c0a009d3432d4da71fbef4b72f4380e10e90409fe3d
+sha256,Unknown malware payload (confidence level: 50%),c232a955b38134091bef955bb14f428113cd93ad5e217e675a286a4356378c05
+sha256,Unknown malware payload (confidence level: 50%),7301372b7078f8c757d024af36816c34d1808d4413b26664b4f06dd7faacd887
+sha256,Unknown malware payload (confidence level: 50%),7f5fc9cc2053f60376e386576380e6e682c4b9211bc4c0db70f72a3d91ad5e32
+sha256,Unknown malware payload (confidence level: 50%),754e0f1f6787af5032234b1d729f76339e4ddc9ef3ac6c1dc927f8f91b5b2fb2
+sha256,Unknown malware payload (confidence level: 50%),59b2255d1b16d4018fc5e548401d3da0edef578b687396f164615ba8e5c4dd05
+sha256,Unknown malware payload (confidence level: 50%),61bd90820d5adbddba2dd56a5d91426062ce400b7825f65d553dc47347a1a01a
+sha256,Unknown malware payload (confidence level: 50%),7ecbe3ff34cdb817793dedf8c55aef4d14088498420ddd2d767d1b53c5688130
+sha256,Unknown malware payload (confidence level: 50%),e9d5972bcbbd7ccd746fb036437387275b7991386abf877b2558bab891137428
+sha256,Unknown malware payload (confidence level: 50%),c97d04cf473f9e70d953c64b4dc0adc9a9d7ca8cd91cdac4110372ba71b72008
+sha256,Unknown malware payload (confidence level: 50%),eb1804e0f2590159bcf3276b2b2f9252cc7051b4a5107bf49d99eec126a81248
+sha256,Unknown malware payload (confidence level: 50%),dae374886069d53a18030df9941dd51caf3edfa4ab3543a1b2351676441ffa17
+sha256,Unknown malware payload (confidence level: 50%),1508afeeabdab62325c58f207c472a1eb2ffcdc09e678f72aa1658fcd1de3d5b
+sha256,Unknown malware payload (confidence level: 50%),7437b69717892a0dcaf9c1c9b9d03b151a8a425a3bb3c6d34eb8997a29dc8b22
+sha256,Unknown malware payload (confidence level: 50%),9d8f7028b8353aadb03d8f1eb44b826609d986f9eca2f050904912b028907e71
+sha256,Unknown malware payload (confidence level: 50%),e8e317afe87eabd1f0569bda7b25b554897e7d155b2c330ad5b644ead75c47ea
+sha256,Unknown malware payload (confidence level: 50%),b7d8722aa4349ac47c5d7d38f3dcede52b217c2f85aeb1ab8fa51157eeab5906
+sha256,Unknown malware payload (confidence level: 50%),ff1ec9414064df1bffc804b44affc66b11ba3d6c167eba9fd9eb0cb6a2262ec3
+sha256,Unknown malware payload (confidence level: 50%),607f9c734b6fcc98809442d12d8c024e297c89765f46f5cfc591051d8666e1a0
+sha256,Unknown malware payload (confidence level: 50%),2da7fffdeac33515edf7d8dde242f8dbebc780021bce33829f45ed5ec603a381
+sha256,Unknown malware payload (confidence level: 50%),b704adf6c260719c6edf2dd3ab66649f0fd9f0e0be4d2ff245dd463595cc2f41
+sha256,Unknown malware payload (confidence level: 50%),804f90f325f7ffc113aea0a4f417964b2e8a727d642d751a4290453b18164bf3
+sha256,Unknown malware payload (confidence level: 50%),3ea399617401b1ba8421b7df0aadae4e2130644ef19b752ed255dcabbd2b5e42
+sha256,Unknown malware payload (confidence level: 50%),5055e9222ea659c2d8b6b143ffffc7b9dbbf07b144ed9e85996bf3aaa75f328c
+sha256,Unknown malware payload (confidence level: 50%),02167fa4c026eb3b4ea925e833e91ca9d76d6605a3c641a990af8d6464c86a2c
+sha256,Unknown malware payload (confidence level: 50%),6c3984139cc4b6a62d0c82c1c911c67cd053b8a0f8d12d9891d4332bbfabf6d0
+sha256,Unknown malware payload (confidence level: 50%),74e19628c9f8e24cec30eca2adf2836905dd0102cb519102b4c8fe29034f7d7e
+sha256,Unknown malware payload (confidence level: 50%),5d8eeb0b2774be5d88735f6f4e7097865cf6862e07279d1fc680f6b4bdff8d5e
+sha256,Unknown malware payload (confidence level: 50%),454ebdcdaa6870923e34c005bb7ba12decb09c5531e8e2cb4efdf79cbe7e3eaf
+sha256,Unknown malware payload (confidence level: 50%),d3d6c64ed37ae0fa3a40847903075607c2e94a3f4e9b058b52adf73859fad19c
+sha256,Unknown malware payload (confidence level: 50%),e20adf46bf820dee6541604630b99ddd1ff6466a80c929c9b5cd1ac4df2faf41
+sha256,Unknown malware payload (confidence level: 50%),4b4edd4547f22b7e32b57ce27f750a3671609b838c30d5b7478fd4fc6491e223
+sha256,Unknown malware payload (confidence level: 50%),5f3769ec16f8aec7da00d245ec9bf42193e910b9daad4694fb7b74a76c3e5515
+sha256,Unknown malware payload (confidence level: 50%),aa90218dacfc96ddaf18d486f3418bfbfa49bf828e77b8e191727b93b7b98d90
+sha256,Unknown malware payload (confidence level: 50%),eac0dfd47d920923cc375027178bd0c2e1e02f9c6188262079e2f2da55d0e7ff
+sha256,Unknown malware payload (confidence level: 50%),c7d670a42beb908111dfe044c679c83aeaea01441111b1f81364c5a1bca64e3d
+sha256,Unknown malware payload (confidence level: 50%),bafb54182ae53e41a305fa1f2772a5fbd06a10b7b80264414029b64250d3eccf
+domain,ClearFake payload delivery domain (confidence level: 100%),28.plx-5.ru
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),196.251.72.69|1948
+domain,ClearFake payload delivery domain (confidence level: 100%),qu1rk.q0spi.online
+domain,ClearFake payload delivery domain (confidence level: 100%),8q.r8li.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),pearl.q0spi.online
+domain,ClearFake payload delivery domain (confidence level: 100%),kh.rvox.ru
+domain,Lumma Stealer botnet C2 domain (confidence level: 50%),tlgrm-redirect.icu
+domain,ClearFake payload delivery domain (confidence level: 100%),w7.slaq.ru
+url,Unknown malware payload delivery URL (confidence level: 50%),https://tlgrm-redirect.icu/1.txt
+ip-dst|port,XWorm botnet C2 server (confidence level: 100%),159.203.100.206|25565
+domain,XWorm botnet C2 domain (confidence level: 100%),links-rwanda.gl.at.ply.gg
+domain,XWorm botnet C2 domain (confidence level: 100%),single-finally.gl.at.ply.gg
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),139.180.131.34|10001
+domain,Mirai botnet C2 domain (confidence level: 50%),wanfeng168.top
+ip-dst|port,Unknown malware botnet C2 server (confidence level: 100%),165.154.5.76|7443
+ip-dst|port,NetSupportManager RAT botnet C2 server (confidence level: 100%),125.25.110.70|7443
+url,Kimsuky botnet C2 (confidence level: 50%),https://www.bn.cail1teve.mydns.bz/
+ip-dst|port,ValleyRAT botnet C2 server (confidence level: 100%),103.86.44.18|73
+ip-dst|port,ValleyRAT botnet C2 server (confidence level: 100%),103.86.44.18|288
+domain,ClearFake payload delivery domain (confidence level: 100%),clay.uht3o.online
+domain,CyberGate botnet C2 domain (confidence level: 100%),cybergate.myvnc.com
+domain,CyberGate botnet C2 domain (confidence level: 100%),mahmoudzoroo.myftp.biz
+url,SpyNote botnet C2 (confidence level: 50%),https://de78.toptubereviews.top/
+domain,ClearFake payload delivery domain (confidence level: 100%),0g.su-4n.ru
+url,Loki Password Stealer (PWS) botnet C2 (confidence level: 100%),http://www.szonlane.net/lertyui9/gerty56/fre.php
+domain,ClearFake payload delivery domain (confidence level: 100%),peak.uht3o.online
+domain,ClearFake payload delivery domain (confidence level: 100%),0xide.lizqa.online
+domain,ClearFake payload delivery domain (confidence level: 100%),xd.su4n.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),gale.uht3o.online
+domain,ClearFake payload delivery domain (confidence level: 100%),81.t4mox.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),plush.lizqa.online
+domain,ClearFake payload delivery domain (confidence level: 100%),d2.twy-0.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),charm.lizqa.online
+domain,ClearFake payload delivery domain (confidence level: 100%),au.twy0.ru
+ip-dst|port,Meterpreter botnet C2 server (confidence level: 75%),187.10.174.10|443
+domain,ClearFake payload delivery domain (confidence level: 100%),zl.vuln5.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),candy.lizqa.online
+domain,ClearFake payload delivery domain (confidence level: 100%),cd.x-vo4.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),wm.xer-o.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),tidal.lizqa.online
+domain,ClearFake payload delivery domain (confidence level: 100%),yu.xvo4.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),ve1l.uht3o.online
+domain,ClearFake payload delivery domain (confidence level: 100%),nexu5.lizqa.online
+domain,ClearFake payload delivery domain (confidence level: 100%),y5.yjor.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),p1.zi-qa.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),l00m.uht3o.online
+domain,ClearFake payload delivery domain (confidence level: 100%),qh.ziqa.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),fern.sne-4-p.online
+domain,ClearFake payload delivery domain (confidence level: 100%),x2.b2-ra.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),mist.sne-4-p.online
+domain,ClearFake payload delivery domain (confidence level: 100%),5b.g-lim.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),j5.jeqr.ru
+ip-dst|port,Amadey botnet C2 server (confidence level: 50%),196.251.81.93|80
+domain,ClearFake payload delivery domain (confidence level: 100%),z1.ko-lu.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),sk.loxr.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),gl0w.sne-4-p.online
+domain,ClearFake payload delivery domain (confidence level: 100%),9z.m7lo.ru
+ip-dst|port,ValleyRAT botnet C2 server (confidence level: 100%),124.66.208.108|69
+domain,ClearFake payload delivery domain (confidence level: 100%),m0ss.uht3o.online
+url,Lumma Stealer botnet C2 (confidence level: 75%),https://unembel.locker/api
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),nobles.locker
+domain,Lumma Stealer botnet C2 domain (confidence level: 100%),unembel.locker
+ip-dst|port,Remcos botnet C2 server (confidence level: 100%),196.251.115.117|2404
+ip-dst|port,Sliver botnet C2 server (confidence level: 100%),182.182.165.151|31337
+ip-dst|port,Kaiji botnet C2 server (confidence level: 100%),5.231.70.68|808
+ip-dst|port,Meterpreter botnet C2 server (confidence level: 100%),125.32.67.136|10001
+ip-dst|port,Meterpreter botnet C2 server (confidence level: 100%),179.43.126.100|4444
+ip-dst|port,BianLian botnet C2 server (confidence level: 100%),178.172.227.128|80
+domain,ClearFake payload delivery domain (confidence level: 100%),tk.n-jur.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),bark.sne-4-p.online
+domain,ClearFake payload delivery domain (confidence level: 100%),8v.njur.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),e8.plx-5.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),1o.r8li.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),tide.sne-4-p.online
+domain,ClearFake payload delivery domain (confidence level: 100%),el.rvox.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),mist.jg-7-ra.online
+domain,ClearFake payload delivery domain (confidence level: 100%),0y.slaq.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),co.su-4n.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),c0al.sne-4-p.online
+domain,ClearFake payload delivery domain (confidence level: 100%),s0il.jg-7-ra.online
+domain,ClearFake payload delivery domain (confidence level: 100%),21.su4n.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),5e.t4mox.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),v7mx.y-p-19.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),fd.twy-0.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),c2hf.y-p-19.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),os.twy0.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),3ql.y-p-19.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),s7.vuln5.ru
+domain,XWorm botnet C2 domain (confidence level: 100%),212.ip.gl.ply.gg
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),136.0.157.34|6606
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),136.0.157.34|7707
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 100%),136.0.157.34|8808
+url,Amadey botnet C2 (confidence level: 100%),http://mi.overlapsnowbound.com
+domain,NjRAT botnet C2 domain (confidence level: 100%),know-studied.gl.at.ply.gg
+ip-dst|port,ValleyRAT botnet C2 server (confidence level: 100%),124.66.208.108|73
+ip-dst|port,ValleyRAT botnet C2 server (confidence level: 100%),124.66.208.108|288
+ip-dst|port,ValleyRAT botnet C2 server (confidence level: 100%),122.10.24.243|6666
+ip-dst|port,ValleyRAT botnet C2 server (confidence level: 100%),122.10.24.243|8888
+ip-dst|port,ValleyRAT botnet C2 server (confidence level: 100%),122.10.24.243|80
+domain,ClearFake payload delivery domain (confidence level: 100%),ui.x-vo4.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),z5kr.y-p-19.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),sp.xer-o.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),dawn.jg-7-ra.online
+domain,ClearFake payload delivery domain (confidence level: 100%),l4.xvo4.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),q3.yjor.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),u9tw.y-p-19.ru
+ip-dst|port,DeimosC2 botnet C2 server (confidence level: 75%),117.169.5.67|10250
+ip-dst|port,Remcos botnet C2 server (confidence level: 75%),196.251.114.32|2404
+ip-dst|port,Sliver botnet C2 server (confidence level: 75%),37.221.67.185|31337
+domain,ClearFake payload delivery domain (confidence level: 100%),wf.zi-qa.ru
+ip-dst|port,NetSupportManager RAT botnet C2 server (confidence level: 75%),54.215.110.48|55615
+ip-dst|port,Sliver botnet C2 server (confidence level: 75%),62.106.66.157|8080
+ip-dst|port,AsyncRAT botnet C2 server (confidence level: 75%),95.9.236.210|888
+domain,ClearFake payload delivery domain (confidence level: 100%),bd.ziqa.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),h1gd.y-p-19.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),v0.b2-ra.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),a7px.i-d-96.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),bw.g-lim.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),6t.jeqr.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),r1se.jg-7-ra.online
+domain,ClearFake payload delivery domain (confidence level: 100%),8d.ko-lu.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),r0ce.i-d-96.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),kf.loxr.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),v1.0ouuky0.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),r3.m7lo.ru
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 100%),47.92.220.70|8443
+ip-dst|port,SectopRAT botnet C2 server (confidence level: 100%),81.91.177.192|9000
+ip-dst|port,NetSupportManager RAT botnet C2 server (confidence level: 100%),16.79.127.166|60000
+domain,ClearFake payload delivery domain (confidence level: 100%),ms.meqt.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),cr.n-jur.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),w6jl.i-d-96.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),33.njur.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),x7.plx-5.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),d3yk.i-d-96.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),w4.r8li.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),7w.rvox.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),t4ub.i-d-96.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),l0.slaq.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),q0h3.0ouuky0.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),m9sn.i-d-96.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),yb.su-4n.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),s.0ouuky0.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),ru.su4n.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),52.t4mox.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),k1zw.i-c-81.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),y5n.0ouuky0.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),nn.twy-0.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),y3pq.i-c-81.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),sq.twy0.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),f8rn.i-c-81.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),jg.vuln5.ru
+ip-dst|port,Quasar RAT botnet C2 server (confidence level: 75%),194.107.126.124|6379
+domain,ClearFake payload delivery domain (confidence level: 100%),2lh.i-c-81.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),wj.x-vo4.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),ma.xer-o.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),n5vx.i-c-81.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),0q.xvo4.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),s0ga.i-c-81.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),iv.yjor.ru
+ip-dst|port,Cobalt Strike botnet C2 server (confidence level: 75%),175.178.98.112|443
+domain,ClearFake payload delivery domain (confidence level: 100%),q6yt.o-b-79.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),e1mk.o-b-79.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),7d.ziqa.ru
+url,Lumma Stealer botnet C2 (confidence level: 75%),https://nobles.locker/api
+domain,ClearFake payload delivery domain (confidence level: 100%),4wj.o-b-79.ru
+url,Lumma Stealer botnet C2 (confidence level: 75%),https://pitchz.locker/api
+domain,ClearFake payload delivery domain (confidence level: 100%),ge1.xa5r.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),x2z.7aoasu3.ru
+ip-dst|port,N-W0rm botnet C2 server (confidence level: 100%),64.188.64.59|3333
+domain,ClearFake payload delivery domain (confidence level: 100%),x9pa.o-b-79.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),did.vex0.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),7rcl.o-b-79.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),raw.ju5q.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),p0sb.o-b-79.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),mob.m4rj.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),z3mp.4-l8u.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),dip.qen9.ru
+domain,ClearFake payload delivery domain (confidence level: 100%),m7y1.7aoasu3.ru
